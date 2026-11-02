@@ -2,6 +2,8 @@
 
 Site institucional e acervo digital do **Museu do Médio São Francisco** (Bom Jesus da Lapa, Bahia).
 
+Site publicado no Cloudflare Pages.
+
 > O site é a primeira sala aberta ao público do museu, reunindo acervo histórico, salas temáticas, cidades ribeirinhas, linha do tempo interativa e cartografia do Rio São Francisco.
 
 ## 🏛️ Estrutura do Projeto
