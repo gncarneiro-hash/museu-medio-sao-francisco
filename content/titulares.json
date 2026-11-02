@@ -731,5 +731,72 @@
       "januaria",
       "pirapora"
     ]
+  },
+  {
+    "id": "wilson-lins",
+    "nome": "Wilson Lins",
+    "datas": "Pilão Arcado, BA, 1919 – Salvador, BA, 2004",
+    "papel": "Escritor, sociólogo sertanejo e ex-presidente da ALBA",
+    "resumoCurto": "Autor de O Médio São Francisco: uma sociedade de pastores e guerreiros (1952) e Os Cabras do Coronel (1964), principal cronista do coronelismo e das toadas dos remeiros.",
+    "biografiaCompleta": "Nascido em Pilão Arcado, Wilson Mascarenhas Lins de Albuquerque (1919–2004) foi deputado estadual, presidente da Assembleia Legislativa da Bahia (1969–1971) e membro da Academia de Letras da Bahia (Cadeira 38). Em 1952, publicou O Médio São Francisco: uma sociedade de pastores e guerreiros, ensaio seminal que registrou o poder supremo de Bom Jesus da Lapa sobre o imaginário sertanejo e a toada dos remeiros do \"ABC da Carreira Grande\". Sua tetralogia ficcional (Os Cabras do Coronel, O Reduto, Remanso da Valentia e Militão sem Remorso) permanece como o mais vivo retrato do banditismo e do coronelismo sanfranciscano.",
+    "cronologia": [
+      {
+        "ano": "1919",
+        "fato": "Nasce em Pilão Arcado, no sertão do Médio São Francisco."
+      },
+      {
+        "ano": "1951",
+        "fato": "Eleito deputado estadual na Bahia, iniciando longa vida pública."
+      },
+      {
+        "ano": "1952",
+        "fato": "Publica o clássico \"O Médio São Francisco: uma sociedade de pastores e guerreiros\"."
+      },
+      {
+        "ano": "1964",
+        "fato": "Publica \"Os Cabras do Coronel\", inaugurando seu ciclo ficcional sertanejo."
+      },
+      {
+        "ano": "1965",
+        "fato": "Publica \"O Reduto\", romance sobre as guerras armadas no vale."
+      },
+      {
+        "ano": "1967",
+        "fato": "Eleito para a Cadeira nº 38 da Academia de Letras da Bahia e publica \"Remanso da Valentia\"."
+      },
+      {
+        "ano": "1969",
+        "fato": "Assume a presidência da Assembleia Legislativa do Estado da Bahia (até 1971)."
+      },
+      {
+        "ano": "1980",
+        "fato": "Publica \"Militão sem Remorso\", concluindo sua célebre tetralogia."
+      },
+      {
+        "ano": "2004",
+        "fato": "Falece em Salvador, aos 85 anos."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Academia de Letras da Bahia (ALB) / Assembleia Legislativa da Bahia (ALBA) / Fundação Pedro Calmon",
+      "colecao": "Fundo Parlamentar e Literário Wilson Lins",
+      "link": "https://www.al.ba.gov.br",
+      "comoPedir": "Discursos parlamentares arquivados na ALBA e acervo bibliográfico nas bibliotecas públicas da Bahia."
+    },
+    "publicacoesExposicoes": [
+      "Lins, Wilson. O Médio São Francisco: uma sociedade de pastores e guerreiros. Salvador: Progresso, 1952.",
+      "Lins, Wilson. Os Cabras do Coronel. Rio de Janeiro: GRD, 1964.",
+      "Lins, Wilson. O Reduto. Salvador: Progresso, 1965.",
+      "Lins, Wilson. Remanso da Valentia. São Paulo: Martins, 1967."
+    ],
+    "salasRelacionadas": [
+      13,
+      14
+    ],
+    "cidadesRelacionadas": [
+      "pilao-arcado",
+      "bom-jesus-da-lapa",
+      "remanso"
+    ]
   }
 ]

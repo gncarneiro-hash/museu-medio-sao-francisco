@@ -1021,6 +1021,73 @@ window.MUSEU_EXTRAS = {
         "januaria",
         "pirapora"
       ]
+    },
+    {
+      "id": "wilson-lins",
+      "nome": "Wilson Lins",
+      "datas": "Pilão Arcado, BA, 1919 – Salvador, BA, 2004",
+      "papel": "Escritor, sociólogo sertanejo e ex-presidente da ALBA",
+      "resumoCurto": "Autor de O Médio São Francisco: uma sociedade de pastores e guerreiros (1952) e Os Cabras do Coronel (1964), principal cronista do coronelismo e das toadas dos remeiros.",
+      "biografiaCompleta": "Nascido em Pilão Arcado, Wilson Mascarenhas Lins de Albuquerque (1919–2004) foi deputado estadual, presidente da Assembleia Legislativa da Bahia (1969–1971) e membro da Academia de Letras da Bahia (Cadeira 38). Em 1952, publicou O Médio São Francisco: uma sociedade de pastores e guerreiros, ensaio seminal que registrou o poder supremo de Bom Jesus da Lapa sobre o imaginário sertanejo e a toada dos remeiros do \"ABC da Carreira Grande\". Sua tetralogia ficcional (Os Cabras do Coronel, O Reduto, Remanso da Valentia e Militão sem Remorso) permanece como o mais vivo retrato do banditismo e do coronelismo sanfranciscano.",
+      "cronologia": [
+        {
+          "ano": "1919",
+          "fato": "Nasce em Pilão Arcado, no sertão do Médio São Francisco."
+        },
+        {
+          "ano": "1951",
+          "fato": "Eleito deputado estadual na Bahia, iniciando longa vida pública."
+        },
+        {
+          "ano": "1952",
+          "fato": "Publica o clássico \"O Médio São Francisco: uma sociedade de pastores e guerreiros\"."
+        },
+        {
+          "ano": "1964",
+          "fato": "Publica \"Os Cabras do Coronel\", inaugurando seu ciclo ficcional sertanejo."
+        },
+        {
+          "ano": "1965",
+          "fato": "Publica \"O Reduto\", romance sobre as guerras armadas no vale."
+        },
+        {
+          "ano": "1967",
+          "fato": "Eleito para a Cadeira nº 38 da Academia de Letras da Bahia e publica \"Remanso da Valentia\"."
+        },
+        {
+          "ano": "1969",
+          "fato": "Assume a presidência da Assembleia Legislativa do Estado da Bahia (até 1971)."
+        },
+        {
+          "ano": "1980",
+          "fato": "Publica \"Militão sem Remorso\", concluindo sua célebre tetralogia."
+        },
+        {
+          "ano": "2004",
+          "fato": "Falece em Salvador, aos 85 anos."
+        }
+      ],
+      "ondeEstaOriginal": {
+        "instituicao": "Academia de Letras da Bahia (ALB) / Assembleia Legislativa da Bahia (ALBA) / Fundação Pedro Calmon",
+        "colecao": "Fundo Parlamentar e Literário Wilson Lins",
+        "link": "https://www.al.ba.gov.br",
+        "comoPedir": "Discursos parlamentares arquivados na ALBA e acervo bibliográfico nas bibliotecas públicas da Bahia."
+      },
+      "publicacoesExposicoes": [
+        "Lins, Wilson. O Médio São Francisco: uma sociedade de pastores e guerreiros. Salvador: Progresso, 1952.",
+        "Lins, Wilson. Os Cabras do Coronel. Rio de Janeiro: GRD, 1964.",
+        "Lins, Wilson. O Reduto. Salvador: Progresso, 1965.",
+        "Lins, Wilson. Remanso da Valentia. São Paulo: Martins, 1967."
+      ],
+      "salasRelacionadas": [
+        13,
+        14
+      ],
+      "cidadesRelacionadas": [
+        "pilao-arcado",
+        "bom-jesus-da-lapa",
+        "remanso"
+      ]
     }
   ],
   "cidades": [
@@ -3211,6 +3278,30 @@ window.MUSEU_EXTRAS = {
       "fontes": [
         "Secult-MG / Diretoria de Museus (DIMUS). Acervo Iconográfico do Fundo Pessoal João Guimarães Rosa.",
         "Rosa, João Guimarães. Grande Sertão: Veredas. Rio de Janeiro: José Olympio, 1956."
+      ]
+    },
+    {
+      "id": "item-wilson-lins",
+      "titulo": "Retrato de Wilson Lins",
+      "titularId": "wilson-lins",
+      "titularNome": "Wilson Lins",
+      "ano": "c. 1969",
+      "cidadeId": "pilao-arcado",
+      "local": "Salvador, BA / Pilão Arcado, BA",
+      "sala": 14,
+      "tema": "Literatura e Coronelismo",
+      "arquivo": "assets/img/titulares/wilson-lins.jpg",
+      "alt": "Retrato em preto e branco de Wilson Lins, de óculos de armação escura e paletó.",
+      "exibir_imagem": false,
+      "licenca": "sem-licenca",
+      "verificacao": "a-confirmar",
+      "credito": "Fotógrafo oficial da ALBA, Wilson Lins, c. 1969. Acervo Assembleia Legislativa da Bahia / Academia de Letras da Bahia. Direitos reservados.",
+      "descricao": "Retrato oficial parlamentar de Wilson Lins (1919–2004), romancista e presidente da ALBA (1969–1971). Exibição pública mantida como ficha sem imagem (exibir_imagem: false) até verificação definitiva de cessão de direitos, cumprindo a Regra 3.4 do AGENTS.md.",
+      "citacaoOriginal": "“Quem manda no vale é mesmo o Bom Jesus da Lapa.” (O Médio São Francisco, 1952)",
+      "original": "Assembleia Legislativa do Estado da Bahia (ALBA) / Academia de Letras da Bahia (ALB)",
+      "fontes": [
+        "Assembleia Legislativa do Estado da Bahia. Perfil Parlamentar: Wilson Lins.",
+        "Lins, Wilson. O Médio São Francisco: uma sociedade de pastores e guerreiros, 1952."
       ]
     }
   ],
