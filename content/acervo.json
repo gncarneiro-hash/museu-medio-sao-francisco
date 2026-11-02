@@ -1523,5 +1523,26 @@
     "fontes": [
       "Fotografia de Gabriel Neves Carneiro, cedida pelo autor ao Museu do Médio São Francisco."
     ]
+  },
+  {
+    "id": "item-68",
+    "titulo": "O morro do Bom Jesus da Lapa no horizonte, visto da Serra Geral",
+    "titularId": "",
+    "titularNome": "Gabriel Neves Carneiro",
+    "ano": "Data a confirmar",
+    "cidadeId": "bom-jesus-da-lapa",
+    "local": "Serra Geral, borda leste de Bom Jesus da Lapa (BA)",
+    "sala": 1,
+    "tema": "Geologia e Natureza",
+    "arquivo": "assets/img/67-gabriel-carneiro-morro-da-lapa-visto-da-serra-geral.jpg",
+    "exibir_imagem": true,
+    "licenca": "licenciado",
+    "verificacao": "verificado",
+    "credito": "Gabriel Neves Carneiro, O morro do Bom Jesus da Lapa no horizonte, visto da Serra Geral. Fotografia do autor, cedida ao Museu do Médio São Francisco. Data a confirmar.",
+    "descricao": "A planície do São Francisco vista do alto da Serra Geral, com o morro da Lapa isolado na linha do horizonte.",
+    "original": "Arquivo do autor",
+    "fontes": [
+      "Fotografia de Gabriel Neves Carneiro, cedida pelo autor ao Museu do Médio São Francisco."
+    ]
   }
 ]
