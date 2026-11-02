@@ -608,11 +608,11 @@
           } else if (b.tipoCard === "gravura-destaque") {
             html += '    <section class="rounded-xl overflow-hidden bg-[#f3ead8] border-2 border-[#a86f25] shadow-sm">';
             html += '      <figure class="bg-[#1d3b53]">';
-            html += '        <img src="' + esc(b.imagem) + '" srcset="' + esc(b.imagem800 || b.imagem) + ' 800w, ' + esc(b.imagem) + ' 1400w" sizes="(min-width: 1024px) 960px, 100vw" alt="' + esc(b.alt || b.subtitulo) + '" class="w-full h-auto block" loading="lazy" />';
+            html += '        <img src="' + esc(b.imagem) + '" srcset="' + esc(b.imagem800 || b.imagem) + ' 800w, ' + esc(b.imagem) + ' ' + (b.larguraMax || 1400) + 'w" sizes="(min-width: 1024px) 960px, 100vw" alt="' + esc(b.alt || b.subtitulo) + '" class="w-full h-auto block" loading="lazy" />';
             html += '        <figcaption class="px-4 py-2 text-xs text-[#f3ead8]">' + esc(b.credito) + '</figcaption>';
             html += '      </figure>';
             html += '      <div class="p-5 sm:p-6">';
-            html += '        <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Destaque da sala · gravura</span>';
+            html += '        <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Destaque da sala · ' + esc(b.rotulo || "gravura") + '</span>';
             html += '        <h3 class="font-serif-museu text-2xl sm:text-3xl font-bold text-[#1d3b53] mt-1">' + esc(b.subtitulo) + '</h3>';
             html += '        <p class="text-base text-[#2b2620] mt-3 leading-relaxed">' + esc(b.texto) + '</p>';
             (b.citacoes || []).forEach(function (c) {

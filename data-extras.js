@@ -3368,6 +3368,27 @@ window.MUSEU_EXTRAS = {
         "Spix, J. B. von; Martius, C. F. P. von. Reise in Brasilien, vol. 2. Munique, 1828, livro V, cap. IV, p. 529–531 (chegada ao rio São Francisco, ago. 1818). Tradução livre do alemão.",
         "Wikimedia Commons, File:C. Heinzmann - Lagoa das aves no rio São Francisco.JPG (ficha da Pinacoteca do Estado de São Paulo)."
       ]
+    },
+    {
+      "id": "item-67",
+      "titulo": "Paredão do morro do Bom Jesus da Lapa visto do rio São Francisco",
+      "titularId": "",
+      "titularNome": "Gabriel Neves Carneiro",
+      "ano": "Data a confirmar",
+      "cidadeId": "bom-jesus-da-lapa",
+      "local": "Bom Jesus da Lapa (BA)",
+      "sala": 1,
+      "tema": "Geologia e Natureza",
+      "arquivo": "assets/img/66-gabriel-carneiro-paredao-morro-da-lapa-rio.jpg",
+      "exibir_imagem": true,
+      "licenca": "licenciado",
+      "verificacao": "verificado",
+      "credito": "Gabriel Neves Carneiro, Paredão do morro do Bom Jesus da Lapa visto do rio São Francisco. Fotografia do autor, cedida ao Museu do Médio São Francisco. Data a confirmar.",
+      "descricao": "O paredão de calcário do Grupo Bambuí visto do rio, acima da mata ciliar.",
+      "original": "Arquivo do autor",
+      "fontes": [
+        "Fotografia de Gabriel Neves Carneiro, cedida pelo autor ao Museu do Médio São Francisco."
+      ]
     }
   ],
   "linhaDoTempo": [
