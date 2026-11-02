@@ -3417,6 +3417,24 @@ window.MUSEU_EXTRAS = {
       "fonte": "Jesus (2024); Relatório de Milnor Roberts (1880)"
     },
     {
+      "data": "4 out. 1501",
+      "titulo": "A foz recebe o nome de São Francisco",
+      "eixo": 5,
+      "tema": "Conquista e Rio dos Currais",
+      "verificacao": "verificado",
+      "texto": "Uma frota portuguesa com Américo Vespúcio a bordo avista a foz no dia de São Francisco de Assis; o Planisfério de Cantino (1502) já traz o “Rio de sã Franc°”. O comandante (Gaspar de Lemos ou Gonçalo Coelho) ainda é discutido.",
+      "fonte": "Planisfério de Cantino, 1502 (Biblioteca Estense, Módena)"
+    },
+    {
+      "data": "1587 – 1591",
+      "titulo": "Gabriel Soares de Sousa e a Lagoa Dourada",
+      "eixo": 5,
+      "tema": "Conquista e Rio dos Currais",
+      "verificacao": "verificado",
+      "texto": "O Tratado descritivo (1587) faz o primeiro retrato do rio e fala da “Alagoa grande” de onde ele nasceria. Em 1590, com provisões de Filipe II, Gabriel Soares parte em busca dela; morre em 1591 nas cabeceiras do Paraguaçu.",
+      "fonte": "Soares de Sousa, Tratado (1587; ed. 1851); Frei Vicente do Salvador, História do Brasil (1627), liv. IV, cap. XXIV"
+    },
+    {
       "data": "1587 – Séc. XVII",
       "titulo": "Entradas, Casa da Torre e Casa da Ponte (160 léguas)",
       "eixo": 5,

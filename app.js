@@ -576,6 +576,35 @@
             }
             html += '      </div>';
             html += '    </div>';
+          } else if (b.tipoCard === "narrativa") {
+            html += '    <section class="rounded-xl overflow-hidden bg-[#f3ead8] border-2 border-[#a86f25] shadow-sm">';
+            if (b.imagem) {
+              html += '      <figure class="bg-[#1d3b53]"><img src="' + esc(b.imagem) + '" alt="' + esc(b.alt || b.subtitulo) + '" class="w-full h-auto block" loading="lazy" /><figcaption class="px-4 py-2 text-xs text-[#f3ead8]">' + esc(b.credito) + '</figcaption></figure>';
+            }
+            html += '      <div class="p-5 sm:p-6">';
+            html += '        <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Destaque da sala · ' + esc(b.chamada || "") + '</span>';
+            html += '        <h3 class="font-serif-museu text-2xl sm:text-3xl font-bold text-[#1d3b53] mt-1">' + esc(b.subtitulo) + '</h3>';
+            html += '        <p class="text-base text-[#2b2620] mt-3 leading-relaxed">' + esc(b.texto) + '</p>';
+            html += '        <ol class="mt-5 space-y-4">';
+            (b.capitulos || []).forEach(function (c, n) {
+              html += '          <li class="rounded-lg bg-white border border-[#dccdb4] overflow-hidden">';
+              if (c.imagem) {
+                html += '            <figure><img src="' + esc(c.imagem) + '" alt="' + esc(c.alt || c.titulo) + '" class="w-full h-auto block" loading="lazy" /><figcaption class="px-4 py-2 text-xs text-[#5a5248] bg-[#faf6ee]">' + esc(c.credito) + '</figcaption></figure>';
+              }
+              html += '            <div class="p-4">';
+              html += '              <div class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">' + (n + 1) + ' · ' + esc(c.marco) + '</div>';
+              html += '              <h4 class="font-serif-museu text-xl font-bold text-[#1d3b53] mt-1">' + esc(c.titulo) + '</h4>';
+              html += '              <p class="text-base text-[#2b2620] mt-2 leading-relaxed">' + esc(c.texto) + '</p>';
+              if (c.nota) html += '              <p class="text-sm text-[#5a5248] mt-2">' + esc(c.nota) + '</p>';
+              if (c.citacao) html += '              <blockquote class="mt-3 p-3 rounded bg-[#f3ead8] border-l-4 border-[#a86f25] text-base italic text-[#2b2620]">' + esc(c.citacao) + '</blockquote>';
+              if (c.fonte) html += '              <p class="mt-2 text-xs text-[#5a5248]"><strong>Fonte:</strong> ' + esc(c.fonte) + '</p>';
+              html += '            </div>';
+              html += '          </li>';
+            });
+            html += '        </ol>';
+            if (b.fonte) html += '        <p class="mt-5 text-xs text-[#5a5248]"><strong>Referências:</strong> ' + esc(b.fonte) + '</p>';
+            html += '      </div>';
+            html += '    </section>';
           } else if (b.tipoCard === "gravura-destaque") {
             html += '    <section class="rounded-xl overflow-hidden bg-[#f3ead8] border-2 border-[#a86f25] shadow-sm">';
             html += '      <figure class="bg-[#1d3b53]">';
