@@ -1,0 +1,222 @@
+{
+  "titulo": "Caderno do Trecho: de Carinhanha a Paratinga pelos viajantes (1852–1880)",
+  "subtitulo": "O que cinco viajantes e cientistas escreveram, quase nos mesmos lugares, sobre o trecho de Bom Jesus da Lapa",
+  "introducao": "Leitura lado a lado dos relatos originais de Henrique Guilherme Fernando Halfeld (1852), Richard Francis Burton (1867), James William Wells (1875), Theodoro Fernandes Sampaio (1879) e da Comissão Hidráulica de W. Milnor Roberts e Orville A. Derby (1879–1880). As citações preservam a grafia original nos textos em português e trazem a marca *(tradução livre)* nos textos traduzidos do inglês.",
+  "trechos": [
+    {
+      "id": "carinhanha-malhada",
+      "ordem": 1,
+      "titulo": "1. Carinhanha e a Malhada",
+      "resumo": "Fronteira histórica entre a Bahia e Minas Gerais, cruzamento da estrada real de gado (Bahia–Goiás–Mato Grosso) com a navegação do São Francisco.",
+      "relatos": [
+        {
+          "autor": "H. G. F. Halfeld",
+          "data": "1852 (publ. 1860)",
+          "obra": "Atlas e relatório concernente a exploração do Rio de S. Francisco, p. 95–96",
+          "citacao": "“A Villa de Carinhanha está edificada sobre a barranca da margem esquerda do rio, que tem 6m,6 (30 palmos) de altura sobre o nivel d’agua ordinario e na enchente geral do rio apenas fica 0m,44 livre das aguas... Tem duas igrejas, 265 casas, quasi todas terreas, cobertas de telhas, em alinhamento regular, formando ruas direitas e praças; conta cerca de 1.200 habitantes.” Sobre a Malhada, na margem direita: “A povoação de Nossa Senhora do Rozario da Malhada... possue uma capella muito arruinada, 30 a 60 casas, na maior parte cobertas de palha, e talvez 250 almas. No pontal da barra do rio Carinhanha existe o Quartel do Registro da Malhada, miseravel casinha construida de páo a pique, amarrada com correias de couro crú.” Registra o movimento anual: 8.672 cabeças de gado saindo e 25.000 bruacas de sal entrando.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Richard Francis Burton",
+          "data": "Setembro de 1867 (publ. 1869)",
+          "obra": "Explorations of the Highlands of the Brazil, vol. II, cap. XVIII",
+          "citacao": "Registra que o posto fiscal no pontal do Carinhanha fora abandonado por causa das febres intermitentes — as temidas “carneiradas”, assim chamadas porque “matam homens como carneiros” *(tradução livre)*. Na Malhada viu casas com a marca de 1 metro de altura deixada pela cheia e ouviu à noite “cantos e palmas à moda da Guiné” *(tradução livre)*. Em Carinhanha contou cerca de 450 casas (quase o dobro de 1852) e observou no Pontal grandes lajes de ardósia azulada de até 6 metros.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "James W. Wells",
+          "data": "Janeiro de 1875 (publ. 1886)",
+          "obra": "Three Thousand Miles through Brazil, vol. II",
+          "citacao": "Chega a Carinhanha por terra no auge da cheia de janeiro de 1875, atravessa o rio numa balsa montada sobre canoas amarradas (ajoujo) e passa dez dias retido pelas chuvas na “cidade sonolenta” *(tradução livre)*, desenhando uma de suas ruas com casas térreas, igreja ao fundo e burros de carga.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Theodoro Sampaio",
+          "data": "25 nov. e 22 dez. 1879 (publ. 1880 / 1905)",
+          "obra": "O Rio São Francisco e a Chapada Diamantina e Annexo N.º 2 (10 abr. 1880)",
+          "citacao": "Acha Carinhanha “maior do que a do Urubu”, com comércio ativo com o norte de Minas e Goiás, escolas públicas bem frequentadas e fabricação de chapéus de palha e de couro “imitando o chapéu de Manilha”. Na Malhada critica a barreira fiscal mineira que cobrava imposto de toda embarcação. Em 22 de dezembro de 1879, ao voltar de Pirapora, encontra Carinhanha ocupada por forças que fugiam do conflito político de Januária.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Comissão Hidráulica (Roberts, Derby e Sampaio)",
+          "data": "1879–1880",
+          "obra": "Relatorio de W. Milnor Roberts e Annexo N.º 2, 1880",
+          "citacao": "Pelo censo de 1872 citado por Sampaio no Annexo N.º 2, a freguesia de Carinhanha somava 10.893 almas, 104 engenhos de rapadura e 30 alambiques. Em torno da Serra da Malhada restava uma mata virgem de “não menos de 30 leguas quadradas”, rica em cedro, jatobá e jacarandá.",
+          "verificacao": "verificado"
+        }
+      ]
+    },
+    {
+      "id": "rio-abaixo-ate-lapa",
+      "ordem": 2,
+      "titulo": "2. Rio abaixo até a Lapa (Barra do Rio das Rãs, Ilha da Batalha e Parateca)",
+      "resumo": "As 24 léguas da 'quarta travessia' de Halfeld: ilhas, lagoas marginais, jacarés, o início do morgadio da Casa da Ponte e o vale do Rio das Rãs.",
+      "relatos": [
+        {
+          "autor": "H. G. F. Halfeld",
+          "data": "1852 (publ. 1860)",
+          "obra": "Atlas e relatório concernente a exploração do Rio de S. Francisco, p. 97–102",
+          "citacao": "Chama o trecho de 24 léguas entre Carinhanha e a Lapa de “quarta travessia”. Na barra do rio das Rãs anota terras muito produtivas em algodão, mandioca e milho, mas sujeitas às febres das vazantes, e conta que mais de 30 jacarés cercaram os batelões da comissão atraídos pela carne salgada.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Richard Francis Burton",
+          "data": "Fim de setembro de 1867 (publ. 1869)",
+          "obra": "Explorations of the Highlands of the Brazil, vol. II, cap. XIX",
+          "citacao": "Passa pela Ilha da Batalha — cujo nome guardava a memória de um antigo combate contra os indígenas —, pelo Pontal das Rãs e pela fazenda Boa Vista, anotando que ali começava o famoso morgadio da Casa da Ponte, de Antônio Guedes de Brito *(tradução livre)*.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Theodoro Sampaio",
+          "data": "22–24 nov. e dez. 1879 (publ. 1880 / 1905)",
+          "obra": "O Rio São Francisco e Annexo N.º 2 (10 abr. 1880)",
+          "citacao": "Subindo de vapor em novembro, registra a Ilha de Sant’Anna, o Riacho do Mel e a fazenda da Parateca. Em dezembro, voltando a cavalo pela margem direita, passa pela fazenda de Thomé Nunes (origem do atual quilombo Tomé Nunes), lagoa do Mocambo e Boca da Catinga, e anota que no vale do rio das Rãs, em caldeirões cavados no granito, acharam-se “ossos fosseis de megatherium”.",
+          "verificacao": "verificado"
+        }
+      ]
+    },
+    {
+      "id": "bom-jesus-da-lapa",
+      "ordem": 3,
+      "titulo": "3. Bom Jesus da Lapa",
+      "resumo": "O serrote isolado de calcário azulado ('Itabarabá' / 'Itabirava'), a gruta-templo, a Pedra do Sino, o casario e a romaria vista pelos cinco viajantes.",
+      "relatos": [
+        {
+          "autor": "H. G. F. Halfeld",
+          "data": "1852 (publ. 1860)",
+          "obra": "Atlas e relatório concernente a exploração do Rio de S. Francisco, p. 103–105",
+          "citacao": "“A Povoação da Lapa, situada na margem direita do rio de S. Francisco, contém 128 casas, na maior parte cobertas de telhas, porém pequenas e baixas, e cerca de 250 habitantes fixos.” Descreve o serrote calcário de 70 a 88 metros de altura sobre o rio, a gruta de 58 metros de extensão servindo simultaneamente de igreja e de cemitério, a claraboia natural chamada “Varanda” por onde entravam milhares de morcegos, a formação estalactítica chamada “Pedra de Sino” e as febres (“carneiradas” e “opilações”) que atacavam moradores e romeiros.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Richard Francis Burton",
+          "data": "1º de outubro de 1867 (publ. 1869)",
+          "obra": "Explorations of the Highlands of the Brazil, vol. II, cap. XIX",
+          "citacao": "Avista de longe o morro da Lapa como “uma esfinge sem cabeça” ou “um leão agachado”, com torres e contrafortes de calcário escuro lembrando uma catedral gótica *(tradução livre)*. Conta que, antes mesmo de atracar, um tripulante encontrou na areia da praia um pé de cera — ex-voto que algum devoto perdera ou lançara à correnteza para o Bom Jesus. Descreve os ex-votos de cera, madeira, muletas e mortalhas, e calcula que a romaria atraía dezenas de milhares de peregrinos do sertão.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "James W. Wells",
+          "data": "Janeiro de 1875 (publ. 1886)",
+          "obra": "Three Thousand Miles through Brazil, vol. II",
+          "citacao": "Chega a 96 milhas abaixo de Carinhanha no pico da enchente de 1875: o barco entra navegando por uma rua alagada da Lapa. Chama a povoação de “a Meca do São Francisco” *(tradução livre)* e desenha a gravura clássica do morro escarpado com a entrada da gruta e as embarcações ao pé da rocha.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Theodoro Sampaio",
+          "data": "21–22 de novembro de 1879 (publ. 1905 / 1932)",
+          "obra": "O Rio São Francisco e a Chapada Diamantina",
+          "citacao": "“O serrote da Lapa é um retalho de montanha calcárea, isolado no meio de uma planície de aluvião.” Na manhã de 22 de novembro de 1879, às 6h30, sobe a escadaria com Orville Derby para visitar a gruta e escalar os lapiás do topo. Observa que a povoação vivia quase exclusivamente das esmolas da romaria (agosto e setembro) e que os chefes políticos locais disputavam até o cargo de sacristão para controlar as rendas do santuário.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Comissão Hidráulica (Milnor Roberts e Orville Derby)",
+          "data": "21–22 de novembro de 1879 (publ. 1880)",
+          "obra": "Relatorio de W. Milnor Roberts (p. 34) e Reconhecimento geológico de Orville Derby (p. 9)",
+          "citacao": "Roberts situa Bom Jesus da Lapa a 620 km abaixo da cachoeira de Pirapora e realiza medições hidrométricas do São Francisco logo abaixo da “Itabirava”. Derby examina o calcário azulado compacto do serrote e julga identificar nele “coraes silificados perfeitamente conservados” dos gêneros Favosites e Chætetes (ver discussão na Sala 1).",
+          "verificacao": "verificado"
+        }
+      ]
+    },
+    {
+      "id": "lapa-sitio-do-mato-corrente",
+      "ordem": 4,
+      "titulo": "4. Da Lapa ao Sítio do Mato e à foz do Rio Corrente",
+      "resumo": "A confluência do grande afluente de águas claras (o Rio Corrente) que sustenta o São Francisco na seca e leva a Santa Maria da Vitória.",
+      "relatos": [
+        {
+          "autor": "H. G. F. Halfeld",
+          "data": "1852 (publ. 1860)",
+          "obra": "Atlas e relatório concernente a exploração do Rio de S. Francisco, p. 106–108",
+          "citacao": "Destaca a foz do rio Corrente (na margem esquerda, em frente ao Sítio do Mato) como um dos mais volumosos e límpidos afluentes do São Francisco, navegável por 24 léguas até o porto de Santa Maria da Vitória e alimentado pelos rios Formoso e Arrojado.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Richard Francis Burton",
+          "data": "Outubro de 1867 (publ. 1869)",
+          "obra": "Explorations of the Highlands of the Brazil, vol. II",
+          "citacao": "Nota o contraste imediato entre a água barrenta do São Francisco e a água cristalina do rio Corrente, além do comércio de couros, rapadura e cereais que descia das chapadas ocidentais *(tradução livre)*.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "James W. Wells",
+          "data": "Fevereiro de 1875 (publ. 1886)",
+          "obra": "Three Thousand Miles through Brazil, vol. II",
+          "citacao": "Observa o movimento de ajoujos e barcas de comércio que entravam pelos afluentes da margem esquerda rumo às vilas do oeste baiano *(tradução livre)*.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Theodoro Sampaio e Milnor Roberts",
+          "data": "20 de novembro de 1879 (publ. 1880 / 1905)",
+          "obra": "Relatorio da Commissão Hydraulica e Diário de Viagem",
+          "citacao": "Passam pela barra do Corrente e pelo Sítio do Mato no dia 20 de novembro de 1879, véspera da chegada a Bom Jesus da Lapa, medindo a contribuição decisiva do afluente para o canal navegável do São Francisco.",
+          "verificacao": "verificado"
+        }
+      ]
+    },
+    {
+      "id": "urubu-paratinga",
+      "ordem": 5,
+      "titulo": "5. O Urubu, hoje Paratinga",
+      "resumo": "Antiga vila colonial de Santo Antônio do Urubu de Cima (capela de 1680, vila em 1746–1749), criada para fiscalizar o caminho do ouro e sede histórica de comarca.",
+      "relatos": [
+        {
+          "autor": "H. G. F. Halfeld",
+          "data": "1852 (publ. 1860)",
+          "obra": "Atlas e relatório concernente a exploração do Rio de S. Francisco, p. 110–112",
+          "citacao": "Registra na Vila de Santo Antônio do Urubu 160 casas e cerca de 800 habitantes, igreja matriz, casa de câmara e cadeia, mencionando a grande ilha fronteiriça e as lutas políticas e familiares do sertão (citando já em 1852 o temido “assassino Guimarães”).",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Richard Francis Burton",
+          "data": "Outubro de 1867 (publ. 1869)",
+          "obra": "Explorations of the Highlands of the Brazil, vol. II, cap. XX",
+          "citacao": "Encontra a vila do Urubu com cerca de 200 casas e aspecto de estagnação comercial em comparação com Carinhanha e Barra, embora mantivesse a dignidade de antiga vila colonial do século XVIII *(tradução livre)*.",
+          "verificacao": "verificado"
+        },
+        {
+          "autor": "Theodoro Sampaio e Milnor Roberts",
+          "data": "18 de novembro de 1879 e janeiro de 1880",
+          "obra": "O Rio São Francisco (1905) e Annexo N.º 2 (1880)",
+          "citacao": "A Comissão Hidráulica passa pelo Urubu em 18 de novembro de 1879 subindo o rio; em janeiro de 1880, na viagem a cavalo de volta, Sampaio deixa a margem do São Francisco pouco abaixo do Urubu para tomar a estrada sertaneja rumo a Macaúbas, Caetité e Rio de Contas.",
+          "verificacao": "verificado"
+        }
+      ]
+    }
+  ],
+  "tabelaCidadesNumeros": {
+    "titulo": "As mesmas cidades em números (1852–1880)",
+    "colunas": [
+      "Localidade",
+      "Halfeld (1852)",
+      "Burton (1867)",
+      "Sampaio / Roberts (1879–1880)"
+    ],
+    "linhas": [
+      [
+        "Carinhanha (margem esquerda, BA)",
+        "265 casas · ~1.200 hab. · 2 igrejas",
+        "~450 casas · sede da comarca",
+        "Maior que o Urubu; 10.893 hab. em toda a freguesia (censo 1872), 104 engenhos de rapadura e 30 alambiques"
+      ],
+      [
+        "Malhada (margem direita, BA/divisa MG)",
+        "30 a 60 casas · ~250 hab. · saíam 8.672 reses e entravam 25.000 bruacas de sal/ano",
+        "Registro no pontal abandonado pelas 'carneiradas'; marcas de cheia de 1 m nas paredes",
+        "Barreira fiscal mineira ativa; mata virgem de 30 léguas quadradas na Serra da Malhada"
+      ],
+      [
+        "Bom Jesus da Lapa (margem direita, BA)",
+        "128 casas · ~250 hab. fixos · morro de 70–88 m · gruta de 58 m",
+        "Dezenas de milhares de romeiros por ano; morro comparado a 'esfinge sem cabeça'",
+        "A 620 km de Pirapora; vive da grande romaria de agosto e setembro (que em 1946 já reunia ~50 mil romeiros e ~1.000 casas)"
+      ],
+      [
+        "Vila do Urubu / Paratinga (margem direita, BA)",
+        "160 casas · ~800 habitantes",
+        "~200 casas",
+        "Antiga cabeça de comarca; ponto onde Sampaio deixa o rio rumo a Caetité e Chapada Diamantina"
+      ]
+    ]
+  }
+}

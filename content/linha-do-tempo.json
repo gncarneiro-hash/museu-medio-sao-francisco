@@ -1,0 +1,191 @@
+[
+  {
+    "data": "1,75 bilhão de anos",
+    "titulo": "Rifte do Espinhaço (Aulacógeno do Paramirim)",
+    "eixo": 1,
+    "tema": "Geologia e Natureza",
+    "verificacao": "verificado",
+    "texto": "O continente se estica e racha; acumulam-se mais de 5 mil metros de areias e lamas que o calor e a pressão transformam no quartzito da Serra do Espinhaço e da Chapada Diamantina.",
+    "fonte": "Schobbenhaus (1996); Cruz & Alkmim (2006)"
+  },
+  {
+    "data": "600–540 milhões de anos",
+    "titulo": "Mar Bambuí e colisão do Gondwana",
+    "eixo": 1,
+    "tema": "Geologia e Natureza",
+    "verificacao": "verificado",
+    "texto": "Um mar raso deposita o calcário do Grupo Bambuí (rocha do morro da Lapa e das grutas da Serra do Ramalho), dobrado e erguido na formação do supercontinente Gondwana.",
+    "fonte": "Tricart & Silva (1960); Alkmim (2006)"
+  },
+  {
+    "data": "Cretáceo (~100 mi anos)",
+    "titulo": "Deserto e Aquífero Urucuia",
+    "eixo": 1,
+    "tema": "Geologia e Natureza",
+    "verificacao": "verificado",
+    "texto": "Dunas de um grande deserto formam os arenitos do Grupo Urucuia no oeste baiano, hoje a 'caixa-d'água' subterrânea que alimenta os rios Grande, Corrente e Carinhanha na seca.",
+    "fonte": "Serviço Geológico do Brasil (SGB); CBHSF"
+  },
+  {
+    "data": "Pleistoceno / Holoceno",
+    "titulo": "Megafauna das grutas e Tradição São Francisco",
+    "eixo": 3,
+    "tema": "Arqueologia e Povos Indígenas",
+    "verificacao": "verificado",
+    "texto": "Tigres-dentes-de-sabre (Smilodon populator), preguiças-gigantes e mastodontes habitam a Serra do Ramalho e Carinhanha (398 amostras no MCTer/RJ); grupos humanos pintam painéis geométricos nos abrigos calcários.",
+    "fonte": "Silva et al. (2019); Schmitz & Barbosa (1994)"
+  },
+  {
+    "data": "Antes de 1501",
+    "titulo": "Opará, o rio-mar dos povos indígenas",
+    "eixo": 4,
+    "tema": "Arqueologia e Povos Indígenas",
+    "verificacao": "fonte-secundaria",
+    "texto": "Território de amoipiras, tapuias, cariris, acroás, xacriabás, tuxás, pankarus e trukás, para quem o rio era caminho de canoas de tronco, despensa nas lagoas marginais e lugar sagrado (etimologia de 'Opará' atribuída a Armindo Guaraná, a confirmar por linguista).",
+    "fonte": "Jesus (2024); Relatório de Milnor Roberts (1880)"
+  },
+  {
+    "data": "1587 – Séc. XVII",
+    "titulo": "Entradas, Casa da Torre e Casa da Ponte (160 léguas)",
+    "eixo": 5,
+    "tema": "Conquista e Rio dos Currais",
+    "verificacao": "verificado",
+    "texto": "Gabriel Soares de Sousa descreve o rio (1587); as sesmarias dos Garcia d'Ávila (Casa da Torre) e de Antônio Guedes de Brito (Casa da Ponte, origem das terras da Lapa e Rio das Rãs) tomam as margens.",
+    "fonte": "Capistrano de Abreu (1907); Esdras Arraes (2013)"
+  },
+  {
+    "data": "1711 – 1734",
+    "titulo": "Antonil ('O livro que a Coroa recolheu'), os +500 currais e o Registro de Santa Maria",
+    "eixo": 6,
+    "tema": "Conquista e Rio dos Currais",
+    "verificacao": "verificado",
+    "texto": "Em 1711 Antonil publica em Lisboa Cultura e opulência do Brasil (logo recolhido pela Coroa), registrando mais de 500 currais na Bahia (106 na beira do São Francisco) e boiadas vindas do Corrente, Carinhanha, Rio Grande e Piauí até Capoame; desde 1734 a estrada da Bahia para Goiás sobe o rio Corrente pelo Registro de Santa Maria.",
+    "fonte": "Antonil (1711); Fontes coloniais (1734)"
+  },
+  {
+    "data": "1691 – 1700/1709",
+    "titulo": "Francisco da Soledade na gruta de Itabarabá",
+    "eixo": 10,
+    "tema": "Romaria e Fé",
+    "verificacao": "verificado",
+    "texto": "Francisco de Mendonça Mar recolhe-se à gruta da Lapa como eremita (1691); ordenado padre (as fontes divergem entre 1700 no Santuário Mariano, 1706 em Micek e 1709 em Souza e Sampaio), inicia a romaria e pede ao rei D. João V (1717) terras para um hospital.",
+    "fonte": "Santuário Mariano (1722); Segura (1937)"
+  },
+  {
+    "data": "1722 – 1781",
+    "titulo": "A Lapa impressa em Lisboa (Santa Maria, Rocha Pita e Durão)",
+    "eixo": 10,
+    "tema": "Romaria e Fé",
+    "verificacao": "verificado",
+    "texto": "O santuário natural, a 'Varanda' e a Pedra do Sino são descritos no Santuário Mariano (1722), na História da América Portugueza de Rocha Pita (1730) e no poema épico Caramuru de Santa Rita Durão (1781).",
+    "fonte": "Edições lisboetas de 1722, 1730 e 1781"
+  },
+  {
+    "data": "1818 – 1827",
+    "titulo": "Spix e Martius e a Comarca que mudou de província 3 vezes",
+    "eixo": 6,
+    "tema": "Conquista e Rio dos Currais",
+    "verificacao": "verificado",
+    "texto": "Em setembro de 1818 Spix e Martius cruzam Carinhanha e Malhada; a margem esquerda passa de Pernambuco para Minas Gerais (1824) e finalmente para a Bahia (1827).",
+    "fonte": "Spix & Martius (1828); Decretos Imperiais de 1824 e 1827"
+  },
+  {
+    "data": "1852 – 1854 (publ. 1860)",
+    "titulo": "Exploração imperial de Henrique Halfeld no São Francisco",
+    "eixo": 8,
+    "tema": "Viajantes e Ciência",
+    "verificacao": "verificado",
+    "texto": "Halfeld levanta o rio de Pirapora ao Atlântico, descrevendo a Lapa (128 casas, 250 moradores, gruta de 58 m), Carinhanha (265 casas), Malhada (8.672 reses e 25 mil bruacas de sal), as salinas e as lendas ribeirinhas.",
+    "fonte": "Halfeld, Atlas e relatório (1860)"
+  },
+  {
+    "data": "1866 – 1873",
+    "titulo": "Vapores desmontados pela caatinga: Presidente Dantas e Saldanha Marinho",
+    "eixo": 7,
+    "tema": "Navegação e Viajantes",
+    "verificacao": "verificado",
+    "texto": "Em 1866 Justino Nunes encomenda vapor a Mauá; as peças vão de trem a Alagoinhas (1867) e cruzam ~380 km pela caatinga até Juazeiro (1869), onde Emílio Augusto Alvim monta o Presidente Dantas (lançado em 2 jul. 1871; sobe à Lapa e Januária em 1872–73, 49 dias). Em Minas, Henrique Dumont remonta o Saldanha Marinho em Sabará (1867), que chega a Juazeiro em dez. 1871.",
+    "fonte": "Minella (2026); Burton (1869)"
+  },
+  {
+    "data": "1º out. 1867 – 1868",
+    "titulo": "Richard Burton na Lapa e a 1ª fotografia por Augusto Riedel",
+    "eixo": 8,
+    "tema": "Viajantes e Ciência",
+    "verificacao": "verificado",
+    "texto": "Burton visita a Lapa em 1º out. 1867 (achando um ex-voto de cera na praia); em 1868 Augusto Riedel faz a primeira fotografia conhecida de Bom Jesus da Lapa e registra o vapor S. Salvador.",
+    "fonte": "Burton (1869); Riedel / Biblioteca Nacional (1868)"
+  },
+  {
+    "data": "Jan. 1875",
+    "titulo": "James Wells na grande cheia de 1875 em Carinhanha e na Lapa",
+    "eixo": 8,
+    "tema": "Navegação e Viajantes",
+    "verificacao": "verificado",
+    "texto": "Em janeiro de 1875 James Wells atravessa o rio cheio em Carinhanha num ajojo, entra de barco por uma rua alagada de Bom Jesus da Lapa ('a Meca do São Francisco') e desenha a gruta e os remeiros.",
+    "fonte": "Wells, Three Thousand Miles through Brazil (1886)"
+  },
+  {
+    "data": "Jul. 1879 – abr. 1880",
+    "titulo": "Comissão Hidráulica: Milnor Roberts, Orville Derby e Theodoro Sampaio",
+    "eixo": 8,
+    "tema": "Viajantes e Ciência",
+    "verificacao": "verificado",
+    "texto": "A comissão estuda 2.122 km do rio; em 21–22 nov. 1879 mede a vazão na Lapa e Derby e Sampaio sobem o serrote; em 22 dez. 1879 Sampaio desembarca em Carinhanha e faz 835 km a cavalo em 35 dias até a Bahia (Annexo N.º 2).",
+    "fonte": "Relatório de W. Milnor Roberts, Derby e Sampaio (1880)"
+  },
+  {
+    "data": "1882 (a confirmar)",
+    "titulo": "Hipótese da 'romaria dos negros' e obra atribuída a Trívio Vila Nova",
+    "eixo": 10,
+    "tema": "Romaria e Fé",
+    "verificacao": "a-confirmar",
+    "texto": "Tradição oral sobre uma 'romaria dos negros' em 1882 e derretimento de objetos para obra na gruta — mantida com selo 'a confirmar' até localização de fonte primária arquivística.",
+    "fonte": "Pendente de confirmação em fonte primária (Regra 3.2)"
+  },
+  {
+    "data": "8–10 maio 1912",
+    "titulo": "Adolpho Lutz e Astrogildo Machado em Bom Jesus da Lapa",
+    "eixo": 9,
+    "tema": "Saúde e Ciência",
+    "verificacao": "verificado",
+    "texto": "Chegam de vapor às 9h30 de 8 de maio de 1912, fazem 5 fotografias históricas em negativo de vidro e papel, coletam barbeiros (Triatoma sordida e Panstrongylus megistus), moluscos e plantas do morro, e seguem pelo rio Corrente.",
+    "fonte": "Lutz & Machado, Memórias do IOC (1915); Acervo COC/Fiocruz"
+  },
+  {
+    "data": "1901 – jul./ago. 1946",
+    "titulo": "Carrancas de Mestre Guarany e a romaria de 1946 por três lentes",
+    "eixo": 7,
+    "tema": "Navegação e Fotografia",
+    "verificacao": "verificado",
+    "texto": "Mestre Guarany esculpe ~80 carrancas em Santa Maria da Vitória (1901–1945); em jul.–ago. 1946 coincidem na Lapa a missão médica de Nery Guimarães/J. Fontes (905 fichas), Marcel Gautherot (~30 carrancas) e Pierre Verger.",
+    "fonte": "Guimarães (1947); Segala (2005); Acervos IMS e FPV"
+  },
+  {
+    "data": "1948 – 1974",
+    "titulo": "CVSF (1948), SUSA de Noel Nutels (1956) e Codevasf (1974)",
+    "eixo": 12,
+    "tema": "Transformações do Século XX",
+    "verificacao": "verificado",
+    "texto": "Nasce a Comissão do Vale do São Francisco (1948); Noel Nutels cria o Serviço de Unidades Sanitárias Aéreas (1956) e filma na Lapa; em 1974 é criada a Codevasf e implantado o Perímetro Irrigado Formoso.",
+    "fonte": "Leis 541/1948 e 6.088/1974; Acervo Fiocruz (2000)"
+  },
+  {
+    "data": "1972 – 1978 (1975/1976)",
+    "titulo": "Barragem de Sobradinho e as 23 agrovilas da Serra do Ramalho",
+    "eixo": 17,
+    "tema": "Transformações do Século XX",
+    "verificacao": "verificado",
+    "texto": "O lago de 4.214 km² submerge Casa Nova, Remanso, Sento Sé e Pilão Arcado, deslocando ~72 mil pessoas; entre 1975 e setembro de 1976 chegam as famílias às 23 agrovilas do PEC Serra do Ramalho.",
+    "fonte": "Sigaud (1986); Prefeitura de Serra do Ramalho (2024)"
+  },
+  {
+    "data": "1992 – 2026",
+    "titulo": "Reconhecimento de Rio das Rãs, Lei 15.197/2025 e Acordo de 2026",
+    "eixo": 11,
+    "tema": "Direitos, Cultura e Futuro",
+    "verificacao": "verificado",
+    "texto": "Rio das Rãs é reconhecido pela Fundação Palmares (1992) e obtém acordo judicial de R$ 105 milhões em 2026; a Lei Federal 15.197/2025 declara a Romaria da Lapa manifestação da cultura nacional.",
+    "fonte": "DOU (8 set. 2025); MPF / INCRA (2026)"
+  }
+]

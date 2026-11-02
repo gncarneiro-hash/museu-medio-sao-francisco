@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-lapa",
+        "nome": "Bom Jesus da Lapa (Sede do Museu e Santuário)",
+        "tipo": "cidade",
+        "lat": -13.2536,
+        "lng": -43.4181,
+        "sala": 10,
+        "cidadeId": "bom-jesus-da-lapa",
+        "resumo": "Morro calcário de 70–88 m ('Itabarabá'), Santuário de 1691, fotografada por Riedel (1868) e Lutz (1912)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4181,
+          -13.2536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-carinhanha",
+        "nome": "Carinhanha (Porto histórico)",
+        "tipo": "cidade",
+        "lat": -14.3047,
+        "lng": -43.7656,
+        "sala": 6,
+        "cidadeId": "carinhanha",
+        "resumo": "Barranca de 6,6 m na margem esquerda; 265 casas em 1852 (Halfeld) e 450 em 1867 (Burton)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.7656,
+          -14.3047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-malhada",
+        "nome": "Malhada (Antigo Registro Fiscal)",
+        "tipo": "cidade",
+        "lat": -14.3375,
+        "lng": -43.7789,
+        "sala": 6,
+        "cidadeId": "malhada",
+        "resumo": "Cruzamento da estrada Bahia–Goiás com o rio; 8.672 reses saindo e 25 mil bruacas de sal entrando (1852)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.7789,
+          -14.3375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-tome-nunes",
+        "nome": "Quilombo Tomé Nunes (Malhada)",
+        "tipo": "quilombo",
+        "lat": -14.21,
+        "lng": -43.71,
+        "sala": 11,
+        "cidadeId": "malhada",
+        "resumo": "Comunidade quilombola tradicional, visitada por Theodoro Sampaio como fazenda de Thomé Nunes em dez. 1879."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.71,
+          -14.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-rio-das-ras",
+        "nome": "Território Quilombola Rio das Rãs (Bom Jesus da Lapa)",
+        "tipo": "quilombo",
+        "lat": -13.78,
+        "lng": -43.55,
+        "sala": 11,
+        "cidadeId": "bom-jesus-da-lapa",
+        "resumo": "Reconhecido pela Fundação Palmares em 1992 (23.071 ha no INCRA) e contemplado no acordo histórico de 2026."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.55,
+          -13.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-serra-ramalho",
+        "nome": "PEC Serra do Ramalho (23 Agrovilas, 1975–1976)",
+        "tipo": "cidade",
+        "lat": -13.5622,
+        "lng": -43.5967,
+        "sala": 17,
+        "cidadeId": "serra-do-ramalho",
+        "resumo": "Projeto de colonização que recebeu 1.402 famílias deslocadas pelo lago de Sobradinho."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5967,
+          -13.5622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-gruna-tres-cobras",
+        "nome": "Gruna das Três Cobras e Sistema Água Clara (Serra do Ramalho)",
+        "tipo": "caverna",
+        "lat": -13.62,
+        "lng": -43.68,
+        "sala": 3,
+        "cidadeId": "serra-do-ramalho",
+        "resumo": "Cavernas calcárias com fósseis de tigre-dentes-de-sabre (Smilodon) e fauna subterrânea endêmica."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.68,
+          -13.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-lapa-peixes",
+        "nome": "Caverna Lapa dos Peixes I (Carinhanha)",
+        "tipo": "caverna",
+        "lat": -14.18,
+        "lng": -43.82,
+        "sala": 3,
+        "cidadeId": "carinhanha",
+        "resumo": "Sítio paleontológico onde o SGB coletou fósseis pleistocênicos (2012–2014), incluindo preguiça Nothrotherium."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.82,
+          -14.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-pankaru",
+        "nome": "Terra Indígena Pankaru (Serra do Ramalho)",
+        "tipo": "indigena",
+        "lat": -13.51,
+        "lng": -43.63,
+        "sala": 4,
+        "cidadeId": "serra-do-ramalho",
+        "resumo": "Comunidade indígena Pankaru presente no município de Serra do Ramalho."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.63,
+          -13.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-sitio-mato",
+        "nome": "Sítio do Mato e Foz do Rio Corrente",
+        "tipo": "cidade",
+        "lat": -13.0908,
+        "lng": -43.4658,
+        "sala": 1,
+        "cidadeId": "sitio-do-mato",
+        "resumo": "Encontro das águas cristalinas do rio Corrente com o São Francisco."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4658,
+          -13.0908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-samavi",
+        "nome": "Santa Maria da Vitória (Oficina de Mestre Guarany)",
+        "tipo": "cidade",
+        "lat": -13.3947,
+        "lng": -44.1886,
+        "sala": 7,
+        "cidadeId": "santa-maria-da-vitoria",
+        "resumo": "Berço de Mestre Guarany (1882/1884–1985) e polo vivo de carranqueiros no rio Corrente."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1886,
+          -13.3947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-paratinga",
+        "nome": "Paratinga (Antiga Vila do Urubu)",
+        "tipo": "cidade",
+        "lat": -12.6906,
+        "lng": -43.1842,
+        "sala": 6,
+        "cidadeId": "paratinga",
+        "resumo": "Capela de 1680 e vila de 1746–1749; visitada por Halfeld (1852), Burton (1867) e Sampaio (1879)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1842,
+          -12.6906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-ibotirama",
+        "nome": "Ibotirama (Bom Jardim) e Comunidade Tuxá",
+        "tipo": "indigena",
+        "lat": -12.1853,
+        "lng": -43.2206,
+        "sala": 4,
+        "cidadeId": "ibotirama",
+        "resumo": "Antigo pouso de boiadas, travessia da BR-242 e território do povo Tuxá."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2206,
+          -12.1853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-barra",
+        "nome": "Barra (Foz do Rio Grande)",
+        "tipo": "cidade",
+        "lat": -11.0894,
+        "lng": -43.1417,
+        "sala": 6,
+        "cidadeId": "barra",
+        "resumo": "Antiga cabeça da Comarca do São Francisco; terra do Barão de Cotegipe e de Guttemberg Guarabyra."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1417,
+          -11.0894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-sobradinho",
+        "nome": "Lago de Sobradinho (Cidades Submersas)",
+        "tipo": "cidade",
+        "lat": -9.65,
+        "lng": -41.3,
+        "sala": 17,
+        "cidadeId": "sobradinho-cidades-submersas",
+        "resumo": "Reservatório de 4.214 km² que cobriu Casa Nova, Remanso, Sento Sé e Pilão Arcado (1972–1978)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3,
+          -9.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-juazeiro",
+        "nome": "Juazeiro (BA) e Petrolina (PE)",
+        "tipo": "cidade",
+        "lat": -9.4117,
+        "lng": -40.5028,
+        "sala": 16,
+        "cidadeId": "juazeiro-petrolina",
+        "resumo": "Terminal dos vapores e da ferrovia baiana (1896); retratada por Spix e Martius (1819)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5028,
+          -9.4117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-januaria",
+        "nome": "Januária (MG)",
+        "tipo": "cidade",
+        "lat": -15.4881,
+        "lng": -44.3619,
+        "sala": 8,
+        "cidadeId": "januaria",
+        "resumo": "Porto do Salgado; visitada por Spix e Martius (1818) e desenhada por Theodoro Sampaio (1879)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3619,
+          -15.4881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pt-pirapora",
+        "nome": "Pirapora (MG) e Vapor Benjamim Guimarães",
+        "tipo": "cidade",
+        "lat": -17.345,
+        "lng": -44.9419,
+        "sala": 7,
+        "cidadeId": "pirapora",
+        "resumo": "Início do Médio São Francisco navegável, ponta da Central do Brasil (1910) e porto do vapor Benjamim Guimarães."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9419,
+          -17.345
+        ]
+      }
+    }
+  ]
+}

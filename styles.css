@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&display=swap');
+
+:root {
+  --azul-rio: #1d3b53;
+  --azul-rio-escuro: #13283a;
+  --ocre: #a86f25;
+  --ocre-escuro: #835418;
+  --ouro-claro: #c9a65b;
+  --areia: #f3ead8;
+  --papel: #faf6ee;
+  --texto: #2b2620;
+  --texto-suave: #5a5248;
+  --borda: #dccdb4;
+  --verificado-bg: #e6f2ec;
+  --verificado-txt: #17593b;
+  --secundaria-bg: #fef3d6;
+  --secundaria-txt: #7c510a;
+  --aconfirmar-bg: #fbe6e3;
+  --aconfirmar-txt: #8c2619;
+}
+
+body.high-contrast {
+  --azul-rio: #000000;
+  --azul-rio-escuro: #000000;
+  --ocre: #ffd700;
+  --ocre-escuro: #ffea70;
+  --ouro-claro: #ffd700;
+  --areia: #000000;
+  --papel: #0b0b0b;
+  --texto: #ffffff;
+  --texto-suave: #e5e5e5;
+  --borda: #ffffff;
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+body.high-contrast .bg-white,
+body.high-contrast .surface-card,
+body.high-contrast header,
+body.high-contrast footer {
+  background-color: #0b0b0b !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+body.high-contrast a,
+body.high-contrast button {
+  color: #ffd700 !important;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--areia);
+  color: var(--texto);
+}
+
+body {
+  background-color: var(--areia);
+  color: var(--texto);
+  line-height: 1.65;
+}
+
+.font-serif-museu {
+  font-family: 'Source Serif 4', Georgia, Cambria, serif;
+}
+
+.font-sans-museu {
+  font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Skip link for keyboard accessibility (Rule 4 & Rule 10) */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 1rem;
+  z-index: 100;
+  background: var(--azul-rio);
+  color: #ffffff;
+  padding: 0.6rem 1.1rem;
+  border-radius: 0.375rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.skip-link:focus {
+  top: 0.75rem;
+  outline: 3px solid var(--ouro-claro);
+}
+
+/* Keyboard focus visibility (WCAG 2.1 AA) */
+:focus-visible {
+  outline: 3px solid var(--ocre);
+  outline-offset: 2px;
+}
+
+/* Active navigation button */
+.nav-btn-active {
+  background-color: var(--azul-rio) !important;
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+body.high-contrast .nav-btn-active {
+  background-color: #ffd700 !important;
+  color: #000000 !important;
+}
+
+/* Verification Badges (Rule 3.2) */
+.badge-verificado {
+  background-color: var(--verificado-bg);
+  color: var(--verificado-txt);
+  border: 1px solid #b5dac6;
+}
+
+.badge-fonte-secundaria {
+  background-color: var(--secundaria-bg);
+  color: var(--secundaria-txt);
+  border: 1px solid #f0d28c;
+}
+
+.badge-a-confirmar {
+  background-color: var(--aconfirmar-bg);
+  color: var(--aconfirmar-txt);
+  border: 1px solid #ebbab3;
+}
+
+/* Hero backdrop */
+.hero-ims-backdrop {
+  background:
+    linear-gradient(180deg, rgba(29, 59, 83, 0.84) 0%, rgba(29, 59, 83, 0.72) 50%, rgba(29, 59, 83, 0.94) 100%),
+    url('assets/img/01-lapa-1868-riedel.jpg') center 38% / cover no-repeat;
+}
+
+/* Leaflet map container */
+#leaflet-map-container {
+  width: 100%;
+  height: 540px;
+  border-radius: 0.75rem;
+  border: 1px solid var(--borda);
+  z-index: 10;
+}
+
+/* Hide scrollbars on horizontal navs */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

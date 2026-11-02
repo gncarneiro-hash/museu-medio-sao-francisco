@@ -1,0 +1,802 @@
+window.MUSEU_NUCLEOS_4_6 = [
+  {
+    id: "nucleo-4",
+    romano: "IV",
+    titulo: "Navegar e conhecer o rio",
+    tempo: "Séculos XVIII a XX",
+    resumo: "Embarcações, remeiros, vapores, a arte das carrancas de Mestre Guarany, afluentes da margem esquerda, viajantes, Comissão Hidráulica do Império e fotografia histórica.",
+    eixos: [
+      {
+        numero: 7,
+        titulo: "Embarcações, carrancas, vapores e remeiros",
+        nucleo: "IV",
+        verificacao: "verificado",
+        sintese: "Antes do vapor, o rio era navegado por canoas de tronco (herança indígena tapuia ainda em uso), ajojos (balsas de canoas amarradas) e barcas de figura empurradas a vara pelos remeiros na 'travessa da faca fora' entre a Lapa e Carinhanha. Em 1866–1871, os primeiros vapores atravessaram o sertão desmontados: o Saldanha Marinho (remontado em Sabará por Henrique Dumont) e o Presidente Dantas (que viajou ~380 km pela caatinga de Alagoinhas a Juazeiro e subiu à Lapa e Januária em 1872–1873). Nas proas das barcas brilhou a arte de Mestre Guarany, de Santa Maria da Vitória, e em 2025 o vapor Benjamim Guimarães (1913) voltou a apitar em Pirapora.",
+        blocos: [
+          {
+            subtitulo: "Antes do vapor: a canoa dos tapuias, o ajojo e a barca de figura",
+            texto: "Antes de qualquer porto colonial, os povos indígenas do vale já desciam o rio em canoas escavadas num tronco só. Foi esse mundo que Francisco de Mendonça Mar encontrou em 1691, numa aldeia tapuia entre o morro e o rio — e a canoa de tronco nunca saiu de cena: é a tecnologia mais antiga do São Francisco e continua em uso pelos pescadores de Bom Jesus da Lapa. Para atravessar gado, sal, cargas e romeiros, amarravam-se duas ou mais canoas lado a lado com um estrado de madeira por cima: era o ajojo (ou ajoujo), a balsa do sertão, que o anuário estatístico de 1921 ainda registrava como movimento típico dos trechos sem vapor. Acima das canoas (como no porto da Lapa fotografado por Pierre Verger), reinavam as barcas de figura: casco largo, toldo de palha, vela quando havia vento e carranca na proa. Subiam o rio contra a corrente empurradas a vara e desciam ao sabor das águas levando dezenas de toneladas de rapadura, couro, algodão e sal — o caminhão do sertão por dois séculos."
+          },
+          {
+            subtitulo: "Os remeiros, o varejão, a “travessa da faca fora” e o padroeiro do rio",
+            texto: "De pé na borda da barca, os remeiros fincavam o varejão no fundo e caminhavam da proa à popa, empurrando a embarcação metro a metro. Cada trecho do rio tinha nome próprio: o estirão de 24 léguas entre Bom Jesus da Lapa e Carinhanha era chamado pelos remeiros de “travessa da faca fora”, vencido à força de braço (Zanoni Neves, 'Os remeiros do São Francisco na literatura', Revista de Antropologia, v. 46, n. 1, 2003). Na proa ia a carranca — metade gente, metade bicho, com dentes à mostra e olhos arregalados — que, pela crença ribeirinha, afastava o caboclo d’água e outros espíritos do rio e gemia três vezes para avisar do naufrágio. Os remeiros tinham cantigas próprias e um santo padroeiro: o Bom Jesus da Lapa. As barcas paravam no porto da Lapa para pagar promessa, e a festa de agosto enchia o rio de velas: o rio levava a carga; a fé, ele trazia."
+          },
+          {
+            subtitulo: "O vapor que atravessou o sertão em pedaços: do Barão de Mauá a Juazeiro (1866–1873)",
+            texto: "Os primeiros barcos a vapor do Médio São Francisco não chegaram navegando — vieram desmontados. Em 1866, a província da Bahia autorizou o coronel Justino Nunes de Sento Sé a encomendar um vapor ao estaleiro Ponta d’Areia, do Barão de Mauá, em Niterói (na época, vapores só circulavam no Baixo São Francisco, perto da foz, como o S. Salvador fotografado por Augusto Riedel em 1868). Em 1867 o barco chegou a Salvador e foi de trem até Alagoinhas, fim dos trilhos (a ferrovia só chegaria a Juazeiro em 1896). Dali em diante eram cerca de 380 km em linha reta de caatinga acidentada e “sem estradas carroçáveis”, vencidos no ritmo do carro de boi e das tropas de burros. Diante das dificuldades e conflitos políticos, Justino Nunes desistiu da empreitada — desabafo registrado por Richard Burton em 1867 (publicado em 1869). Em 1869 as peças enfim chegaram a Juazeiro, muitas “perdidas, roubadas ou deterioradas” (relatório oficial de 1870), ficando guardadas quase dois anos até a vinda de novas peças e do engenheiro da Marinha Emílio Augusto Alvim com operários do Arsenal de Salvador. Em 2 de julho de 1871 (dia da Independência da Bahia), o vapor Presidente Dantas foi lançado à água, batizado em homenagem a Manuel Pinto de Souza Dantas. Entre 1872 e 1873, o Presidente Dantas subiu de Juazeiro a Januária passando por Bom Jesus da Lapa: 49 dias, ida e volta, recebido com “grande entusiasmo” (Jorge Minella, Crítica Histórica, UFAL, n. 33, p. 4–37, 2026)."
+          },
+          {
+            subtitulo: "Enquanto isso, em Minas: o Saldanha Marinho (1867–1871) e o Benjamim Guimarães (1913–2025)",
+            texto: "Os baianos lamentavam um detalhe: Minas Gerais lançara o seu vapor antes. O Saldanha Marinho — fabricado na Europa (talvez em Bordeaux), com casco de ferro de 28 metros e rodas de pás — também veio desmontado até o Rio de Janeiro e foi remontado em Sabará, no rio das Velhas, em 1867, por Henrique Dumont, pai de Santos Dumont. Na primeira grande viagem teve quatro encalhes, uma roda quebrada numa pedra e areia no motor, chegando a Juazeiro em dezembro de 1871 na primeira viagem a vapor entre Minas e a Bahia (algumas fontes citam também a data de 3 de fevereiro de 1871; ponto sinalizado para conferência na fonte primária). Hoje o Saldanha Marinho está em terra, como monumento na orla de Juazeiro desde os anos 1970, enquanto o histórico vapor Benjamim Guimarães (construído em 1913) voltou a navegar em Pirapora em julho de 2025 após anos de restauração."
+          },
+          {
+            subtitulo: "Onde o Médio começa e acaba & A rotina dos 'gaiolas' nas lentes de Marcel Gautherot (1946)",
+            texto: "Os marcos naturais são a cachoeira de Pirapora (em cima) e o salto de Paulo Afonso (embaixo); o trecho navegável ia de Pirapora a Juazeiro (~1.370 km), interrompido pelas corredeiras do Sobradinho. Nas cidades do rio, o apito do vapor anunciava a chegada de longe: a cidade descia para o porto para carga e descarga, feira, cartas, jornais, notícias do Rio e da Bahia, encontros e negócios. Essa rotina cotidiana dos vapores ('gaiolas') foi documentada de maneira extraordinária em 1946 por Marcel Gautherot (Acervo Instituto Moreira Salles — IMS): o vapor São Salvador levantando espuma com sua grande roda de popa e fumaça preta na chaminé; os vapores da Navegação Mineira do São Francisco atracados sob as árvores da barranca; o detalhe da roda de pás de madeira ladeada por canoas; a prancha estreita de tábuas por onde passavam padres, comerciantes de terno, sacarias e passageiros que armavam suas redes no primeiro convés; e o trabalho duro dos vaqueiros e barqueiros embarcando o gado na beira d'água."
+          },
+          {
+            subtitulo: "Mestre Guarany, o carranqueiro do Corrente (1882/1884–1985), e a tradição viva",
+            texto: "Francisco Biquiba Dy Lafuente Guarany nasceu e morreu em Santa Maria da Vitória (rio Corrente, a menos de 100 km da Lapa). Trazia no nome três continentes: 'Dy Lafuente' (bisavô espanhol), 'Biquiba' (bisavó moçambicana) e 'Guarany' (avó/bisavó indígena). Foi santeiro, carpinteiro, tanoeiro e construtor de barcos; conheceu em Barreiras o mestre Afrânio (autor da carranca do Minas Gerais). Esculpiu a 1ª carranca em 1901 (barca Tamandaré); até 1945 fez cerca de 80 das 120 carrancas do Médio São Francisco (Paulo Pardal). Em 1947, O Cruzeiro publicou matéria de Theóphilo de Andrade com fotos de Marcel Gautherot. De 1953 a 1982 voltou a esculpir para colecionadores (assinando 'F. Guarany' a partir de 1963), sendo exposto no MASP (1969, 1975), Lagos/Nigéria (1977), Bienal de SP (2000) e IMS/Pinacoteca (2015–16), e celebrado por Carlos Drummond de Andrade ('A alma do navio' e 'Centenário', 1985) e Lorenzo Mammì. Suas cabeças de imburana ou cedro (40–50 cm) sobre pescoços de até 1 m têm juba simétrica, sobrancelhas arqueadas, olhos humanos e dentes de fera ('expressão de terror e vigília', segundo Clarival do Prado Valladares). Hoje, o neto Júnio Guarany mantém oficina aberta na antiga casa do avô; a cidade conta com cerca de 15 carranqueiros (como João Souza), o acervo de ferramentas guardado pelo prof. Jairo Rodrigues e o Ponto de Cultura da Bacia do Rio Corrente (Biblioteca Eugênio Lyra). Em Petrolina, Ana das Carrancas levou a figura para o barro."
+          }
+        ],
+        propostasSala: [
+          "Modelos em escala de canoa de tronco tapuia, ajojo (balsa de canoas amarradas), barca de figura com tolda e vapor a roda de popa; coleção de carrancas (originais e réplicas)",
+          "Painel 'Antes do vapor': a 'travessa da faca fora' (24 léguas a varejão entre a Lapa e Carinhanha), as cantigas dos remeiros e a devoção ao Bom Jesus da Lapa",
+          "Painel e mapa 'O vapor que atravessou o sertão em pedaços (1866–1873)': a encomenda de Justino Nunes ao estaleiro Ponta d'Areia (Mauá), os ~380 km pela caatinga de Alagoinhas a Juazeiro, a montagem do Presidente Dantas por Emílio Augusto Alvim (2 jul. 1871) e o Saldanha Marinho remontado em Sabará por Henrique Dumont",
+          "Três tempos da carranca: (1) de proa (1901–1945, fotos de Gautherot/IMS e fichas de Pierre Verger/FPV), (2) de colecionador (1953–1982, MASP/Bienal/Lagos), (3) tradição viva (oficinas no museu com Júnio Guarany, João Souza e bancada com ferramentas guardadas por Jairo Rodrigues)",
+          "O porto em dia de vapor (apito, feira, mercadorias) e os nomes dos vapores e linhas de Pirapora, Januária e Juazeiro (São Salvador, Saldanha Marinho, Presidente Dantas, Pirapora, Matta Machado, Benjamim Guimarães — restaurado em 2025)",
+          "Chamada de Memória Viva ('Alguém da sua família viajou de vapor?'): mural oral com histórias dos gaiolas que apitavam no porto de Bom Jesus da Lapa",
+          "Leituras de base: Zanoni Neves (Revista de Antropologia, v. 46, n. 1, 2003; 2015), Jorge L. S. Minella (Crítica Histórica, UFAL, n. 33, p. 4–37, 2026), Paulo Pardal (1974, 1981 com Valladares), Lorenzo Mammì e Samuel Titan Jr. (2015)"
+        ],
+        tabelas: [
+          {
+            titulo: "As embarcações do rio São Francisco antes do vapor",
+            colunas: ["Embarcação", "Como era", "Para que servia"],
+            linhas: [
+              ["Canoa de tronco", "Escavada num tronco só, herança indígena tapuia (vista por Francisco de Mendonça Mar em 1691)", "Pesca, passagem, viagens curtas; tecnologia mais antiga do rio, ainda em uso pelos pescadores da Lapa"],
+              ["Ajojo (ajoujo)", "Duas ou mais canoas amarradas lado a lado, com um estrado de madeira por cima (registrado no Anuário Estatístico de 1921)", "Travessia de gado, sal, cargas e romeiros nos trechos sem vapor"],
+              ["Barca de figura", "Casco largo, toldo de palha, vela quando havia vento, empurrada a vara pelos remeiros e com carranca na proa", "Caminhão do sertão por dois séculos: dezenas de toneladas de rapadura, couro, algodão e sal rio acima e rio abaixo"]
+            ]
+          },
+          {
+            titulo: "Linha do tempo: Os primeiros vapores do Médio São Francisco (1866–1896 / 2025)",
+            colunas: ["Ano / Data", "Fato histórico"],
+            linhas: [
+              ["1866", "A província da Bahia autoriza o cel. Justino Nunes de Sento Sé a encomendar um vapor ao estaleiro Ponta d’Areia (Barão de Mauá, Niterói)"],
+              ["1867", "O barco vai de trem de Salvador a Alagoinhas e inicia a travessia por terra (~380 km pela caatinga); Justino Nunes desiste e desabafa com Richard Burton. Em Minas, Henrique Dumont remonta o Saldanha Marinho em Sabará"],
+              ["1869", "As peças do vapor baiano chegam a Juazeiro, muitas 'perdidas, roubadas ou deterioradas' (relatório de 1870), aguardando o eng.º da Marinha Emílio Augusto Alvim"],
+              ["2 jul. 1871", "Lançamento do vapor Presidente Dantas à água em Juazeiro, no dia da Independência da Bahia"],
+              ["dez. 1871", "O Saldanha Marinho chega a Juazeiro após quatro encalhes e uma roda quebrada: primeira viagem a vapor entre Minas Gerais e Bahia"],
+              ["1872–1873", "O Presidente Dantas sobe de Juazeiro a Januária passando por Bom Jesus da Lapa (49 dias, ida e volta), recebido com grande entusiasmo"],
+              ["1896", "A ferrovia chega finalmente a Juazeiro"],
+              ["15 jul. 2025", "O vapor Benjamim Guimarães (1913) volta a navegar em Pirapora após restauração; o Saldanha Marinho permanece como monumento em Juazeiro"]
+            ]
+          },
+          {
+            titulo: "Os afluentes navegados da margem esquerda em 1852 (Halfeld) e suas culturas",
+            colunas: ["Afluente", "Navegação em 1852 (Halfeld)", "Portos e cidades"],
+            linhas: [
+              ["Carinhanha", "22½ léguas pelo rio, até a Boa Vista", "Carinhanha, Malhada"],
+              ["Corrente, com o Formoso e o Arrojado", "24 léguas até o porto de Santa Maria, e mais até São José", "Sítio do Mato, Santa Maria da Vitória, Correntina"],
+              ["Grande, com o Preto, o Branco e o das Ondas", "45 léguas até o Campo Largo, mais 20 até o Limoeiro; o Preto, 32 léguas até a Formosa", "Barra, Cotegipe, Barreiras, Formosa do Rio Preto"]
+            ]
+          }
+        ],
+        perguntasEscola: [
+          "Qual é a embarcação mais antiga do rio São Francisco, vista em 1691 na aldeia tapuia da Lapa e usada até hoje pelos pescadores?",
+          "Como funcionava o ajojo e como os remeiros empurravam as grandes barcas de figura nos 24 léguas da 'travessa da faca fora' entre a Lapa e Carinhanha?",
+          "Como os primeiros barcos a vapor (Presidente Dantas e Saldanha Marinho) chegaram desmontados ao São Francisco no século XIX?",
+          "Para que serviam as carrancas na proa das barcas e quem foi Mestre Guarany, de Santa Maria da Vitória?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-02.jpg",
+            legenda: "Conceito museográfico da Sala 7: Salão das Embarcações, Remeiros e Mestre Guarany, com barca de tolda em escala real e galeria de carrancas.",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          },
+          {
+            arquivo: "assets/instalacoes/instalacao-01.jpg",
+            legenda: "Detalhe museográfico de carranca esculpida em madeira de imburana para a Sala 7.",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: [
+          "41-spix-martius-rio-carinhanha.jpg",
+          "42-rugendas-1835-canot-indien.jpg",
+          "43-ilustracao-ajojo-balsa-sertao.jpg",
+          "44-hercule-florence-1826-canoas-pedras.jpg",
+          "45-sampaio-1905-capela-bom-jesus-lapa.jpg",
+          "46-spix-martius-juazeiro.jpg",
+          "47-vapor-saldanha-marinho-juazeiro-unicamp.jpg",
+          "48-mapa-vapor-desmontado-alagoinhas-juazeiro.jpg",
+          "49-gaensly-1900-carro-de-boi-usp.jpg",
+          "50-richard-francis-burton-wellcome.jpg",
+          "51-porto-fluvial-juazeiro-sarmento.jpg",
+          "52-joaquim-saldanha-marinho-cc0.jpg",
+          "53-vapor-benjamim-guimaraes-pirapora-figueira.jpg",
+          "54-juazeiro-petrolina-ponte-giovane-carneiro.jpg",
+          "06-vapor-sao-salvador-1868.jpg",
+          "07-benjamim-guimaraes-pirapora.jpg",
+          "29-gautherot-vapor-sao-salvador-ia.jpg",
+          "30-gautherot-roda-de-popa-canoas-ia.jpg",
+          "31-gautherot-embarque-prancha-sacarias-ia.jpg",
+          "32-gautherot-navegacao-mineira-barranca-ia.jpg",
+          "33-gautherot-embarque-gado-barranca-ia.jpg",
+          "08-barco-carranca-proa.jpg",
+          "09-carranca-mam-bahia.jpg",
+          "10-remeiros-ajoujo-wells-1886.jpg"
+        ]
+      },
+      {
+        numero: 8,
+        titulo: "Viajantes, cientistas e a fotografia",
+        nucleo: "IV",
+        verificacao: "verificado",
+        sintese: "De 1817 a 1946, o rio foi descrito e fotografado por viajantes, engenheiros e cientistas que passaram pela Lapa ou estudaram o vale: Spix e Martius, Gardner, Halfeld, D. Pedro II (no baixo rio), Liais, Burton, Wells, a Comissão Hidráulica do Império (Roberts, Derby e Theodoro Sampaio) e os fotógrafos Augusto Riedel (1868), Adolpho Lutz e Astrogildo Machado (1912), Reginald Gorham (circa 1927), J. Fontes (1946), Marcel Gautherot (1946) e Pierre Verger (1946).",
+        blocos: [
+          {
+            subtitulo: "Spix e Martius (1818) e D. Pedro II no baixo rio (1859)",
+            texto: "Em 1818, os naturalistas bávaros chegaram pelo norte de Minas (Januária) até a Serra Geral de Goiás, desceram pelos rios Formoso e Carinhanha numa jangada de buriti e cruzaram o São Francisco para a Malhada rumo a Salvador (estampa 12 do Atlas: lagoa marginal descrita como 'quadro da criação do mundo', não mais encontrada pela expedição de 2018). Já D. Pedro II nunca subiu ao Médio, mas em out. 1859 subiu até Paulo Afonso com o mapa de Halfeld em mãos, criticou a falta de regularização da navegação e as tapagens nocivas à pesca."
+          },
+          {
+            subtitulo: "A Comissão Hidráulica do Império: Roberts, Derby e Sampaio (1879–1880)",
+            texto: "Criada pelo ministro Cansanção de Sinimbu e chefiada pelo engenheiro americano William Milnor Roberts, com o geólogo Orville A. Derby e o jovem engenheiro negro Theodoro Sampaio, subiu o rio da foz a Pirapora entre agosto e dezembro de 1879. Roberts estudou 2.122 km do São Francisco, calculou que havia cerca de 800 milhas navegáveis para vapores leves e propôs abrir canais de 30 m de largura por 1,25 m de fundo nas corredeiras entre Sobradinho e Jatobá por 547:800$000 réis (início das obras da Comissão de Melhoramentos nos anos 1880). Em 21–22 de novembro de 1879, a comissão mediu a vazão abaixo da 'Itabirava' e parou em Bom Jesus da Lapa (a 620 km abaixo de Pirapora), quando Sampaio e Derby subiram o serrote e visitaram a capela às 6h30 da manhã. Derby propôs ainda reservar Paulo Afonso e Itaparica como parques nacionais ('como Yellowstone e Yosemite')."
+          },
+          {
+            subtitulo: "A travessia de Theodoro Sampaio por terra (Annexo N.º 2, 10 de abril de 1880)",
+            texto: "Na volta de Pirapora, em 22 de dezembro de 1879, Theodoro Sampaio desembarcou em Carinhanha e voltou a Salvador por terra: 835 km a cavalo em 35 dias, descendo pela margem direita até Bom Jesus da Lapa e o Urubu (Paratinga) e depois cortando o sertão por Caetité, Rio de Contas, Maracás e São Félix. No relatório técnico que entregou a Milnor Roberts em 10 de abril de 1880 (Annexo N.º 2 do volume de 1880, integralmente transcrito no EPUB do museu de 2026), Sampaio registrou antes do livro famoso de 1905: (1) Fósseis na região: no vale do rio das Rãs, em caldeirões cavados pelas águas no granito, encontraram-se 'ossos fosseis de megatherium' (ligação direta com a Sala 3); (2) A mata que sumiu: em torno da Serra da Malhada viu uma mata virgem de 'não menos de 30 leguas quadradas', cheia de cedro, jatobá e jacarandá; (3) O tráfico interno de escravizados: mesmo depois da Lei do Ventre Livre, escreveu que 'a venda de escravos é hoje considerada o negocio mais lucrativo destes sertões'; (4) Carinhanha em números: 10.893 almas no censo de 1872, com 104 engenhos de rapadura e 30 alambiques."
+          },
+          {
+            subtitulo: "Marcel Gautherot, Pierre Verger e a romaria de 1946 por três lentes",
+            texto: "Segundo o IMS, Gautherot e Pierre Verger percorreram juntos o Médio São Francisco em 1946 (corrigindo as datas de 1948 e 1950 citadas por Cassimiro). Na romaria da Lapa de 1946, Gautherot fotografou cerca de 30 carrancas reunidas nas grandes barcas de comércio, além do interior da gruta (IMS 07609), casamento coletivo (07631) e romeiros (08790). No texto da revista Sombra (1951), reconheceu que suas fotos ajudaram a transformar as carrancas em objeto de colecionador, tirando-as da proa dos barcos. Como Nery Guimarães e o fotógrafo J. Fontes chegaram à Lapa em 31 jul. 1946, a romaria de 1946 foi registrada simultaneamente pelo olhar médico (Fontes), etnográfico (Gautherot) e do romeiro (Verger)."
+          }
+        ],
+        propostasSala: [
+          "Edições anotadas em português de Gardner, Wells, Halfeld e do Relatório da Comissão Hidráulica de 1880 (incluindo o Annexo N.º 2 de Theodoro Sampaio) para consulta e venda",
+          "Painel próprio dedicado a Theodoro Sampaio: o engenheiro negro, filho de mulher escravizada, os desenhos de 1879 e o Annexo N.º 2 de 1880",
+          "Diário de D. Pedro II aberto ao lado do Atlas de Halfeld",
+          "Sala transversal de fotografia histórica: Augusto Riedel (1868), Adolpho Lutz e Astrogildo Machado (8 de maio de 1912), Reginald Gorham (circa 1927), J. Fontes (1946), Marcel Gautherot (1946) e Pierre Verger (1946)",
+          "Acervos inéditos a solicitar: cadernetas de campo de Milnor Roberts na Montana State University (Collection 783) e cadernos/desenhos de Sampaio no IGHB"
+        ],
+        tabelas: [
+          {
+            titulo: "Os três documentos da Comissão Hidráulica (1879–1880)",
+            colunas: ["Documento", "Autor", "O que traz"],
+            linhas: [
+              ["Relatorio de W. Milnor Roberts sobre o exame do Rio S. Francisco (Typographia Nacional, 1880)", "W. Milnor Roberts", "Estuda os 2.122 km do rio; calcula ~800 milhas navegáveis para vapores leves; propõe canais de 30 m × 1,25 m nas corredeiras entre Sobradinho e Jatobá por 547:800$000 réis"],
+              ["Reconhecimento geológico do Valle do S. Francisco (anexo ao relatório, p. 1–24)", "Orville A. Derby", "Primeiro perfil geológico moderno do vale; descreve o serrote da Lapa e seus 'corais' (Sala 1) e propõe parques nacionais em Paulo Afonso e Itaparica"],
+              ["Annexo N.º 2 (10 abr. 1880) e O Rio São Francisco e a Chapada Diamantina (1905)", "Theodoro Sampaio", "Relatório técnico da travessia a cavalo de Carinhanha à Bahia (835 km em 35 dias), diário de viagem e desenhos da paisagem, das cidades e da gente do rio"]
+            ]
+          },
+          {
+            titulo: "A viagem da Comissão Hidráulica, pelo próprio Roberts (1879–1880)",
+            colunas: ["Data", "Trecho", "Registro do relatório"],
+            linhas: [
+              ["31 jul. 1879", "Saída do Rio de Janeiro", "Partida para a foz do São Francisco; equipe com engenheiros brasileiros e americanos e o geólogo Orville Derby"],
+              ["18 set. 1879", "Atalho, acima de Paulo Afonso", "Embarque nas canoas da comissão com canoeiros indígenas e dois pilotos irmãos, também indígenas, que os levam pelas corredeiras até Jatobá"],
+              ["20–26 out. 1879", "Vapor Presidente Dantas, em Santa Ana", "Esperam seis dias por lenha; sobem a cachoeira do Sobradinho com auxílio de cabo, do maquinista Jovino Antonio Pereira e do piloto indígena Fabio"],
+              ["21–22 nov. 1879", "Bom Jesus da Lapa", "Medições de vazão abaixo da 'Itabirava' e parada na Lapa, a 620 km abaixo de Pirapora; Sampaio e Derby sobem o serrote"],
+              ["14 dez. 1879", "Cachoeira de Pirapora", "Chegada ao ponto final da subida pelo rio"],
+              ["22 dez. 1879", "Carinhanha", "Na descida, Theodoro Sampaio desembarca para fazer por terra, até a Bahia, uma travessia de 835 km em 35 dias (Annexo N.º 2)"],
+              ["8 fev. 1880", "Regresso à Corte", "Fim da viagem: 2.644 km percorridos no São Francisco e no rio das Velhas, mais a volta por Minas"]
+            ]
+          },
+          {
+            titulo: "A chegada à Lapa nos relatos dos viajantes (1852–1879)",
+            colunas: ["Viajante", "Chegada à Lapa", "O que viu"],
+            linhas: [
+              ["Halfeld", "1852", "128 casas e 250 moradores fixos; a gruta servindo de igreja e de cemitério; a 'Varanda' por onde entravam milhares de morcegos"],
+              ["Burton", "1º out. 1867", "O morro como 'esfinge sem cabeça' ou 'leão agachado', com contrafortes de catedral gótica; um tripulante achou na praia um pé de cera, ex-voto perdido a caminho do Bom Jesus"],
+              ["Wells", "1875", "A 96 milhas de Carinhanha; o barco entrou em plena cheia por uma rua alagada"],
+              ["Theodoro Sampaio", "21 nov. 1879", "'Um retalho de montanha calcárea, isolado no meio de uma planície'; visita à capela às 6h30; os coronéis disputavam até o cargo de sacristão para controlar as rendas do santuário"]
+            ]
+          },
+          {
+            titulo: "A Lapa pelas lentes (1868–1950)",
+            colunas: ["Fotógrafo / Publicação", "Data", "O olhar / Conteúdo", "Acervo / Fonte"],
+            linhas: [
+              ["Augusto Riedel", "1868", "O morro como paisagem, visto da margem esquerda na viagem do duque de Saxe", "Biblioteca Nacional / Library of Congress (domínio público)"],
+              ["Adolpho Lutz e Astrogildo Machado", "8 maio 1912", "O olhar sanitário e paisagístico: 5 fotos (negativos de vidro e cópias em papel) da entrada do santuário, casario, lapiás no alto do morro e ruas paralelas até o rio", "Casa de Oswaldo Cruz / Fiocruz (domínio público)"],
+              ["Reginald Gorham", "circa 1927", "A cidade: capela do Carmo com lampião a óleo; pedintes à porta do santuário (15 fotos)", "Biblioteca Nacional / Biblioteca Digital Luso-Brasileira"],
+              ["J. Fontes (para Nery Guimarães)", "jul.–ago. 1946", "O olhar médico: doentes, romeiros, barracas de palha, rua dos mendigos", "Fiocruz (Memórias do IOC, 1947)"],
+              ["Marcel Gautherot", "1946", "O olhar etnográfico: ~30 carrancas, barcas, romeiros, casamento coletivo e interior da gruta", "Instituto Moreira Salles (IMS); ampliações no MASP"],
+              ["Pierre Verger", "1946", "O romeiro como protagonista; aguadeiros; distribuição de alimentos a flagelados", "Fundação Pierre Verger (Salvador)"],
+              ["Revista O Cruzeiro / Brésil / Sombra / Módulo", "1947–1955", "'Carrancas de proa do São Francisco' (1947), álbum Brésil (1950), Sombra (1951) e Módulo (1955)", "Hemeroteca Digital da BN / Acervo IMS"]
+            ]
+          }
+        ],
+        perguntasEscola: [
+          "Como cinco viajantes diferentes (Halfeld, Burton, Wells, Sampaio e Milnor Roberts) descreveram Bom Jesus da Lapa entre 1852 e 1880?",
+          "Quem foi Theodoro Sampaio e o que ele descobriu na travessia a cavalo de Carinhanha a Salvador no fim de 1879?",
+          "O que mudou na paisagem de Bom Jesus da Lapa entre a fotografia de Augusto Riedel (1868), as fotos de Adolpho Lutz (1912) e os dias de hoje?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-09.jpg",
+            legenda: "Conceito museográfico da Sala 8: Sala dos Viajantes e da Comissão Hidráulica de 1879 (Halfeld, Milnor Roberts, Theodoro Sampaio e Orville Derby).",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: ["11-lapa-gravura-wells-1886.jpg", "12-lapa-1868-detalhe-riedel.jpg", "13-atlas-halfeld-1860.jpg", "14-richard-burton-1867.jpg", "15-paulo-afonso-burton-1869.jpg", "16-juazeiro-spix-martius.jpg", "17-theodoro-sampaio.jpg", "18-desenhos-theodoro-sampaio.jpg"]
+      }
+    ]
+  },
+  {
+    id: "nucleo-5",
+    romano: "V",
+    titulo: "Viver no rio: saúde, fé, liberdade, trabalho, poder e imaginação",
+    tempo: "Séculos XVII a XX",
+    resumo: "Saúde e endemias (Lutz e Machado em 1912, Nery Guimarães em 1946, Noel Nutels e SUCAM), a Romaria do Bom Jesus da Lapa, Quilombos (Rio das Rãs e Tomé Nunes), economia e Codevasf, coronelismo e guerras, literatura, música e folclore.",
+    eixos: [
+      {
+        numero: 9,
+        titulo: "Saúde e endemias: as 'carneiradas' e as três visitas da ciência à Lapa",
+        nucleo: "V",
+        verificacao: "verificado",
+        sintese: "O rio que dava vida também adoecia: Halfeld registra na Lapa e na Malhada as 'carneiradas' (malária) e 'opilações' (amarelão), além de doença de Chagas, esquistossomose, bouba, leishmaniose e bócio. A sala reúne três visitas científicas documentadas a Bom Jesus da Lapa — Adolpho Lutz e Astrogildo Machado (maio de 1912), F. Nery Guimarães e J. Fontes (agosto de 1946) e Noel Nutels com a SUSA (anos 1950–1960) — ao lado da memória dos guardas da SUCAM.",
+        blocos: [
+          {
+            subtitulo: "Lutz e Machado no vapor (8 a 10 de maio de 1912)",
+            texto: "Em 1912, enquanto Artur Neiva e Belisário Penna percorriam os sertões por terra, os médicos Adolpho Lutz e Astrogildo Machado desceram o São Francisco de vapor a serviço da Inspetoria de Obras contra as Secas (relatório 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro', Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, 1915, p. 5–50). Chegaram à Lapa em 8 de maio de 1912, às 9h30 da manhã, vindos de Barreiras, a 634 km de Pirapora. O que viram: (1) A chegada: o morro calcário visível de muito longe e as gameleiras agarradas à pedra com raízes expostas de muitos metros; (2) A gruta e o morro: visitaram o santuário com um guia, subiram quase até o cume entre rochas corroídas como muralhas e torres (lapiás) e coletaram uma espécie nova de planta do gênero Vellozia e conchas de caracóis terrestres; (3) O dia 9 de maio: passeio a cavalo até uma lagoa rasa onde acharam as primeiras 'paludinas' (caramujos aquáticos) da viagem; à noite viram chegar os vapores Pirapora e Matta Machado com romeiros; (4) As doenças e os barbeiros: febres palustres na baixa do rio, sífilis e, nas casas da Lapa, o barbeiro Triatoma sordida — e mais raro o Panstrongylus megistus — transmissor da doença que Carlos Chagas descobrira apenas três anos antes (1909); (5) Um bicho de estimação: numa casa viram uma 'cotia de rabo' domesticada, roedor que vivia nas fendas do calcário; (6) A partida: saíram em 10 de maio, às 9h20, entrando às 11h no rio Corrente rumo a Santa Maria da Vitória. Deixaram 5 fotografias históricas da Lapa datadas de 8 de maio de 1912 (hoje em domínio público no acervo da Casa de Oswaldo Cruz / Fiocruz)."
+          },
+          {
+            subtitulo: "Nery Guimarães e os romeiros (julho–agosto de 1946)",
+            texto: "Trinta e quatro anos depois, durante a festa do Bom Jesus de agosto de 1946, uma comissão do Instituto Oswaldo Cruz montou um posto de atendimento na Lapa e examinou cerca de mil romeiros, com 905 fichas abertas (F. Nery Guimarães, 'Doenças encontradas nos romeiros de Bom Jesus da Lapa, Bahia', Memórias do IOC, t. 45, fasc. 1, 1947, p. 211–251). A comissão voou do Rio em 31 de julho de 1946 em avião da Navegação Aérea Brasileira (NAB), com o fotógrafo J. Fontes, atuando com os médicos Bruno Lobo, Lessa de Andrade, Romanguera e Hermínio Conde, os médicos da Lapa Dermeval Guimarães, Bráulio Barral e Josefino Moreira de Castro, e freiras enviadas pelo bispo de Barra, D. Muniz. O retrato da Lapa em agosto de 1946: cerca de 1.000 casas e menos de 3.000 moradores fixos, multiplicando-se por 6 a 8 vezes na festa (~50 mil romeiros/ano); barracas de palha alugadas a 100 cruzeiros na 'rua dos mendigos'; o vapor São Salvador rebocando chatas apinhadas e caminhões 'paus-de-arara' com 40 a 50 pessoas; e um velho que caminhou três meses a pé desde Garanhuns (PE) para batizar o neto. Quadro sanitário: malária confirmada em 7 de 28 lâminas (atingindo naquele ano o juiz, um médico e a família do prefeito), bouba, leishmaniose ('úlcera de Bauru'), bócio endêmico ('papo'), tracoma, sífilis, alastrim, cegueira e o uso popular de larvas de mosca ('tapurú') em Riacho de Santana para limpar feridas crônicas. Cuidado curatorial obrigatório: o artigo usa a linguagem médica de 1946 (chamando a romaria de 'festa fanático-religiosa'); na sala, esses termos aparecem entre aspas e datados, diferenciando o olhar externo do cientista da fé vivida pelo romeiro."
+          },
+          {
+            subtitulo: "Noel Nutels e a saúde que chegava pelo ar (SUSA)",
+            texto: "Nascido na Ucrânia (1913) e formado no Recife, Noel Nutels atuou na Expedição Roncador-Xingu (1943) e criou em 1956 o Serviço de Unidades Sanitárias Aéreas (SUSA), levando vacinação, testes de tuberculina, abreugrafia (raio X portátil) e assistência a populações indígenas e sertanejas isoladas até 1973. O acervo da Casa de Oswaldo Cruz (Fiocruz) guarda as películas em 16 mm filmadas por Noel Nutels em Bom Jesus da Lapa, reunidas e montadas pela pesquisadora Stella Oswaldo Cruz Penido no documentário 'Bom Jesus da Lapa, Bahia – Noel Nutels' (20 min, 2000, VideoSaúde / Fiocruz — disponível em https://www.youtube.com/watch?v=cY5C2E4IzQE)."
+          }
+        ],
+        propostasSala: [
+          "As 5 fotografias originais de Bom Jesus da Lapa em 8 de maio de 1912 (expedição Adolpho Lutz e Astrogildo Machado, Fiocruz, domínio público) expostas em grande formato",
+          "Painel comparativo das três visitas da ciência à Lapa: Lutz e Machado (1912), Nery Guimarães e J. Fontes (1946) e Noel Nutels / SUSA (anos 1950–1960)",
+          "A casa de taipa e o barbeiro (Triatoma sordida e Panstrongylus megistus coletados na Lapa em 1912); o mosquito e a lagoa marginal",
+          "Os guardas da SUCAM: fardas, bombas de borrifar, fichas de visita e depoimentos de agentes da região",
+          "Exibição contínua de 'Bom Jesus da Lapa, Bahia – Noel Nutels' (Fiocruz, 2000, 20 min), maquete do avião sanitário da SUSA, equipamento portátil de abreugrafia (raio X) e linha do tempo até o SUS e a Saúde da Família"
+        ],
+        tabelas: [
+          {
+            titulo: "Três visitas da ciência à Lapa (1912–1960)",
+            colunas: ["Ano", "Quem veio", "Meio de transporte", "Fonte / Acervo"],
+            linhas: [
+              ["1912 (8–10 maio)", "Adolpho Lutz e Astrogildo Machado (Instituto Oswaldo Cruz)", "Vapor fluvial, descendo de Pirapora a Juazeiro", "Memórias do IOC, t. 7, fasc. 1, 1915, p. 5–50; 5 fotografias na Casa de Oswaldo Cruz / Fiocruz"],
+              ["1946 (jul.–ago.)", "F. Nery Guimarães, fotógrafo J. Fontes e comissão médica", "Avião da NAB desde o Rio de Janeiro (31 jul. 1946)", "Memórias do IOC, t. 45, fasc. 1, 1947, p. 211–251 (905 fichas médicas abertas na romaria)"],
+              ["Anos 1950–1960", "Noel Nutels e equipe do SUSA", "Aviões sanitários do Serviço de Unidades Sanitárias Aéreas", "Acervo audiovisual da Casa de Oswaldo Cruz / VideoSaúde Fiocruz (filme de 20 min, 2000 — YouTube: watch?v=cY5C2E4IzQE)"]
+            ]
+          }
+        ],
+        videos: [
+          {
+            titulo: "Bom Jesus da Lapa, Bahia – Noel Nutels",
+            ano: "Filmagens anos 1950–1960 · Edição 2000",
+            direcao: "Acervo Noel Nutels (SUSA) · Direção e organização: Stella Oswaldo Cruz Penido (Casa de Oswaldo Cruz / VideoSaúde Fiocruz)",
+            duracao: "20 min · 16 mm (digitalizado)",
+            descricao: "O mais antigo registro em imagem em movimento encontrado sobre Bom Jesus da Lapa. Reúne as películas originais em 16 mm filmadas pelo médico sanitarista Noel Nutels durante as expedições do Serviço de Unidades Sanitárias Aéreas (SUSA), documentando a chegada pelo rio São Francisco, o casario, a gruta do Bom Jesus, a romaria e as condições sanitárias das populações ribeirinhas.",
+            resenha: "Resenha e valor histórico: Além de seu valor inestimável para a história da saúde pública brasileira (documentando a atuação do SUSA no diagnóstico e combate à tuberculose e às endemias rurais no sertão), o filme organizado por Stella Oswaldo Cruz Penido na Casa de Oswaldo Cruz (Fiocruz) preserva as únicas imagens em movimento conhecidas de Bom Jesus da Lapa em meados do século XX — mostrando os barcos, os romeiros subindo a escadaria da gruta, os ex-votos e a paisagem ribeirinha antes das grandes transformações urbanas e hidrelétricas.",
+            acervo: "Casa de Oswaldo Cruz (COC) / VideoSaúde Distribuidora da Fiocruz",
+            youtubeId: "cY5C2E4IzQE",
+            youtubeUrl: "https://www.youtube.com/watch?v=cY5C2E4IzQE",
+            link: "https://www.youtube.com/watch?v=cY5C2E4IzQE"
+          }
+        ],
+        perguntasEscola: [
+          "O que os cientistas Adolpho Lutz e Astrogildo Machado descobriram nas casas e lagoas de Bom Jesus da Lapa em maio de 1912?",
+          "Como era a cidade e a saúde dos romeiros em agosto de 1946 segundo o relatório de Nery Guimarães?",
+          "Como funcionavam os aviões sanitários do médico Noel Nutels e o trabalho dos guardas da SUCAM no sertão?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-04.jpg",
+            legenda: "Conceito museográfico das Salas 9 ('O rio que adoecia') e 11 ('Terra de liberdade: os quilombos do São Francisco').",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: [
+          "55-felipe-nery-guimaraes-ioc.jpg",
+          "24-lutz-1912-entrada-santuario.jpg",
+          "25-lutz-1912-casario-morro.jpg",
+          "26-lutz-1912-vista-do-morro-lapias.jpg",
+          "27-lutz-1912-vista-de-cima-ruas-rio.jpg",
+          "28-lutz-1912-cidade-rio-lapias.jpg"
+        ]
+      },
+      {
+        numero: 10,
+        titulo: "A romaria do Bom Jesus da Lapa",
+        nucleo: "V",
+        verificacao: "verificado",
+        capa: {
+          arquivo: "assets/instalacoes/instalacao-sala-10-romaria-capa.jpg",
+          legenda: "Cabeçalho conceitual da Sala 10 ('A Romaria do Bom Jesus da Lapa'): ambientação da gruta calcária com o altar do Senhor Bom Jesus, ex-votos de cera, madeira, tranças, cartas e ex-votos náuticos suspensos, e linha do tempo iluminada da romaria desde 1691 até hoje.",
+          avisoIA: "Imagem recriada digitalmente, não é registro original"
+        },
+        sintese: "Em 1691, o português Francisco de Mendonça Mar recolheu-se à gruta como eremita; ordenado padre (Francisco da Soledade, com datas divergentes nas fontes: 1700 no Santuário Mariano, 1706 em Micek e 1709 em Souza e Sampaio), iniciou a tradição que acolheu enfermos, pobres e escravizados. Pela Lei Federal n.º 15.197, de 5 de setembro de 2025, a Romaria do Senhor Bom Jesus da Lapa foi declarada manifestação da cultura nacional.",
+        blocos: [
+          {
+            subtitulo: "A Lapa no século XVIII e os documentos fundadores",
+            texto: "Três obras impressas em Lisboa no século XVIII descrevem a gruta: o Santuário Mariano de Frei Agostinho de Santa Maria (1722), a História da América Portugueza de Sebastião da Rocha Pita (1730, provando que a abertura no paredão e a Pedra do Sino são anteriores ao incêndio de 1903) e o poema épico Caramuru de Frei José de Santa Rita Durão (1781). Somam-se a carta de Francisco da Soledade ao rei D. João V (1717, pedindo terras para um hospital de passageiros, romeiros e pobres), o Códice Costa Matoso (1749–1752) e O Peregrino da América (1728)."
+          },
+          {
+            subtitulo: "Galeria permanente Pierre Verger e a romaria no audiovisual",
+            texto: "Propõe-se uma galeria fixa com reproduções licenciadas da Fundação Pierre Verger e do IMS (Gautherot), além das fotos em domínio público de Augusto Riedel (1868) e Adolpho Lutz (1912), Reginald Gorham (circa 1927) e João Machado (Herança do Pai, 2023), vitrine com cartas reais de devotos ao Bom Jesus (estudadas por Elvina Almeida, UFMG, 2021) e concurso anual de fotografia."
+          }
+        ],
+        propostasSala: [
+          "Fac-símiles do Santuário Mariano (1722), de Rocha Pita (1730) e do Caramuru (1781) com transcrição modernizada e edição anotada A Lapa no século XVIII",
+          "A gruta antes e depois (gravuras, fotografias de 1868 e 1912, maquete), ex-votos, promessas e vitrine de cartas dos devotos ao Bom Jesus",
+          "Os caminhos dos romeiros: a pé, a cavalo, de canoa, barca, vapor, pau-de-arara e ônibus",
+          "A 'romaria dos negros' de 1882 e a construção atribuída a Trívio Vila Nova (hipótese marcada como 'a confirmar' até localização de fonte primária)"
+        ],
+        tabelas: [
+          {
+            titulo: "A Lapa no século XVIII: os primeiros relatos impressos em Lisboa",
+            colunas: ["Obra", "Ano", "O que registra"],
+            linhas: [
+              ["Frei Agostinho de Santa Maria, Santuário Mariano (t. IX, L. I, Tít. CXXXI)", "1722", "Francisco de Mendonça (~30 anos) parte pelos anos de 1680 com um Crucifixo de 3 palmos e lâmina da Soledade; templo em forma de cruz (200 palmos), teto que 'representa hum Céo com nuvens', sino com badalo de pedra, morro 'Itabarabá' ('Pedra que luz'), ordenação em 1700 (divergindo de 1706 e 1709 em outros autores) e povoação a uma légua"],
+              ["Sebastião da Rocha Pita, História da América Portugueza (L. VII, §§ 80–87)", "1730", "Templo com capela-mor e colaterais (33 passos no cruzeiro, 80 de comprimento), 'varanda descoberta de cincoenta palmos' iluminando o interior, sino de pedra que soava como metal fino ('Itáberava') e altares ornados com esmolas dos peregrinos"],
+              ["José de Santa Rita Durão, Caramuru (Canto VII, estrofes 8 e segs.)", "1781", "Leva Diogo Álvares à margem do rio, 'numa lapa, que esconde alto mysterio', templo natural com capela-mor, nave e cruzeiro; verso usado por Richard Burton como epígrafe em 1869"]
+            ]
+          },
+          {
+            titulo: "A romaria e o território no cinema e na televisão",
+            colunas: ["Filme", "Ano", "Quem fez", "O que é"],
+            linhas: [
+              ["Bom Jesus da Lapa, Bahia – Noel Nutels", "2000", "Fiocruz; dir. Stella Oswaldo Cruz Penido", "20 min, com imagens da coleção Noel Nutels; o mais antigo material em movimento encontrado sobre a Lapa"],
+              ["Lapa do Bom Jesus", "2023", "TV Bom Jesus / TV Aparecida; apres. Pe. William Betonio", "Documentário de 1h08 (3 episódios); depoimentos do padre, Harley Xavier (Codevasf), prof.ª Sandra Célia (UNEB), cantor Paulo Araújo e chef Salmen Bukzen"],
+              ["A Cidade do Futuro e Sobradinho", "2016 e 2020", "Cláudio Marques e Marília Hughes", "Ficção e documentário sobre a Serra do Ramalho e o êxodo de Sobradinho (ver Sala 17)"]
+            ]
+          }
+        ],
+        videos: [
+          {
+            titulo: "Bom Jesus da Lapa, Bahia – Noel Nutels",
+            ano: "Filmagens anos 1950–1960 · Edição 2000",
+            direcao: "Acervo Noel Nutels (SUSA) · Direção da montagem: Stella Oswaldo Cruz Penido (Fiocruz)",
+            duracao: "20 min",
+            descricao: "O mais antigo material em imagem em movimento encontrado sobre Bom Jesus da Lapa, a partir das películas originais de Noel Nutels (Serviço de Unidades Sanitárias Aéreas).",
+            resenha: "Documentário da Casa de Oswaldo Cruz / VideoSaúde (Fiocruz) que resgata as filmagens em 16 mm de Noel Nutels na romaria e na cidade de Bom Jesus da Lapa.",
+            acervo: "Casa de Oswaldo Cruz / VideoSaúde Distribuidora da Fiocruz",
+            youtubeId: "cY5C2E4IzQE",
+            youtubeUrl: "https://www.youtube.com/watch?v=cY5C2E4IzQE",
+            link: "https://www.youtube.com/watch?v=cY5C2E4IzQE"
+          },
+          {
+            titulo: "Lapa do Bom Jesus",
+            ano: "2023 (exibido em 3 episódios de 3 a 6 ago. 2023)",
+            direcao: "Produção TV Bom Jesus / Santuário · Exibição TV Aparecida · Apresentação: Pe. William Betonio",
+            duracao: "1h08 (3 episódios)",
+            descricao: "Documentário sobre a história, a fé e a cultura da romaria, com depoimentos do Pe. William Betonio, do superintendente da Codevasf Harley Xavier, da prof.ª Sandra Célia (UNEB), do cantor Paulo Araújo e do chef Salmen Bukzen.",
+            acervo: "Santuário do Senhor Bom Jesus da Lapa / TV Bom Jesus / TV Aparecida",
+            link: "https://www.a12.com/tv"
+          }
+        ],
+        perguntasEscola: [
+          "Quem foi Francisco de Mendonça Mar (Padre Francisco da Soledade) e por que ele pediu terras ao rei de Portugal em 1717 para criar um hospital na Lapa?",
+          "Como a descrição de Rocha Pita em 1730 prova que a claraboia natural ('Varanda') e a Pedra do Sino já existiam séculos antes do incêndio de 1903?",
+          "O que significam os ex-votos deixados pelos romeiros na Sala dos Milagres?"
+        ],
+        instalacoes: [],
+        imagens: ["01-lapa-1868-riedel.jpg", "24-lutz-1912-entrada-santuario.jpg", "19-gruta-bom-jesus-romaria.jpg", "20-morro-santuario-hoje.jpg"]
+      },
+      {
+        numero: 11,
+        titulo: "Quilombos do São Francisco",
+        nucleo: "V",
+        verificacao: "verificado",
+        sintese: "As terras baixas e lagoas abrigaram comunidades negras formadas por fugidos e libertos. Rio das Rãs, em Bom Jesus da Lapa, é uma das primeiras comunidades quilombolas reconhecidas no Brasil, ao lado de Tomé Nunes (Malhada), Araçá-Volta, Bebedouro, Lagoa do Peixe e Nova Batalhinha.",
+        blocos: [
+          {
+            subtitulo: "Rio das Rãs: do Mocambo ao acordo de 2026",
+            texto: "Originado no núcleo de Mocambo em antigas terras do morgadio da Casa da Ponte (compradas em 1868 pelo major Francisco Teixeira Araújo), enfrentou duas décadas de conflitos severos (1972–1992) contra grilagem, derrubada de 127 casas e expulsões, até o parecer histórico da Fundação Palmares (1992), o laudo de José Jorge de Carvalho (1993), o Projeto Especial do INCRA com 23.071 ha (1996) e o acordo judicial de 2026 (MPF, Infra S.A. e INCRA, em razão da ferrovia FIOL) prevendo titulação e cerca de R$ 105 milhões em medidas reparatórias para cinco comunidades."
+          }
+        ],
+        propostasSala: [
+          "Mapa das comunidades quilombolas certificadas no Médio São Francisco (incluindo Tomé Nunes em Malhada, avistada por Sampaio em dezembro de 1879)",
+          "História oral gravada com os mais velhos em parceria com as comunidades, respeitando a autodenominação e o consentimento",
+          "Linha do tempo da luta pela terra de Rio das Rãs e trechos de Halfeld (1852), Burton (1867) e Sampaio (1880) sobre a barra e o vale do rio das Rãs",
+          "Leituras de base: Siglia Zambrotti Doria (ABA, 1995), Carlos Steil (1998), Valdélio Silva (Afro-Ásia, 1999) e João Marques da Silva (UFG, 2015)"
+        ],
+        tabelas: [
+          {
+            titulo: "Cronologia da luta pela terra em Rio das Rãs (1972–2026)",
+            colunas: ["Ano", "Fato"],
+            linhas: [
+              ["1972–1974", "Os Teixeira proíbem roças e pesca e derrubam casas e uma igreja com trator"],
+              ["1982", "Parte da fazenda é vendida à algodoeira Bial-Bonfim; começam ameaças e jagunços"],
+              ["1985", "127 casas derrubadas; a terra cercada com arame farpado"],
+              ["1988", "Sessenta famílias expulsas"],
+              ["1990", "Decisões judiciais favoráveis aos posseiros descumpridas três vezes; envenenamento do rio em Aribá"],
+              ["1992", "Parecer da Fundação Palmares reconhece Rio das Rãs como remanescente de quilombo, um dos primeiros casos do país"],
+              ["1993", "Laudo antropológico de José Jorge de Carvalho: cerca de 300 famílias, em sete localidades, antes das expulsões"],
+              ["1996", "O INCRA cria o Projeto Especial Quilombola Rio das Rãs, com 23.071 hectares"],
+              ["1998 / 2004", "Concessão de direito real de uso por 5 anos (1998) e nova certidão da Fundação Palmares (2004)"],
+              ["2026", "Acordo judicial com MPF, Infra S.A. e INCRA (ferrovia FIOL) prevê titulação e cerca de R$ 105 milhões para Rio das Rãs, Araçá-Volta, Bebedouro, Lagoa do Peixe e Nova Batalhinha"]
+            ]
+          }
+        ],
+        perguntasEscola: [
+          "Como se formaram as comunidades quilombolas nas vazantes e lagoas do Médio São Francisco, como Rio das Rãs e Tomé Nunes?",
+          "Por que o reconhecimento de Rio das Rãs em 1992 foi um marco histórico para os direitos quilombolas em todo o Brasil?",
+          "Qual é a importância das vazantes do rio para o modo de vida tradicional das comunidades quilombolas ribeirinhas?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-04.jpg",
+            legenda: "Conceito museográfico das Salas 9 e 11 ('Terra de liberdade: os quilombos do São Francisco').",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: []
+      },
+      {
+        numero: 12,
+        titulo: "Economia: do curral à irrigação",
+        nucleo: "V",
+        verificacao: "verificado",
+        sintese: "O vale viveu do gado, do sal da terra, da rapadura, do algodão e da pesca ligados ao comércio fluvial. No século XX, a partir do art. 29 do ADCT da Constituição de 1946 (que destinou 1% das rendas tributárias da União ao vale por 20 anos), vieram a CVSF (1948), a Suvale (1967), a Codevasf (1974) e os perímetros irrigados como o Projeto Formoso, em Bom Jesus da Lapa.",
+        blocos: [],
+        propostasSala: [
+          "As salinas descritas por Halfeld: a terra lavada nas lagoas salinas, o cocho de madeira, a bruaca de sal",
+          "Mapa dos perímetros irrigados (destaque para o Formoso, em Bom Jesus da Lapa, que tornou o município o maior produtor de banana do país, e o Jaíba, em MG) e das culturas atuais",
+          "O debate contemporâneo: desenvolvimento econômico, geração de empregos, uso da água e conservação ambiental"
+        ],
+        tabelas: [
+          {
+            titulo: "O Estado chega ao vale: da CVSF à Codevasf (1948–2018)",
+            colunas: ["Ano", "Órgão", "Ato legal"],
+            linhas: [
+              ["1948", "Comissão do Vale do São Francisco (CVSF)", "Lei n.º 541, de 15 de dezembro de 1948"],
+              ["1967", "Superintendência do Vale do São Francisco (Suvale)", "Decreto-Lei n.º 292, de 28 de fevereiro de 1967"],
+              ["1974", "Companhia de Desenvolvimento do Vale do São Francisco (Codevasf)", "Lei n.º 6.088, de 16 de julho de 1974"],
+              ["2000–2018", "Codevasf amplia atuação ao Parnaíba, Ceará e outras bacias do Nordeste", "Leis sucessivas"],
+              ["2014", "Codevasf torna-se operadora federal da transposição (PISF)", "Decreto n.º 8.207"]
+            ]
+          }
+        ],
+        perguntasEscola: [
+          "Como os moradores do sertão produziam o 'sal da terra' nas lagoas salinas descritas por Halfeld em 1852?",
+          "Como a criação da CVSF (1948) e da Codevasf (1974) e a implantação do Perímetro Irrigado Formoso transformaram a economia de Bom Jesus da Lapa?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-07.jpg",
+            legenda: "Conceito museográfico das Salas 12 ('Do curral à irrigação'), 13 ('Coronéis e barões') e acesso à Sala 15 ('O rio encantado').",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: []
+      },
+      {
+        numero: 13,
+        titulo: "Poder e política: coronéis, barões e guerrilheiros",
+        nucleo: "V",
+        verificacao: "verificado",
+        sintese: "Onde o Estado faltava, mandavam os coronéis com justiça, milícia e leis próprias — mundo retratado por Wilson Lins em O Médio São Francisco: uma sociedade de pastores e guerreiros (1952). O vale também deu ao Império o Barão de Cotegipe (nascido na Barra em 1815, presidente do Conselho de Ministros de 1885 a 1888) e foi palco de conflitos e guerras.",
+        blocos: [
+          {
+            subtitulo: "O coronel Neco: entre a história e Grande sertão: veredas",
+            texto: "Chefe político citado por Theodoro Sampaio (aquartelado no Jacaré/Itacarambi em 1879 com 'um verdadeiro exército de jagunços' para retomar Januária) e por Guimarães Rosa em Grande sertão: veredas — ponte direta entre o coronel real e o coronel da ficção."
+          },
+          {
+            subtitulo: "O rio nas guerras",
+            texto: "Canudos (1896–1897, com Juazeiro como base e transporte fluvial de tropas e feridos), Coluna Prestes, Segunda Guerra Mundial (1942–1945, pracinhas do vale que subiram de vapor pela Lapa rumo aos quartéis) e a Operação Pajuçara (1971, morte de Carlos Lamarca em Ipupiara após fuga pela região de Brotas de Macaúbas)."
+          }
+        ],
+        propostasSala: [
+          "Painel comparativo do Coronel Neco nas páginas de Theodoro Sampaio e na voz de Riobaldo (Guimarães Rosa)",
+          "Os coronéis da Barra, Pilão Arcado, Bom Jesus da Lapa e Paratinga (e a guerra dos Guimarães, citada desde Halfeld em 1852, com detalhes a pesquisar)",
+          "Memorial dos pracinhas da Segunda Guerra Mundial que partiram pelos vapores do São Francisco"
+        ],
+        perguntasEscola: [
+          "O que foi o coronelismo no Médio São Francisco e como o escritor Wilson Lins descreveu essa 'sociedade de pastores e guerreiros'?",
+          "Como um personagem histórico real visto por Theodoro Sampaio em 1879 (o Coronel Neco) foi parar dentro do romance Grande sertão: veredas, de Guimarães Rosa?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-07.jpg",
+            legenda: "Conceito museográfico da Sala 13 ('Coronéis e barões') integrada ao núcleo social.",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: []
+      },
+      {
+        numero: 14,
+        titulo: "Literatura, música e imagens do rio",
+        nucleo: "V",
+        verificacao: "verificado",
+        sintese: "O rio entrou na literatura brasileira pelos viajantes e ficou nela pelos romancistas e compositores: Euclides da Cunha, Guimarães Rosa, Jorge Amado, Wilson Lins, Osório Alves de Castro, Lúcio Cardoso, Afonso Arinos, Itamar Vieira Junior, Guttemberg Guarabyra e Zeca Bahia.",
+        blocos: [
+          {
+            subtitulo: "Wilson Lins e o 'ABC da Carreira Grande'",
+            texto: "Em O Médio São Francisco (1952), Wilson Lins afirma: 'Quem manda no vale é mesmo o Bom Jesus da Lapa', descrevendo as cabaças com velas, tostões e cachos de cabelo lançadas na correnteza sob guarda do Caboclo-d'Água, a serpente de asas comparada a Quetzalcóatl e a célebre toada dos remeiros que dava apelido a cada porto de Juazeiro a Pirapora ('Triste do povo da Lapa / Se não fosse o Bom Jesus / Carinhanha é bonitinha / Malhada também é...')."
+          },
+          {
+            subtitulo: "Dois compositores do Médio São Francisco no rádio do Brasil",
+            texto: "Guttemberg Guarabyra (nascido na Barra em 1947, com família e infância ligadas à comunidade batista da Lapa; vencedor do FIC 1967 com 'Margarida', criador do rock rural com Sá & Rodrix e autor com Luiz Carlos Sá de 'Sobradinho', 'Dona', 'Espanhola' e 'Roque Santeiro') e o lapense Zeca Bahia (José Ramos Santos, 1950–2018, nascido na Praça do Livro em Bom Jesus da Lapa, autor do clássico 'Porto Solidão' com Ginko, consagrado por Jessé em 1980, e de 'Ave Coração' com Clodo Ferreira, gravada por Fagner em 1979)."
+          }
+        ],
+        propostasSala: [
+          "Parede interativa com os versos do 'ABC da Carreira Grande', percorrendo porto a porto de Juazeiro a Pirapora",
+          "Estante 'A literatura dos remeiros e dos vapores' (levantamento de Zanoni Neves, USP, 2003) com audição e leitura em voz alta",
+          "Cabine de escuta 'A Lapa no rádio do Brasil' com discos originais de Sá & Guarabyra, Zeca Bahia, Maria Bethânia e cantigas de remeiros",
+          "Galeria/parede de artes visuais com pintores locais que retratam o rio, como Léo e Otoniel, de Bom Jesus da Lapa"
+        ],
+        tabelas: [
+          {
+            titulo: "A literatura dos remeiros e dos vapores (Zanoni Neves, 2003, e clássicos do vale)",
+            colunas: ["Obra", "Autor", "Ano", "O que traz"],
+            linhas: [
+              ["'Pedro Barqueiro' (Pelo sertão)", "Afonso Arinos", "1898", "Um ex-escravizado que vira remeiro, é caçado e resiste"],
+              ["Os sertões", "Euclides da Cunha", "1902", "Cita a Lapa como 'a meca dos sertanejos' (p. 375 da ed. Brasiliense, 1985), ao lado da 'Meca do São Francisco' de Wells"],
+              ["'Barca fantasma' e outros contos", "D. Martins de Oliveira", "1931", "Iniciação do remeiro novato, hierarquia da barca, cabaças com velas levadas ao Bom Jesus da Lapa"],
+              ["Maleita", "Lúcio Cardoso", "1934", "O porto de Pirapora no fim do século XIX, com as barcas e suas carrancas"],
+              ["Os romeiros", "Deocleciano Martins de Oliveira", "1942", "Romance sobre a romaria no São Francisco (2ª ed., Conquista, 1973)"],
+              ["Seara vermelha", "Jorge Amado", "1946", "Família de retirantes que sobe o rio de vapor rumo a Pirapora"],
+              ["Grande sertão: veredas", "Guimarães Rosa", "1956", "O rio como eixo do romance; a travessia de Riobaldo menino com Diadorim ('carece de ter coragem'), o Urucuia e a romaria da Lapa"],
+              ["Porto Calendário", "Osório Alves de Castro", "1961", "Santa Maria da Vitória, o rio Corrente, os vapores e o ex-remeiro denunciado pelos calos do peito"],
+              ["Os Cabras do Coronel, O Reduto, Remanso da Valentia, Militão sem Remorso", "Wilson Lins", "1964–1980", "A valentia e marginalidade dos remeiros; barcas armadas nas guerras de coronéis em Pilão Arcado"],
+              ["'A araponga'", "Accioly Lopes", "1978", "O remeiro Miguel Faiscô e o Negro d'Água"],
+              ["Jandaia em tempo de seca", "Petrônio Braz", "2002", "O mestre da barca e a barca Gaivota, carregada de rapadura"],
+              ["Torto arado", "Itamar Vieira Junior", "2019", "A terra, o trabalho e a herança da escravidão no sertão baiano"]
+            ]
+          }
+        ],
+        perguntasEscola: [
+          "O que o 'ABC da Carreira Grande' cantado pelos remeiros diz sobre cada cidade entre Juazeiro e Pirapora?",
+          "Quais canções famosas da música brasileira foram compostas por artistas ligados a Bom Jesus da Lapa e Barra, como Zeca Bahia e Guttemberg Guarabyra?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-08.jpg",
+            legenda: "Conceito museográfico da Sala 14: 'As vozes do rio', 'O rio que canta', 'O rio pintado' e 'Artistas da Lapa'.",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: []
+      },
+      {
+        numero: 15,
+        titulo: "Folclore: o minhocão, a mãe-d'água e o nego-d'água",
+        nucleo: "V",
+        verificacao: "verificado",
+        sintese: "Os barqueiros contaram a Halfeld em 1853 do minhocão que derrubava barrancos, da mãe-d'água de cabelos de ouro, da cachorrinha-d'água e do cavalo-d'água, aos quais se somam o nego-d'água e as carrancas que espantavam os maus espíritos.",
+        blocos: [],
+        propostasSala: [
+          "Sala sonora e escura, com as lendas contadas por narradores da região",
+          "Cantigas de trabalho do rio, gravadas e transcritas",
+          "O nego-d'água lido como mito atlântico de origem africana que cita o São Francisco e as carrancas (Gabriela Paes, Revista Brasileira de História, 2019)",
+          "Programa de pesquisa do próprio museu para registrar e publicar lendas e festas do trecho de Bom Jesus da Lapa"
+        ],
+        perguntasEscola: [
+          "Quais lendas do rio São Francisco já eram contadas pelos barqueiros ao engenheiro Halfeld em 1852–1854?",
+          "Como a figura do Minhocão ajudava os ribeirinhos a explicar o desmoronamento súbito dos barrancos ('terras caídas')?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-10-folclore.jpg",
+            legenda: "Conceito museográfico da Sala 15: Folclore do São Francisco ('As cantigas do rio', Mãe-d'Água, Minhocão, Nêgo-d'Água e roda de contação de histórias).",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: []
+      }
+    ]
+  },
+  {
+    id: "nucleo-6",
+    romano: "VI",
+    titulo: "O rio transformado",
+    tempo: "Século XX até hoje",
+    resumo: "Ferrovias, geopolítica da integração nacional, a tragédia social de Sobradinho e a colonização da Serra do Ramalho, a crise hídrica e o futuro de proteção e espeleologia.",
+    eixos: [
+      {
+        numero: 16,
+        titulo: "Ferrovias e integração nacional",
+        nucleo: "VI",
+        verificacao: "verificado",
+        sintese: "O São Francisco foi o 'rio da unidade nacional' ligando Sudeste e Nordeste: a ferrovia da Bahia chegou a Juazeiro em 1896 e a Central do Brasil a Pirapora em 1910 (sistema trem–vapor–trem). Depois vieram as rodovias e o declínio da navegação a vapor.",
+        blocos: [
+          {
+            subtitulo: "O olhar dos militares: o rio da unidade e da defesa",
+            texto: "Na mensagem ao Congresso de 1950 apresentando o plano da CVSF, o presidente gen. Eurico Gaspar Dutra definiu o vale como elemento essencial da unidade nacional e da defesa na conjuntura da Guerra Fria — lido pela historiadora Dilma Andrade de Paula como atualização do binômio civilização contra barbárie."
+          }
+        ],
+        propostasSala: [
+          "Mapa do sistema trem–vapor–trem entre o Rio de Janeiro e Salvador (Central do Brasil até Pirapora, vapor pelo Médio São Francisco até Juazeiro e ferrovia até Salvador)",
+          "Painel sobre o declínio da navegação: rodovias, caminhões, assoreamento e fim das linhas de vapor"
+        ],
+        tabelas: [
+          {
+            titulo: "O vale na geopolítica e no olhar militar (1896–1978)",
+            colunas: ["Período", "Quem", "Como viam o vale"],
+            linhas: [
+              ["1896–1897", "Exército em Canudos", "Juazeiro como base da primeira expedição (nov. 1896); o sertão como inimigo a vencer"],
+              ["1935", "Mário Travassos, Projeção continental do Brasil", "O vale aparece só como referência regional, não como eixo geopolítico"],
+              ["1950", "Gen. Eurico Gaspar Dutra, presidente", "O rio como laço da unidade nacional e da defesa; o vale como futuro 'centro de civilização brasileira'"],
+              ["1971", "Operação Pajuçara", "O sertão do médio rio como esconderijo de guerrilha; Carlos Lamarca é morto em Ipupiara"],
+              ["1972–1978", "Regime militar", "Sobradinho e a Serra do Ramalho, a 'cidade do futuro'"],
+              ["1974", "Governo Geisel", "Criação da Codevasf, sucessora da Comissão do Vale e da Suvale"]
+            ]
+          }
+        ],
+        perguntasEscola: [
+          "Como funcionava a viagem 'trem–vapor–trem' para quem ia do Rio de Janeiro a Salvador pelo rio São Francisco na primeira metade do século XX?",
+          "Por que os vapores deixaram de navegar entre Pirapora, Bom Jesus da Lapa e Juazeiro?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-06.jpg",
+            legenda: "Conceito museográfico do Núcleo VI ('O Rio Transformado'): Salas 16 (Trilhos e vapores), 17 (As cidades debaixo d'água / Sobradinho e Serra do Ramalho), 18 (O rio que seca) e 19 (O futuro do rio).",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: ["21-porto-juazeiro-hoje.jpg", "22-juazeiro-petrolina-ponte.jpg"]
+      },
+      {
+        numero: 17,
+        titulo: "O rio que subiu: a tragédia de Sobradinho e a Serra do Ramalho",
+        nucleo: "VI",
+        verificacao: "verificado",
+        sintese: "Construída entre 1972 e 1978, a barragem de Sobradinho formou um lago de 4.214 km² que cobriu Casa Nova, Remanso, Sento Sé, Pilão Arcado e dezenas de povoados, deslocando cerca de 72 mil pessoas (80% camponeses, dos quais só 13,9% tinham título da terra, segundo Lygia Sigaud, 1986). Parte dessa migração forçada terminou entre Bom Jesus da Lapa e Carinhanha, no Projeto Especial de Colonização (PEC) Serra do Ramalho.",
+        blocos: [
+          {
+            subtitulo: "Da submersão às 23 agrovilas da Serra do Ramalho (1975–1976)",
+            texto: "Com 258 mil hectares e 23 agrovilas (20 em Bom Jesus da Lapa e 3 em Carinhanha), o projeto recebeu 1.402 famílias (das quais 600 não se adaptaram e 802 ficaram). As fontes registram o início da chegada entre 1975 (Agrovila 02) e maio/setembro de 1976 (Agrovilas 03, 06 e 07). Na chegada não havia água encanada nem luz; o gado era proibido no projeto e subiu de vapor para fazendas como CSB e Lageado, enquanto moradores iam a pé até a Lapa buscar mantimentos. Muitos chamaram o projeto de 'cativeiro', em contraste com o apelido militar de 'cidade do futuro'. Em 1989, Serra do Ramalho emancipou-se como município."
+          },
+          {
+            subtitulo: "História oral: a tarefa mais urgente do museu",
+            texto: "Quem chegou em 1975–1976 com 30 anos tem hoje cerca de 80. Gravar os depoimentos nas agrovilas (em parceria com a Prefeitura de Serra do Ramalho, UFOB e UNEB) é a contribuição mais urgente que o museu pode dar antes mesmo de abrir as portas."
+          },
+          {
+            subtitulo: "Resenha crítica: 'Terra Roubada' (Geraubte Erde, 1980), de Peter von Gunten",
+            texto: "Rodado em 16 mm parcialmente na clandestinidade durante o regime militar, o documentário suíço 'Terra Roubada' (Geraubte Erde, 1980, 55 min, dir. Peter von Gunten — disponível em https://www.youtube.com/watch?v=kFfzEiKfQcY) é o mais contundente registro audiovisual contemporâneo ao enchimento do lago de Sobradinho. Enquanto a propaganda oficial celebrava o 'maior lago artificial do mundo' como marco de progresso energético, a câmera de von Gunten expôs o custo humano da obra: a inundação de Casa Nova, Sento Sé, Remanso, Pilão Arcado e dezenas de povoados, a expulsão de mais de 70 mil ribeirinhos (80% camponeses sem título formal das vazantes que cultivavam há gerações) e a imposição dos planos de remanejamento da CHESF para o Projeto Especial de Colonização (PEC) da Serra do Ramalho, a centenas de quilômetros rio acima. A obra denuncia como a energia e os grandes perímetros irrigados de cana-de-açúcar e agroexportação foram erguidos sobre o desenraizamento das famílias ribeirinhas, muitas das quais recusaram a transferência para as agrovilas ou acabaram empurradas para o trabalho precarizado nos canaviais. Mais de uma década depois, o cineasta retornou ao São Francisco para filmar a continuação 'Terra Prometida' (Gelobtes Land, 1993), compondo um díptico sociológico indispensável sobre Sobradinho e a Serra do Ramalho."
+          }
+        ],
+        propostasSala: [
+          "Entrada pela água: corredor em que o nível de uma 'água' projetada sobe pelas paredes até cobrir fotografias das quatro cidades submersas",
+          "Parede dos nomes (Casa Nova, Remanso, Sento Sé, Pilão Arcado e povoados submersos) e mapa animado do êxodo até as 23 agrovilas",
+          "Objetos trazidos pelas famílias na mudança e escuta de 'Sobradinho' (Sá & Guarabyra: 'o sertão vai virar mar')",
+          "Cabine de cinema com trechos de Terra Roubada (1980), Terra Prometida (1993), A Cidade do Futuro (2016) e Sobradinho (2020)",
+          "Saída para o presente: a Serra do Ramalho hoje, titulação incompleta (134 títulos até 2021) e os povos que compõem o município (reassentados, sem-terra, atingidos de Itaipu, povo Pankararu e quilombos Barreiro Grande e Água Fria)"
+        ],
+        tabelas: [
+          {
+            titulo: "Destino das 8.619 famílias rurais deslocadas por Sobradinho (dados CHESF / Siqueira)",
+            colunas: ["Destino", "Parcela / Famílias"],
+            linhas: [
+              ["Borda do lago", "31% (2.653 famílias)"],
+              ["Caatinga, por conta própria", "20% (1.751 famílias)"],
+              ["Serra do Ramalho (PEC)", "cerca de 12% (1.402 famílias vieram; 802 permaneceram)"],
+              ["Novas sedes municipais", "11% (974 famílias)"]
+            ]
+          },
+          {
+            titulo: "Chegada às agrovilas da Serra do Ramalho (Prefeitura de Serra do Ramalho, 2024)",
+            colunas: ["Agrovila", "Chegada", "Cidades de origem"],
+            linhas: [
+              ["Agrovila 02", "1975", "Remanso; depois Carrapato, Baraúna e Bela Vista"],
+              ["Agrovila 03", "a partir de maio de 1976", "Sento Sé, Pilão Arcado, Casa Nova, Pau-a-Pique, Barra da Cruz"],
+              ["Agrovila 06", "24 de setembro de 1976", "Remanso, Casa Nova, Sento Sé"],
+              ["Agrovila 07", "1976", "Sento Sé, Pilão Arcado, Casa Nova"]
+            ]
+          },
+          {
+            titulo: "Filmografia de Sobradinho e da Serra do Ramalho",
+            colunas: ["Filme", "Ano", "Direção", "O que mostra"],
+            linhas: [
+              ["Terra Roubada (Geraubte Erde)", "1980", "Peter von Gunten (Suíça)", "Filmado às escondidas durante a retirada: a CHESF, a resistência camponesa e a recusa da Serra do Ramalho (55 min, 16 mm)"],
+              ["Terra Prometida (Gelobtes Land)", "1993", "Peter von Gunten (Suíça)", "As famílias que ficaram na caatinga, em São Gonçalo da Serra; exibido em Berlim, Locarno e em 150 sessões itinerantes na região"],
+              ["A Cidade do Futuro", "2016", "Cláudio Marques e Marília Hughes", "Ficção filmada e ambientada na Serra do Ramalho; retoma o apelido militar do projeto"],
+              ["Sobradinho", "2020", "Cláudio Marques e Marília Hughes", "Documentário de 70 min: dona Pequenita, a única antiga moradora que voltou, vive na cidade-fantasma e revê vídeos e fotos antigas"]
+            ]
+          }
+        ],
+        videos: [
+          {
+            titulo: "Terra Roubada (Geraubte Erde)",
+            ano: "1980",
+            direcao: "Peter von Gunten (Suíça)",
+            duracao: "55 min · 16 mm",
+            descricao: "Filmado às escondidas durante a retirada compulsória das populações de Sobradinho: documenta a atuação da CHESF, a submersão das vilas ribeirinhas, a resistência dos camponeses e o embate em torno da transferência para o PEC Serra do Ramalho.",
+            resenha: "Resenha crítica: Rodado parcialmente na clandestinidade em pleno regime militar, 'Terra Roubada' desmonta o discurso oficial do 'milagre energético' ao mostrar, no calor dos acontecimentos, a diáspora forçada de dezenas de milhares de pescadores, vazanteiros e pequenos agricultores do São Francisco. O filme registra as assembleias, o desespero diante da subida das águas, a crítica camponesa ao reassentamento distante na Serra do Ramalho e a conversão de antigos agricultores autônomos em mão de obra precarizada para grandes projetos de cana-de-açúcar e agroexportação.",
+            acervo: "Peter von Gunten (Suíça) / Difusão: Canoa de Tolda e YouTube",
+            youtubeId: "kFfzEiKfQcY",
+            youtubeUrl: "https://www.youtube.com/watch?v=kFfzEiKfQcY",
+            link: "https://www.youtube.com/watch?v=kFfzEiKfQcY"
+          },
+          {
+            titulo: "Terra Prometida (Gelobtes Land)",
+            ano: "1993",
+            direcao: "Peter von Gunten (Suíça)",
+            duracao: "Longa-metragem documental",
+            descricao: "Continuação de Terra Roubada: acompanha as famílias que recusaram o reassentamento oficial e ficaram na caatinga, em São Gonçalo da Serra. Exibido nos festivais de Berlim e Locarno e em mais de 150 sessões de cinema itinerante na região do São Francisco.",
+            acervo: "Peter von Gunten / Referência documental: Canoa de Tolda",
+            link: "https://canoadetolda.org.br/"
+          },
+          {
+            titulo: "A Cidade do Futuro",
+            ano: "2016",
+            direcao: "Cláudio Marques e Marília Hughes (Coletivo Filmes, Bahia)",
+            duracao: "75 min · Ficção",
+            descricao: "Longa-metragem de ficção filmado e ambientado nas agrovilas de Serra do Ramalho, retomando no título o apelido oficial usado pelo regime militar para o Projeto Especial de Colonização.",
+            acervo: "Coletivo Filmes / Referência: Festival Cinelatino de Toulouse",
+            link: "https://www.cinelatino.fr/film/a-cidade-do-futuro"
+          },
+          {
+            titulo: "Sobradinho",
+            ano: "2020",
+            direcao: "Cláudio Marques e Marília Hughes (Coletivo Filmes, Bahia)",
+            duracao: "70 min · Documentário",
+            descricao: "Acompanha dona Pequenita, a única antiga moradora que retornou e vive na cidade-fantasma à beira do lago de Sobradinho, revendo fotografias e vídeos antigos das vilas submersas.",
+            acervo: "Coletivo Filmes / Referência: 44.ª Mostra Internacional de Cinema de São Paulo",
+            link: "https://44.mostra.org/filmes/sobradinho"
+          }
+        ],
+        perguntasEscola: [
+          "Quais foram as quatro cidades históricas cobertas pelas águas da barragem de Sobradinho entre 1972 e 1978?",
+          "Como nasceram as 23 agrovilas de Serra do Ramalho (1975–1976) e quais dificuldades as famílias reassentadas enfrentaram ao chegar?",
+          "Por que é tão urgente gravar hoje as memórias dos moradores mais velhos das agrovilas de Serra do Ramalho?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-06.jpg",
+            legenda: "Conceito museográfico da Sala 17 ('As cidades debaixo d'água: Sobradinho e Serra do Ramalho') no Núcleo VI.",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: []
+      },
+      {
+        numero: 18,
+        titulo: "A crise hídrica: o rio que seca",
+        nucleo: "VI",
+        verificacao: "verificado",
+        sintese: "O rio perde água: o desmatamento do Cerrado e das veredas, a expansão do agronegócio no oeste baiano, a perfuração de poços no Aquífero Urucuia e a perda das matas ciliares reduzem a vazão dos afluentes que alimentam o São Francisco na seca. Na foz, sem as areias retidas pelas barragens, o mar avançou e engoliu o povoado do Cabeço e o seu farol.",
+        blocos: [],
+        propostasSala: [
+          "Gráficos históricos da vazão do rio ao longo das décadas (dados da ANA)",
+          "A transposição do São Francisco: da proposta imperial de Marcos Antônio de Macedo (citada por Halfeld em 1852) aos Eixos Norte e Leste atuais",
+          "O farol do Cabeço submerso: comparativo do mapa da foz em 1858 e hoje (dados do IBGE)"
+        ],
+        perguntasEscola: [
+          "Por que o desmatamento das veredas e o uso excessivo do Aquífero Urucuia diminuem a água do São Francisco na época da seca?",
+          "Por que o oceano Atlântico avançou sobre o povoado e o farol do Cabeço, na foz do São Francisco?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-06.jpg",
+            legenda: "Conceito museográfico da Sala 18 ('O rio que seca') com globo e painéis hidrográficos.",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: []
+      },
+      {
+        numero: 19,
+        titulo: "O futuro: proteger o rio e descobrir o subsolo",
+        nucleo: "VI",
+        verificacao: "verificado",
+        sintese: "A última sala abre-se para o mirante voltado para o rio e o morro da Lapa e pergunta ao visitante o que ele fará pelo Velho Chico: recuperar matas ciliares, proteger nascentes e veredas, defender o território e explorar de forma sustentável o carste da Serra do Ramalho e de Santana (onde fica a Gruta do Padre, com ~16 km, a 3ª maior do Brasil).",
+        blocos: [],
+        propostasSala: [
+          "Mapa das cavernas cadastradas e das que faltam explorar, em parceria com a SBE e o CECAV/ICMBio",
+          "Turismo científico e espeleológico como alternativa econômica para a Serra do Ramalho e Bom Jesus da Lapa",
+          "Movimentos culturais e ambientais ('Eu viro carranca pra defender o Velho Chico') e mural de compromissos dos visitantes"
+        ],
+        perguntasEscola: [
+          "O que cada morador, escola e visitante pode fazer para proteger as matas ciliares, as lagoas marginais e as cavernas do Médio São Francisco?",
+          "Como o Clube de Espeleologia do Oeste Baiano pode ajudar a proteger os fósseis e os animais raros das grutas da nossa região?"
+        ],
+        instalacoes: [
+          {
+            arquivo: "assets/instalacoes/instalacao-06.jpg",
+            legenda: "Conceito museográfico da Sala 19 ('O futuro do rio') abrindo para o mirante e o programa socioambiental.",
+            avisoIA: "Imagem recriada digitalmente, não é registro original"
+          }
+        ],
+        imagens: ["23-sistema-agua-clara-serra-ramalho.jpg"]
+      }
+    ]
+  }
+];

@@ -1,0 +1,673 @@
+[
+  {
+    "id": "augusto-riedel",
+    "nome": "Augusto Riedel",
+    "datas": "Leipzig, 1836 – Rio de Janeiro, 1877",
+    "papel": "Fotógrafo da viagem do Duque de Saxe pelo Rio São Francisco (1868)",
+    "resumoCurto": "Autor da mais antiga fotografia conhecida de Bom Jesus da Lapa (1868) e dos primeiros registros fotográficos da navegação a vapor na bacia do São Francisco.",
+    "biografiaCompleta": "Filho do botânico alemão Ludwig Riedel, Augusto Riedel estabeleceu-se no Brasil como fotógrafo e acompanhou, em 1868, a expedição científica e política do príncipe Luís Augusto Maria Eudes de Saxe-Coburgo-Gota (Duque de Saxe, genro de D. Pedro II) pelas províncias de Minas Gerais, Bahia, Pernambuco, Alagoas e Sergipe. Seu álbum fotográfico dedicato ao Imperador D. Pedro II guarda a primeira fotografia conhecida de Bom Jesus da Lapa — tomada da margem esquerda do rio, mostrando o morro calcário, a entrada da gruta e o casario ribeirinho — e a célebre imagem do vapor São Salvador.",
+    "cronologia": [
+      {
+        "ano": "1836",
+        "fato": "Nasce em Leipzig, Alemanha, filho do naturalista Ludwig Riedel."
+      },
+      {
+        "ano": "1865",
+        "fato": "Atua como fotógrafo no Rio de Janeiro e em São Paulo, recebendo o título de Fotógrafo da Casa Imperial."
+      },
+      {
+        "ano": "1868",
+        "fato": "Acompanha o Duque de Saxe pelo rio das Velhas e rio São Francisco até Paulo Afonso, produzindo o álbum 'Viagem de S. A. Real o Duque de Saxe ao interior do Brasil'."
+      },
+      {
+        "ano": "1868",
+        "fato": "Fotografa Bom Jesus da Lapa a partir da margem oposta e o vapor S. Salvador."
+      },
+      {
+        "ano": "1877",
+        "fato": "Falece no Rio de Janeiro; seus álbuns permanecem na coleção particular de D. Pedro II."
+      },
+      {
+        "ano": "1891",
+        "fato": "D. Pedro II doa sua coleção fotográfica à Biblioteca Nacional (integrada ao programa Memória do Mundo da UNESCO)."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Fundação Biblioteca Nacional (Rio de Janeiro) e Library of Congress (Washington, D.C.)",
+      "colecao": "Coleção Dona Thereza Christina Maria (Álbum da Viagem do Duque de Saxe, 1868)",
+      "link": "https://bndigital.bn.gov.br/",
+      "comoPedir": "As reproduções digitais de alta resolução estão disponíveis em domínio público na BNDigital e no catálogo da Library of Congress."
+    },
+    "publicacoesExposicoes": [
+      "Riedel, Augusto. Viagem de S. A. Real o Duque de Saxe ao interior do Brasil no anno de 1868 (Álbum fotográfico, 1868).",
+      "Cassimiro, Roberto. 'Registros fotográficos históricos do Santuário de Bom Jesus da Lapa' (Congresso Brasileiro de Espeleologia, 2019)."
+    ],
+    "salasRelacionadas": [
+      7,
+      8,
+      10
+    ],
+    "cidadesRelacionadas": [
+      "bom-jesus-da-lapa",
+      "pirapora"
+    ]
+  },
+  {
+    "id": "adolpho-lutz-astrogildo-machado",
+    "nome": "Adolpho Lutz e Astrogildo Machado",
+    "datas": "Lutz (1855–1940) · Machado (1885–1945)",
+    "papel": "Cientistas do Instituto Oswaldo Cruz na expedição fluvial de 1912",
+    "resumoCurto": "Médicos e pesquisadores de Manguinhos que desceram o São Francisco de vapor em maio de 1912, deixando 5 fotografias históricas e o primeiro levantamento parasitológico de Bom Jesus da Lapa.",
+    "biografiaCompleta": "Em abril–junho de 1912, a pedido da Inspetoria de Obras contra as Secas, o pioneiro da medicina tropical Adolpho Lutz e seu jovem discípulo Astrogildo Machado percorreram em vapor o São Francisco e seus afluentes entre Pirapora e Juazeiro. Em Bom Jesus da Lapa (8 a 10 de maio de 1912), estudaram a flora calcária (descobrindo uma Vellozia nova), coletaram moluscos transmissores nas lagoas e registraram a presença dos barbeiros Triatoma sordida e Panstrongylus megistus (vetores da doença de Chagas, descoberta em 1909). Seus negativos de vidro e cópias em papel datados de '8-V-12' são o mais completo conjunto fotográfico da cidade no início do século XX.",
+    "cronologia": [
+      {
+        "ano": "1908",
+        "fato": "Adolpho Lutz ingressa no Instituto Oswaldo Cruz (Manguinhos), no Rio de Janeiro."
+      },
+      {
+        "ano": "8 maio 1912",
+        "fato": "Chegam a Bom Jesus da Lapa às 9h30 da manhã vindos de Barreiras; visitam a gruta, escalam os lapiás do morro e fazem 5 fotografias da cidade e do rio."
+      },
+      {
+        "ano": "9 maio 1912",
+        "fato": "Percorrem a cavalo as lagoas da Lapa, coletam as primeiras 'paludinas' e observam a chegada noturna dos vapores Pirapora e Matta Machado com romeiros."
+      },
+      {
+        "ano": "10 maio 1912",
+        "fato": "Deixam a Lapa às 9h20 e entram às 11h no rio Corrente rumo a Santa Maria da Vitória."
+      },
+      {
+        "ano": "1915",
+        "fato": "Publicam 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro' nas Memórias do Instituto Oswaldo Cruz (t. 7, fasc. 1, p. 5–50)."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Casa de Oswaldo Cruz / Fiocruz (Rio de Janeiro)",
+      "colecao": "Fundo Instituto Oswaldo Cruz — Seção de Fotografias das Expedições Científicas (1912)",
+      "link": "https://basearch.coc.fiocruz.br/",
+      "comoPedir": "Imagens em domínio público nos termos do art. 44 da Lei n.º 9.610/1998; originais em negativos de vidro e provas em papel na Base Arch / COC-Fiocruz."
+    },
+    "publicacoesExposicoes": [
+      "Lutz, Adolpho; Machado, Astrogildo. 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro'. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, p. 5–50, 1915."
+    ],
+    "salasRelacionadas": [
+      1,
+      2,
+      8,
+      9,
+      10
+    ],
+    "cidadesRelacionadas": [
+      "bom-jesus-da-lapa",
+      "santa-maria-da-vitoria",
+      "pirapora",
+      "juazeiro-petrolina"
+    ]
+  },
+  {
+    "id": "henrique-halfeld",
+    "nome": "Henrique Guilherme Fernando Halfeld",
+    "datas": "Clausthal (Hannover), 1797 – Ouro Preto, 1873",
+    "papel": "Engenheiro-chefe da exploração imperial do Rio São Francisco (1852–1854)",
+    "resumoCurto": "Engenheiro de minas alemão a serviço do Império do Brasil que levantou, légua a légua, os 2.100 km do São Francisco entre Pirapora e o oceano Atlântico.",
+    "biografiaCompleta": "Contratado pelo Império em 1825, Henrique Guilherme Fernando Halfeld recebeu em 1852 a missão de explorar e cartografar integralmente o rio São Francisco desde a cachoeira de Pirapora até a foz no Atlântico. Durante dois anos (1852–1854), em batelões e canoas, mediu profundidades, corredeiras, ilhas e vazões, e descreveu cada vila, fazenda, salina, gruta e costume ribeirinho. Seu monumental 'Atlas e relatório concernente a exploração do Rio de S. Francisco', impresso em 1860 na Lithographia Imperial de Eduardo Rensburg, é a pedra angular de toda a história e geografia do vale.",
+    "cronologia": [
+      {
+        "ano": "1797",
+        "fato": "Nasce em Clausthal, no Reino de Hannover, onde se forma em engenharia de minas."
+      },
+      {
+        "ano": "1825",
+        "fato": "Chega ao Brasil contratado para o Imperial Corpo de Engenheiros e fixa-se em Minas Gerais (1836)."
+      },
+      {
+        "ano": "1852–1854",
+        "fato": "Chefia a exploração do rio São Francisco de Pirapora ao Atlântico, descrevendo Carinhanha, Malhada, Rio das Rãs, Bom Jesus da Lapa (128 casas, 250 hab.), Corrente e Urubu."
+      },
+      {
+        "ano": "1859",
+        "fato": "D. Pedro II utiliza as folhas manuscritas do mapa de Halfeld em sua viagem à cachoeira de Paulo Afonso."
+      },
+      {
+        "ano": "1860",
+        "fato": "Publica no Rio de Janeiro o Atlas e relatório em grande formato in-fólio."
+      },
+      {
+        "ano": "2026",
+        "fato": "Edição anotada e atualizada preparada para o Museu do Médio São Francisco."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Biblioteca do Senado Federal, Fundação Biblioteca Nacional e Arquivo Nacional",
+      "colecao": "Obras Raras — Cartografia Histórica do Império",
+      "link": "https://www2.senado.leg.br/bdsf/",
+      "comoPedir": "Obra em domínio público; digitalização integral acessível na Biblioteca Digital do Senado Federal e na BNDigital."
+    },
+    "publicacoesExposicoes": [
+      "Halfeld, H. G. F. Atlas e relatório concernente a exploração do Rio de S. Francisco desde a Cachoeira da Pirapóra até ao Oceano Atlântico. Rio de Janeiro: Lithographia Imperial de Eduardo Rensburg, 1860.",
+      "Edição anotada do Museu do Médio São Francisco (Bom Jesus da Lapa, 2026)."
+    ],
+    "salasRelacionadas": [
+      1,
+      3,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      15,
+      18
+    ],
+    "cidadesRelacionadas": [
+      "pirapora",
+      "januaria",
+      "carinhanha",
+      "malhada",
+      "bom-jesus-da-lapa",
+      "sitio-do-mato",
+      "paratinga",
+      "barra",
+      "juazeiro-petrolina"
+    ]
+  },
+  {
+    "id": "richard-burton",
+    "nome": "Richard Francis Burton",
+    "datas": "Torquay, 1821 – Trieste, 1890",
+    "papel": "Explorador, orientalista e cônsul britânico no Brasil (viagem de 1867)",
+    "resumoCurto": "Desceu o rio das Velhas e o São Francisco em canoa e ajoujo em 1867, deixando em 'Explorations of the Highlands of the Brazil' (1869) uma descrição clássica da Lapa e da romaria.",
+    "biografiaCompleta": "Enquanto servia como cônsul britânico em Santos (1865–1868), Sir Richard Francis Burton — já célebre pelas viagens a Meca e aos Grandes Lagos africanos — empreendeu em 1867 uma longa expedição pelas minas de ouro de Minas Gerais e desceu em ajoujo o rio das Velhas e o São Francisco até o Atlântico. Visitou Carinhanha e Malhada no fim de setembro e desembarcou em Bom Jesus da Lapa em 1º de outubro de 1867, comparando o morro a uma 'esfinge sem cabeça' e a uma catedral gótica, e descrevendo com riqueza de detalhes a gruta, os ex-votos e a fé sertaneja.",
+    "cronologia": [
+      {
+        "ano": "1821",
+        "fato": "Nasce em Torquay, Devon (Inglaterra)."
+      },
+      {
+        "ano": "1865",
+        "fato": "Assume o consulado britânico em Santos (SP)."
+      },
+      {
+        "ano": "Set. 1867",
+        "fato": "Passa por Januária, Carinhanha, Malhada, Ilha da Batalha e barra do Rio das Rãs."
+      },
+      {
+        "ano": "1º out. 1867",
+        "fato": "Desembarca em Bom Jesus da Lapa, visita a gruta do Bom Jesus e coleta dados sobre a romaria."
+      },
+      {
+        "ano": "1869",
+        "fato": "Publica em Londres 'Explorations of the Highlands of the Brazil' em 2 volumes, com gravura de Paulo Afonso no frontispício."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Internet Archive / British Library / Wellcome Collection (Londres)",
+      "colecao": "Primeira edição de Tinsley Brothers (Londres, 1869) e retrato na Wellcome Collection",
+      "link": "https://archive.org/",
+      "comoPedir": "Texto e gravuras de 1869 em domínio público no Internet Archive; retrato fotográfico sob licença CC BY 4.0 na Wellcome Collection."
+    },
+    "publicacoesExposicoes": [
+      "Burton, Richard Francis. Explorations of the Highlands of the Brazil; with a full account of the gold and diamond mines; also, canoeing down 1500 miles of the great river São Francisco, from Sabará to the sea. 2 vols. Londres: Tinsley Brothers, 1869."
+    ],
+    "salasRelacionadas": [
+      5,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "cidadesRelacionadas": [
+      "pirapora",
+      "januaria",
+      "carinhanha",
+      "malhada",
+      "bom-jesus-da-lapa",
+      "paratinga",
+      "barra",
+      "juazeiro-petrolina"
+    ]
+  },
+  {
+    "id": "james-wells",
+    "nome": "James William Wells",
+    "datas": "Londres, 1848 – circa 1915",
+    "papel": "Engenheiro civil e desenhista britânico (viagem de 1875 / livro de 1886)",
+    "resumoCurto": "Atravessou o Médio São Francisco durante a grande cheia de janeiro de 1875 e desenhou as gravuras clássicas de Bom Jesus da Lapa, de Carinhanha e dos remeiros num ajoujo à noite.",
+    "biografiaCompleta": "Engenheiro civil britânico contratado para levantamentos ferroviários e topográficos no Brasil entre 1868 e 1886, James William Wells percorreu mais de três mil milhas a cavalo e de canoa do Rio de Janeiro ao Maranhão. Em janeiro de 1875, chegou a Carinhanha em plena enchente e desceu o São Francisco até Bom Jesus da Lapa (onde seu barco entrou navegando por uma rua inundada) e a Barra do Rio Grande. Seu livro de 1886 traz três das mais belas gravuras oitocentistas da nossa região.",
+    "cronologia": [
+      {
+        "ano": "1873–1875",
+        "fato": "Realiza levantamentos topográficos no interior de Minas Gerais, Bahia, Goiás e Maranhão."
+      },
+      {
+        "ano": "Jan. 1875",
+        "fato": "Passa dez dias em Carinhanha durante a cheia e atravessa o São Francisco em balsa (ajoujo)."
+      },
+      {
+        "ano": "Jan.–fev. 1875",
+        "fato": "Visita Bom Jesus da Lapa ('a Meca do São Francisco') com as ruas alagadas pela cheia."
+      },
+      {
+        "ano": "Mar. 1875",
+        "fato": "Sobe o vale do rio Grande com tropas de mulas ('Rodrigues, o tropeiro') rumo a Goiás."
+      },
+      {
+        "ano": "1886",
+        "fato": "Publica em Londres 'Three Thousand Miles through Brazil', ilustrado com seus próprios desenhos."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Internet Archive / Royal Geographical Society (Londres)",
+      "colecao": "Edição original de Sampson Low, Marston, Searle, & Rivington (Londres, 1886)",
+      "link": "https://archive.org/",
+      "comoPedir": "Obra e gravuras em domínio público; edição anotada em português já preparada pelo projeto do Museu."
+    },
+    "publicacoesExposicoes": [
+      "Wells, James W. Three Thousand Miles through Brazil, from Rio de Janeiro to Maranhão. 2 vols. Londres: Sampson Low, 1886.",
+      "Edição anotada em português preparada para o Museu do Médio São Francisco."
+    ],
+    "salasRelacionadas": [
+      6,
+      7,
+      8,
+      10,
+      14
+    ],
+    "cidadesRelacionadas": [
+      "carinhanha",
+      "malhada",
+      "bom-jesus-da-lapa",
+      "barra"
+    ]
+  },
+  {
+    "id": "theodoro-sampaio",
+    "nome": "Theodoro Fernandes Sampaio",
+    "datas": "Santo Amaro da Purificação (BA), 1855 – Rio de Janeiro, 1937",
+    "papel": "Engenheiro da Comissão Hidráulica (1879–1880), geógrafo, historiador e desenhista",
+    "resumoCurto": "Filho de mulher negra escravizada que se tornou um dos maiores engenheiros e intelectuais do Brasil; subiu o São Francisco até Pirapora em 1879 e voltou a cavalo de Carinhanha à Bahia.",
+    "biografiaCompleta": "Nascido no engenho Canabrava, em Santo Amaro (BA), filho da escravizada Domingas da Paixão, Theodoro Fernandes Sampaio formou-se em engenharia civil na Escola Politécnica do Rio de Janeiro (1877) e comprou a alforria da mãe e dos irmãos. Em 1879, aos 24 anos, foi escolhido como engenheiro de 2ª classe e desenhista da Comissão Hidráulica do Império chefiada por W. Milnor Roberts. Subiu o São Francisco da foz a Pirapora (visitando Bom Jesus da Lapa em 21–22 de novembro de 1879) e, em 22 de dezembro de 1879, desembarcou em Carinhanha para percorrer 835 km a cavalo em 35 dias pela margem direita (Malhada, Rio das Rãs, Lapa, Urubu) e pela Chapada Diamantina até Salvador — jornada documentada no Annexo N.º 2 (10 de abril de 1880) e no clássico livro de 1905.",
+    "cronologia": [
+      {
+        "ano": "1855",
+        "fato": "Nasce em 7 de janeiro no engenho Canabrava, em Santo Amaro da Purificação (BA)."
+      },
+      {
+        "ano": "1877",
+        "fato": "Forma-se em Engenharia Civil na Escola Politécnica do Rio de Janeiro."
+      },
+      {
+        "ano": "21–22 nov. 1879",
+        "fato": "Chega a Bom Jesus da Lapa com a Comissão Hidráulica; sobe o serrote e visita a gruta às 6h30 com Orville Derby."
+      },
+      {
+        "ano": "22 dez. 1879 – jan. 1880",
+        "fato": "Desembarca em Carinhanha e faz a travessia a cavalo de 835 km em 35 dias por Malhada, Rio das Rãs, Lapa, Urubu, Caetité e Chapada Diamantina."
+      },
+      {
+        "ano": "10 abr. 1880",
+        "fato": "Entrega a Milnor Roberts o relatório técnico 'Annexo N.º 2', registrando fósseis de megatério no Rio das Rãs, a mata da Serra da Malhada e o censo de Carinhanha."
+      },
+      {
+        "ano": "1905 / 1932",
+        "fato": "Publica 'O Rio São Francisco e a Chapada Diamantina' e o texto na Revista do IHGB (v. 167, 1932)."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Instituto Geográfico e Histórico da Bahia (IGHB, Salvador), Oliveira Lima Library (Washington) e IHGB (Rio de Janeiro)",
+      "colecao": "Arquivo Theodoro Sampaio (cadernos de campo e desenhos no IGHB) e Relatório de 1880",
+      "link": "https://www.ighb.org.br/",
+      "comoPedir": "Obras impressas de 1880, 1905 e 1932 em domínio público; cadernos manuscritos e desenhos originais sob guarda do IGHB em Salvador."
+    },
+    "publicacoesExposicoes": [
+      "Sampaio, Theodoro. 'Annexo N.º 2 (10 de abril de 1880)', em Relatorio de W. Milnor Roberts sobre o exame do Rio S. Francisco. Rio de Janeiro: Typographia Nacional, 1880.",
+      "Sampaio, Theodoro. O Rio de S. Francisco (trechos de um diário de viagem) e a Chapada Diamantina. São Paulo: Escolas Profissionaes Salesianas, 1905.",
+      "Transcrição integral do Relatório de 1880 e Annexo N.º 2 em EPUB pelo Museu do Médio São Francisco (2026)."
+    ],
+    "salasRelacionadas": [
+      1,
+      3,
+      6,
+      8,
+      10,
+      11,
+      13
+    ],
+    "cidadesRelacionadas": [
+      "pirapora",
+      "januaria",
+      "carinhanha",
+      "malhada",
+      "bom-jesus-da-lapa",
+      "sitio-do-mato",
+      "paratinga",
+      "barra",
+      "juazeiro-petrolina"
+    ]
+  },
+  {
+    "id": "orville-derby-milnor-roberts",
+    "nome": "William Milnor Roberts e Orville A. Derby",
+    "datas": "Roberts (1810–1881) · Derby (1851–1915)",
+    "papel": "Engenheiro-chefe e geólogo da Comissão Hidráulica do Império (1879–1880)",
+    "resumoCurto": "Lideraram o levantamento hidrográfico e geológico de 2.122 km do São Francisco em 1879–1880, projetando a desobstrução das corredeiras e o primeiro perfil geológico moderno do vale.",
+    "biografiaCompleta": "William Milnor Roberts, ex-presidente da Sociedade Americana de Engenheiros Civis e engenheiro-chefe da Northern Pacific Railroad, foi contratado em 1879 pelo Império do Brasil para chefiar a Comissão Hidráulica. Ao seu lado no exame do São Francisco esteve o geólogo norte-americano Orville Adelbert Derby (que mais tarde dirigiria a Comissão Geográfica e Geológica de São Paulo e o Serviço Geológico e Mineralógico do Brasil). Entre julho de 1879 e fevereiro de 1880, percorreram o rio da foz a Pirapora, medindo a vazão em Bom Jesus da Lapa (21–22 nov. 1879), orçando em 547:800$000 réis a abertura de canais nas corredeiras e descrevendo a geologia do serrote da Lapa.",
+    "cronologia": [
+      {
+        "ano": "31 jul. 1879",
+        "fato": "Partida da Comissão Hidráulica do Rio de Janeiro rumo à foz do São Francisco."
+      },
+      {
+        "ano": "18 set. – 26 out. 1879",
+        "fato": "Subida das corredeiras de Itaparica e Sobradinho com auxílio de pilotos indígenas (incluindo o prático Fabio no vapor Presidente Dantas)."
+      },
+      {
+        "ano": "21–22 nov. 1879",
+        "fato": "Medições hidrométricas abaixo da 'Itabirava' e escalada geológica do serrote de Bom Jesus da Lapa por Derby e Sampaio."
+      },
+      {
+        "ano": "14 dez. 1879",
+        "fato": "Chegada à cachoeira de Pirapora, completando o exame de 2.122 km do rio."
+      },
+      {
+        "ano": "1880",
+        "fato": "Publicação pela Typographia Nacional do Relatório de Roberts e do anexo 'Reconhecimento geológico do Valle do S. Francisco' de Orville Derby."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Oliveira Lima Library (Catholic University of America), Biblioteca Nacional e Montana State University Library",
+      "colecao": "W. Milnor Roberts Papers (Collection 783, Montana State University) e Relatório impresso de 1880",
+      "link": "https://archiveswest.orbiscascade.org/ark:80444/xv57976",
+      "comoPedir": "Relatório impresso de 1880 em domínio público (transcrito pelo museu); cadernetas de campo manuscritas na Montana State University."
+    },
+    "publicacoesExposicoes": [
+      "Roberts, W. Milnor. Relatorio de W. Milnor Roberts, engenheiro chefe da Commissão Hydraulica, sobre o exame do Rio S. Francisco. Rio de Janeiro: Typographia Nacional, 1880.",
+      "Derby, Orville A. 'Reconhecimento geológico do Valle do S. Francisco', anexo ao Relatório de Roberts, p. 1–24, 1880."
+    ],
+    "salasRelacionadas": [
+      1,
+      4,
+      7,
+      8
+    ],
+    "cidadesRelacionadas": [
+      "pirapora",
+      "carinhanha",
+      "bom-jesus-da-lapa",
+      "paratinga",
+      "juazeiro-petrolina"
+    ]
+  },
+  {
+    "id": "spix-martius",
+    "nome": "Johann Baptist von Spix e Carl F. P. von Martius",
+    "datas": "Spix (1781–1826) · Martius (1794–1868)",
+    "papel": "Naturalistas bávaros da expedição científica de 1817–1820",
+    "resumoCurto": "Atravessaram o São Francisco em Januária, Carinhanha, Malhada e Juazeiro entre 1818 e 1819, deixando descrições fundamentais das tropas, das lagoas marginais e das febres.",
+    "biografiaCompleta": "Enviados pelo rei Maximiliano I José da Baviera na comitiva da arquiduquesa Leopoldina em 1817, o zoólogo Johann Baptist von Spix e o botânico Carl Friedrich Philipp von Martius percorreram o Brasil de São Paulo ao Amazonas. Em setembro de 1818, cruzaram o norte de Minas (Januária) até a divisa de Goiás, desceram os rios Formoso e Carinhanha numa jangada de talos de buriti e atravessaram o São Francisco para o registro da Malhada rumo a Caetité e Salvador, voltando depois a cruzar o rio em Juazeiro. Descreveram as lagoas marginais repletas de aves como 'um quadro da criação do mundo'.",
+    "cronologia": [
+      {
+        "ano": "1817",
+        "fato": "Desembarcam no Rio de Janeiro integrando a missão científica austríaca e bávara."
+      },
+      {
+        "ano": "Set. 1818",
+        "fato": "Partem de Januária até o chapadão do Paranã, descem o Carinhanha e cruzam para a Malhada rumo a Caetité e Salvador."
+      },
+      {
+        "ano": "1819",
+        "fato": "Atravessam novamente o São Francisco na passagem de Juazeiro rumo a Pernambuco e Piauí."
+      },
+      {
+        "ano": "1828",
+        "fato": "Publicam em Munique o volume 2 de 'Reise in Brasilien' e o Atlas com a litografia de Juazeiro e da lagoa de aves do São Francisco."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Bayerische Staatsbibliothek (Munique) e Fundação Biblioteca Nacional",
+      "colecao": "Reise in Brasilien (1823–1831) e Atlas zur Reise in Brasilien",
+      "link": "https://www.digitale-sammlungen.de/",
+      "comoPedir": "Textos e litografias do Atlas em domínio público."
+    },
+    "publicacoesExposicoes": [
+      "Spix, J. B. von; Martius, C. F. P. von. Reise in Brasilien, vol. 2. Munique, 1828, p. 582–585.",
+      "Expedição 'Travessia do Sertão' (2018), refazendo o roteiro de 1818."
+    ],
+    "salasRelacionadas": [
+      2,
+      6,
+      8,
+      9
+    ],
+    "cidadesRelacionadas": [
+      "januaria",
+      "carinhanha",
+      "malhada",
+      "juazeiro-petrolina"
+    ]
+  },
+  {
+    "id": "mestre-guarany",
+    "nome": "Mestre Guarany (Francisco Biquiba Dy Lafuente Guarany)",
+    "datas": "Santa Maria da Vitória (BA), 1882/1884 – 1985",
+    "papel": "O maior escultor de carrancas da história do Rio São Francisco",
+    "resumoCurto": "Carpinteiro de barcos, santeiro e escultor do rio Corrente que talhou cerca de 80 das 120 carrancas de proa das grandes barcas do Médio São Francisco entre 1901 e 1945.",
+    "biografiaCompleta": "Nascido às margens do rio Corrente, em Santa Maria da Vitória (a menos de 100 km de Bom Jesus da Lapa), Francisco Biquiba Dy Lafuente Guarany reunia no próprio nome as matrizes espanhola, moçambicana e indígena do vale. Aprendeu marcenaria, tanoaria e construção naval, e em 1901 esculpiu sua primeira carranca para a barca Tamandaré. Até 1945 produziu cerca de 80 figuras de proa em cedro e imburana, caracterizadas pela juba simétrica, olhos humanos e presas de fera. A partir de 1953 voltou a esculpir para museus e colecionadores, assinando 'F. Guarany' desde 1963 e tendo sua obra celebrada no MASP, na Bienal de São Paulo, em Lagos (Nigéria), no IMS e nos versos de Carlos Drummond de Andrade.",
+    "cronologia": [
+      {
+        "ano": "1882 ou 1884",
+        "fato": "Nasce em Santa Maria da Vitória (BA), às margens do rio Corrente (as fontes divergem entre 1882 e 2 de abril de 1884)."
+      },
+      {
+        "ano": "1901",
+        "fato": "Esculpe sua primeira carranca de proa para a barca Tamandaré."
+      },
+      {
+        "ano": "1901–1945",
+        "fato": "Produz cerca de 80 carrancas de navegação para as barcas de comércio do Médio São Francisco."
+      },
+      {
+        "ano": "1946–1947",
+        "fato": "Marcel Gautherot fotografa suas carrancas nas barcas em Bom Jesus da Lapa e Santa Maria da Vitória; reportagem sai em O Cruzeiro (1947)."
+      },
+      {
+        "ano": "1953–1982",
+        "fato": "Segunda fase da carreira: esculpe carrancas autônomas assinadas 'F. Guarany', expostas no MASP (1969, 1975) e no FESTAC 77 em Lagos (Nigéria)."
+      },
+      {
+        "ano": "1985",
+        "fato": "Falece centenário em Santa Maria da Vitória; Carlos Drummond de Andrade dedica-lhe poema no Jornal do Brasil."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Museu de Arte Moderna da Bahia (MAM-BA), MASP, Museu do Folclore Edison Carneiro (RJ), Acervo IMS e Oficina da família Guarany em Santa Maria da Vitória",
+      "colecao": "Coleções de Arte Popular e Fotografia Etnográfica",
+      "link": "https://enciclopedia.itaucultural.org.br/pessoa215763/mestre-guarany",
+      "comoPedir": "Fotografias sob licença CC disponíveis no Wikimedia Commons; ferramentas originais preservadas em Santa Maria da Vitória pelo prof. Jairo Rodrigues e oficina viva mantida pelo neto Júnio Guarany."
+    },
+    "publicacoesExposicoes": [
+      "Pardal, Paulo. Carrancas do São Francisco. Rio de Janeiro, 1974.",
+      "Pardal, Paulo; Valladares, Clarival do Prado. Guarany: 80 anos de carrancas. Rio de Janeiro, 1981.",
+      "Mammì, Lorenzo; Titan Jr., Samuel. A viagem das carrancas. São Paulo: IMS / Pinacoteca / Martins Fontes, 2015–2016."
+    ],
+    "salasRelacionadas": [
+      7,
+      8,
+      14,
+      15
+    ],
+    "cidadesRelacionadas": [
+      "santa-maria-da-vitoria",
+      "bom-jesus-da-lapa",
+      "barra",
+      "juazeiro-petrolina",
+      "pirapora"
+    ]
+  },
+  {
+    "id": "marcel-gautherot",
+    "nome": "Marcel Gautherot",
+    "datas": "Paris, 1910 – Rio de Janeiro, 1996",
+    "papel": "Fotógrafo franco-brasileiro que documentou os vapores, as carrancas, as barcas e a romaria de Bom Jesus da Lapa em 1946",
+    "resumoCurto": "Percorreu o Médio São Francisco em 1946 ao lado de Pierre Verger, registrando a rotina dos barcos a vapor ('gaiolas'), cerca de 30 carrancas de proa nas barcas atracadas em Bom Jesus da Lapa e o cotidiano da romaria.",
+    "biografiaCompleta": "Formado em arquitetura e ligado ao Museu do Homem de Paris, Marcel Gautherot radicou-se no Brasil em 1940, colaborando com o SPHAN (atual IPHAN) de Rodrigo Melo Franco de Andrade. Em 1946, desceu o São Francisco em companhia de Pierre Verger, fotografando com sua câmera Rolleiflex a rotina dos barcos a vapor (como o vapor São Salvador e as embarcações da Navegação Mineira do São Francisco, suas grandes rodas de popa de madeira, o embarque por pranchas de tábuas, as redes e sacarias nos conveses e o manejo do gado nas barrancas), além das barcas de comércio, dos remeiros, de cerca de 30 carrancas de proa reunidas na festa de Bom Jesus da Lapa, do casamento coletivo e do interior da gruta. Seu arquivo com mais de 25 mil imagens foi adquirido em 1999 pelo Instituto Moreira Salles (IMS). Abaixo são apresentadas 5 fotografias dessa série sobre a rotina dos barcos a vapor em versões manipuladas por inteligência artificial para colorização e melhoria de resolução, devidamente identificadas com o aviso obrigatório da Regra 3.4 ('Imagem recriada digitalmente, não é registro original').",
+    "cronologia": [
+      {
+        "ano": "1910",
+        "fato": "Nasce em Paris, França."
+      },
+      {
+        "ano": "1940",
+        "fato": "Estabelece-se definitivamente no Brasil e passa a colaborar com o SPHAN."
+      },
+      {
+        "ano": "1946",
+        "fato": "Viaja pelo rio São Francisco com Pierre Verger, documentando a romaria de Bom Jesus da Lapa e as carrancas nas proas das barcas."
+      },
+      {
+        "ano": "1947 / 1951 / 1955",
+        "fato": "Suas fotografias das carrancas e barcas do São Francisco são publicadas nas revistas O Cruzeiro (1947), Sombra (1951) e Módulo (1955), de Oscar Niemeyer."
+      },
+      {
+        "ano": "1999",
+        "fato": "O Instituto Moreira Salles adquire a totalidade do arquivo fotográfico de Marcel Gautherot."
+      },
+      {
+        "ano": "2015–2016",
+        "fato": "Exposição 'A viagem das carrancas' reúne no IMS e na Pinacoteca 40 carrancas e 42 fotografias de Gautherot."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Instituto Moreira Salles (IMS) — Rio de Janeiro / São Paulo",
+      "colecao": "Coleção Marcel Gautherot (mais de 25.000 negativos e provas; ampliações também no MASP)",
+      "link": "https://ims.com.br/titular-colecao/marcel-gautherot/",
+      "comoPedir": "Obras protegidas por direitos autorais sob gestão exclusiva do Instituto Moreira Salles. Para consulta das imagens e solicitação de licenciamento para exposição ou publicação, contatar o setor de Acervo Fotográfico do IMS (acervo@ims.com.br / Brasiliana Fotográfica)."
+    },
+    "publicacoesExposicoes": [
+      "Segala, Lygia. 'A coleção fotográfica de Marcel Gautherot'. Anais do Museu Paulista, v. 13, n. 2, p. 73–134, 2005.",
+      "Mammì, Lorenzo; Titan Jr., Samuel. A viagem das carrancas. São Paulo: IMS / Martins Fontes, 2015."
+    ],
+    "salasRelacionadas": [
+      7,
+      8,
+      10
+    ],
+    "cidadesRelacionadas": [
+      "bom-jesus-da-lapa",
+      "santa-maria-da-vitoria",
+      "pirapora",
+      "juazeiro-petrolina"
+    ]
+  },
+  {
+    "id": "pierre-verger",
+    "nome": "Pierre Fatumbi Verger",
+    "datas": "Paris, 1902 – Salvador, 1996",
+    "papel": "Fotógrafo e etnólogo franco-baiano que retratou os romeiros de Bom Jesus da Lapa em 1946",
+    "resumoCurto": "Chegou à Bahia em agosto de 1946 e subiu o São Francisco com Marcel Gautherot, colocando no centro do quadro o rosto dos romeiros, os aguadeiros e a feira de Bom Jesus da Lapa.",
+    "biografiaCompleta": "Viajante incansável desde 1932, Pierre Verger desembarcou em Salvador em 5 de agosto de 1946 e, no mesmo ano, percorreu o rio São Francisco com seu amigo Marcel Gautherot como fotógrafo contratado da revista O Cruzeiro. Enquanto Gautherot detinha o olhar arquitetônico sobre as carrancas e embarcações, Verger voltou sua Rolleiflex para as pessoas: os romeiros cumprindo promessa na gruta de Bom Jesus da Lapa, os aguadeiros com ancoretas nos jumentos e a chegada dos sertanejos. Seu acervo de 62 mil negativos pertence à Fundação Pierre Verger, em Salvador. Conforme a Regra 3.4 de direitos autorais, este portal apresenta a ficha técnica das séries e remete diretamente ao acervo oficial da Fundação.",
+    "cronologia": [
+      {
+        "ano": "1902",
+        "fato": "Nasce em Paris em 4 de novembro."
+      },
+      {
+        "ano": "5 ago. 1946",
+        "fato": "Chega a Salvador da Bahia, onde escolhe viver pelo resto da vida."
+      },
+      {
+        "ano": "1946",
+        "fato": "Percorre o Médio São Francisco e fotografa a romaria de Bom Jesus da Lapa ao lado de Marcel Gautherot."
+      },
+      {
+        "ano": "1988",
+        "fato": "Cria em Salvador a Fundação Pierre Verger, na Ladeira da Vila América, para preservar seus 62 mil negativos e biblioteca."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Fundação Pierre Verger (Salvador, Bahia)",
+      "colecao": "Acervo Fotográfico Pierre Verger — Série Rio São Francisco e Bom Jesus da Lapa (1946)",
+      "link": "https://www.pierreverger.org/",
+      "comoPedir": "Obras sob gestão de direitos da Fundação Pierre Verger (Salvador). Reproduções para a futura Galeria Permanente Pierre Verger na Sala 10 do museu dependem de convênio e licenciamento formal junto à Fundação."
+    },
+    "publicacoesExposicoes": [
+      "Verger, Pierre. Retratos da Bahia (1946–1952). Salvador: Corrupio / Fundação Pierre Verger.",
+      "Cassimiro, Roberto. 'Registros fotográficos históricos do Santuário de Bom Jesus da Lapa' (2019)."
+    ],
+    "salasRelacionadas": [
+      7,
+      8,
+      10
+    ],
+    "cidadesRelacionadas": [
+      "bom-jesus-da-lapa",
+      "juazeiro-petrolina",
+      "pirapora"
+    ]
+  },
+  {
+    "id": "noel-nutels-nery-guimaraes",
+    "nome": "F. Nery Guimarães, J. Fontes e Noel Nutels",
+    "datas": "Missão IOC (1946) · Noel Nutels e SUSA (1913–1973)",
+    "papel": "Médicos sanitaristas e documentaristas das missões de saúde em Bom Jesus da Lapa",
+    "resumoCurto": "Autores do grande inquérito sanitário de 905 fichas na romaria de agosto de 1946 (Nery Guimarães e J. Fontes) e das missões aéreas e filmagens da SUSA na Lapa nos anos 1950–1960 (Noel Nutels).",
+    "biografiaCompleta": "A saúde pública deixou registros documentais e visuais preciosos de Bom Jesus da Lapa em meados do século XX. Em 31 de julho de 1946, o médico F. Nery Guimarães e o fotógrafo J. Fontes voaram do Rio à Lapa pelo Instituto Oswaldo Cruz, examinando cerca de mil romeiros (905 fichas) e descrevendo detalhadamente a cidade de 1.000 casas invadida por 50 mil peregrinos. Na década seguinte, o médico sanitarista Noel Nutels (1913–1973), criador do Serviço de Unidades Sanitárias Aéreas (SUSA, 1956), pousou com suas equipes volantes em Bom Jesus da Lapa e registrou em película as mais antigas imagens em movimento conhecidas da cidade e do santuário, preservadas na Casa de Oswaldo Cruz (Fiocruz).",
+    "cronologia": [
+      {
+        "ano": "1913",
+        "fato": "Noel Nutels nasce em Ananiev (Ucrânia) e emigra na infância para Pernambuco, formando-se médico no Recife."
+      },
+      {
+        "ano": "31 jul. – ago. 1946",
+        "fato": "F. Nery Guimarães e o fotógrafo J. Fontes instalam posto médico do IOC na romaria de Bom Jesus da Lapa, abrindo 905 fichas clínicas."
+      },
+      {
+        "ano": "1947",
+        "fato": "Publicação de 'Doenças encontradas nos romeiros de Bom Jesus da Lapa, Bahia' nas Memórias do Instituto Oswaldo Cruz (v. 45, n. 1)."
+      },
+      {
+        "ano": "1956",
+        "fato": "Noel Nutels cria o Serviço de Unidades Sanitárias Aéreas (SUSA), levando abreugrafia e vacinação ao sertão e às aldeias indígenas."
+      },
+      {
+        "ano": "2000",
+        "fato": "A VideoSaúde / Casa de Oswaldo Cruz (Fiocruz) lança o documentário 'Bom Jesus da Lapa, Bahia – Noel Nutels' (20 min, dir. Stella Oswaldo Cruz Penido) a partir das películas originais."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Casa de Oswaldo Cruz / VideoSaúde Distribuidora — Fiocruz (Rio de Janeiro)",
+      "colecao": "Fundo Noel Nutels e Coleção Memórias do Instituto Oswaldo Cruz",
+      "link": "https://basearch.coc.fiocruz.br/",
+      "comoPedir": "Artigo de 1947 acessível livremente no portal das Memórias do IOC; filmagens de Noel Nutels e fotografias de J. Fontes sob guarda da Casa de Oswaldo Cruz / Fiocruz."
+    },
+    "publicacoesExposicoes": [
+      "Guimarães, F. Nery. 'Doenças encontradas nos romeiros de Bom Jesus da Lapa, Bahia'. Memórias do Instituto Oswaldo Cruz, t. 45, fasc. 1, p. 211–251, 1947.",
+      "Costa, Dina Czeresnia. 'Política indigenista e assistência à saúde: Noel Nutels e o Serviço de Unidades Sanitárias Aéreas'. Cadernos de Saúde Pública, v. 3, n. 4, p. 388–401, 1987.",
+      "Filme: Bom Jesus da Lapa, Bahia – Noel Nutels (Fiocruz / VideoSaúde, 20 min, dir. Stella Oswaldo Cruz Penido, 2000 — o mais antigo registro em imagem em movimento sobre Bom Jesus da Lapa; YouTube: https://www.youtube.com/watch?v=cY5C2E4IzQE)."
+    ],
+    "videos": [
+      {
+        "titulo": "Bom Jesus da Lapa, Bahia – Noel Nutels",
+        "ano": "Filmagens anos 1950–1960 · Edição 2000",
+        "direcao": "Acervo Noel Nutels (SUSA) · Direção da montagem: Stella Oswaldo Cruz Penido (Casa de Oswaldo Cruz / VideoSaúde Fiocruz)",
+        "duracao": "20 min · 16 mm (digitalizado)",
+        "descricao": "O mais antigo material em imagem em movimento encontrado sobre Bom Jesus da Lapa. Reúne as películas originais em 16 mm filmadas pelas missões do médico sanitarista Noel Nutels e do Serviço de Unidades Sanitárias Aéreas (SUSA).",
+        "resenha": "Resenha e valor histórico: Organizado pela pesquisadora e documentarista Stella Oswaldo Cruz Penido na Casa de Oswaldo Cruz (Fiocruz), o filme recupera as películas filmadas por Noel Nutels em suas missões sanitárias pelo rio São Francisco. Mostra a navegação fluvial, a chegada a Bom Jesus da Lapa, a subida dos romeiros pela escadaria da gruta, os ex-votos e o trabalho de saúde pública (abreugrafia e combate à tuberculose e às endemias rurais).",
+        "acervo": "Casa de Oswaldo Cruz (COC) / VideoSaúde Distribuidora da Fiocruz",
+        "youtubeId": "cY5C2E4IzQE",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cY5C2E4IzQE",
+        "link": "https://www.youtube.com/watch?v=cY5C2E4IzQE"
+      }
+    ],
+    "salasRelacionadas": [
+      8,
+      9,
+      10
+    ],
+    "cidadesRelacionadas": [
+      "bom-jesus-da-lapa"
+    ]
+  }
+]

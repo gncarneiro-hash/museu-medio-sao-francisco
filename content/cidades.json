@@ -1,0 +1,600 @@
+[
+  {
+    "id": "bom-jesus-da-lapa",
+    "nome": "Bom Jesus da Lapa (BA)",
+    "margem": "Margem direita · Centro do Médio São Francisco",
+    "lat": -13.2536,
+    "lng": -43.4181,
+    "resumo": "Coração geográfico e espiritual do Médio São Francisco, erguida ao pé do serrote calcário do Grupo Bambuí ('Itabarabá' / 'Pedra que luz', 70–88 m de altura). Sede do Santuário do Senhor Bom Jesus da Lapa desde 1691, do Perímetro Irrigado Formoso e sede proposta para o Museu do Médio São Francisco.",
+    "quemEscreveu": [
+      {
+        "autor": "Frei Agostinho de Santa Maria",
+        "ano": "1722",
+        "trecho": "Descreve no Santuário Mariano a chegada de Francisco de Mendonça (~1691) à gruta de 'Itabarabá', o templo natural em forma de cruz com 200 palmos e o sino de pedra."
+      },
+      {
+        "autor": "Sebastião da Rocha Pita",
+        "ano": "1730",
+        "trecho": "Registra na História da América Portugueza a 'varanda descoberta de cincoenta palmos' que iluminava a gruta e a pedra que tangida soava como sino de metal fino."
+      },
+      {
+        "autor": "H. G. F. Halfeld",
+        "ano": "1852",
+        "trecho": "“A Povoação da Lapa, situada na margem direita do rio de S. Francisco, contém 128 casas... e cerca de 250 habitantes fixos.” Mede a gruta em 58 m e o morro entre 70 e 88 m."
+      },
+      {
+        "autor": "Richard Francis Burton",
+        "ano": "1867",
+        "trecho": "Compara o morro a uma 'esfinge sem cabeça' e a uma catedral gótica; relata o achado de um pé de cera (ex-voto) na praia antes do desembarque em 1º de outubro de 1867."
+      },
+      {
+        "autor": "Augusto Riedel",
+        "ano": "1868",
+        "trecho": "Autor da primeira fotografia conhecida da cidade e do morro da Lapa, tomada da margem esquerda na expedição do Duque de Saxe."
+      },
+      {
+        "autor": "James W. Wells",
+        "ano": "1875",
+        "trecho": "Navega com o barco por dentro de uma rua alagada pela grande cheia de 1875 e chama a cidade de 'a Meca do São Francisco'."
+      },
+      {
+        "autor": "Theodoro Sampaio e Orville Derby",
+        "ano": "1879",
+        "trecho": "Sobem o serrote em 22 de novembro de 1879 às 6h30; Sampaio chama-o de 'retalho de montanha calcárea isolado na planície' e Derby descreve supostos 'corais' silicificados."
+      },
+      {
+        "autor": "Adolpho Lutz e Astrogildo Machado",
+        "ano": "1912",
+        "trecho": "Chegam de vapor em 8 de maio de 1912, fazem 5 fotografias em negativo de vidro e papel, estudam as gameleiras na rocha, as lagoas e os barbeiros transmissores de Chagas."
+      },
+      {
+        "autor": "F. Nery Guimarães, Gautherot e Verger",
+        "ano": "1946",
+        "trecho": "Registram na romaria de agosto de 1946 uma cidade de ~1.000 casas e <3.000 moradores recebendo ~50 mil romeiros em vapores, barcas com carrancas e paus-de-arara."
+      },
+      {
+        "autor": "Noel Nutels (SUSA) e Stella Oswaldo Cruz Penido (Fiocruz)",
+        "ano": "Anos 1950–1960 (filme de 2000)",
+        "trecho": "Registram em película as mais antigas imagens em movimento conhecidas de Bom Jesus da Lapa, reunidas no documentário de 20 min da Casa de Oswaldo Cruz / Fiocruz."
+      },
+      {
+        "autor": "IBGE / Museu do Médio São Francisco (@museudomediosaofrancisco)",
+        "ano": "2026",
+        "trecho": "O Mapa de Macrocompartimentos de Relevo do Brasil (escala 1:1.000.000) classifica oficialmente ~73 km² (1,7% dos 4.114 km² da Lapa) como Montanhas na borda leste (ponta da Serra Geral / vertente oeste do Espinhaço), além de 74,6% de superfícies rebaixadas, 18,3% de planícies, 3,8% de tabuleiros e 1,6% de corpos d'água."
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Bom Jesus da Lapa, Bahia – Noel Nutels",
+        "ano": "Filmagens anos 1950–1960 · Edição 2000",
+        "direcao": "Acervo Noel Nutels (SUSA) · Direção: Stella Oswaldo Cruz Penido (Fiocruz)",
+        "duracao": "20 min · 16 mm",
+        "descricao": "O mais antigo material em imagem em movimento encontrado sobre Bom Jesus da Lapa, preservado no acervo da Casa de Oswaldo Cruz / VideoSaúde Fiocruz.",
+        "resenha": "Resenha: Montado pela pesquisadora Stella Oswaldo Cruz Penido a partir do acervo pessoal de filmes em 16 mm do médico sanitarista Noel Nutels (criador do Serviço de Unidades Sanitárias Aéreas — SUSA), o documentário registra o cotidiano ribeirinho, as embarcações, a gruta do Bom Jesus e as procissões de meados do século XX.",
+        "acervo": "Casa de Oswaldo Cruz / VideoSaúde Distribuidora da Fiocruz",
+        "youtubeId": "cY5C2E4IzQE",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cY5C2E4IzQE",
+        "link": "https://www.youtube.com/watch?v=cY5C2E4IzQE"
+      },
+      {
+        "titulo": "Lapa do Bom Jesus",
+        "ano": "2023 (exibido de 3 a 6 ago. 2023)",
+        "direcao": "TV Bom Jesus / TV Aparecida · Apresentação: Pe. William Betonio",
+        "duracao": "1h08 (3 episódios)",
+        "descricao": "Documentário sobre a romaria com depoimentos do Pe. William Betonio, Harley Xavier (Codevasf), prof.ª Sandra Célia (UNEB), cantor Paulo Araújo e chef Salmen Bukzen.",
+        "acervo": "Santuário do Bom Jesus da Lapa / TV Aparecida",
+        "link": "https://www.a12.com/tv"
+      }
+    ],
+    "salasRelacionadas": [
+      1,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      19
+    ],
+    "itensRelacionados": [
+      "item-01",
+      "item-02",
+      "item-11",
+      "item-12",
+      "item-19",
+      "item-20",
+      "item-24",
+      "item-25",
+      "item-26",
+      "item-27",
+      "item-28",
+      "item-29",
+      "item-30",
+      "item-31",
+      "item-32"
+    ]
+  },
+  {
+    "id": "carinhanha",
+    "nome": "Carinhanha (BA)",
+    "margem": "Margem esquerda · Fronteira histórica Bahia–Minas",
+    "lat": -14.3047,
+    "lng": -43.7656,
+    "resumo": "Último porto baiano na margem esquerda (antiga 'banda de Pernambuco' até 1824), erguida sobre barranca alta de 6,6 metros. Entreposto comercial de tropas para Goiás e Minas e município onde fica a caverna paleontológica Lapa dos Peixes I e 3 agrovilas do PEC Serra do Ramalho.",
+    "quemEscreveu": [
+      {
+        "autor": "Spix e Martius",
+        "ano": "1818",
+        "trecho": "Descem o rio Carinhanha numa jangada de buriti em setembro de 1818 e descrevem o intenso comércio de sal, gado e mantimentos."
+      },
+      {
+        "autor": "H. G. F. Halfeld",
+        "ano": "1852",
+        "trecho": "Conta 2 igrejas, 265 casas em ruas direitas e ~1.200 habitantes sobre barranca de 30 palmos (6,6 m) que na grande cheia ficava apenas 44 cm livre das águas."
+      },
+      {
+        "autor": "Richard Francis Burton",
+        "ano": "1867",
+        "trecho": "Registra cerca de 450 casas, sede da comarca do Urubu, e lajes de ardósia azulada de 6 metros no Pontal."
+      },
+      {
+        "autor": "James W. Wells",
+        "ano": "1875",
+        "trecho": "Passa dez dias retido pela cheia de janeiro de 1875, atravessa o rio em ajoujo e desenha a gravura clássica 'Rua de Carinhanha'."
+      },
+      {
+        "autor": "Theodoro Sampaio",
+        "ano": "1879–1880",
+        "trecho": "Desembarca em Carinhanha em 22 de dezembro de 1879 para iniciar sua travessia a cavalo de 835 km; registra no Annexo N.º 2 10.893 habitantes na freguesia (1872), 104 engenhos de rapadura e 30 alambiques."
+      }
+    ],
+    "salasRelacionadas": [
+      3,
+      6,
+      8,
+      17
+    ],
+    "itensRelacionados": [
+      "item-05",
+      "item-33"
+    ]
+  },
+  {
+    "id": "malhada",
+    "nome": "Malhada (BA) e Quilombo Tomé Nunes",
+    "margem": "Margem direita · Em frente a Carinhanha",
+    "lat": -14.3375,
+    "lng": -43.7789,
+    "resumo": "Antigo Registro Fiscal da Malhada e encruzilhada das duas grandes estradas coloniais de gado e tropas (a estrada leste–oeste Bahia–Goiás e a estrada ribeirinha da margem direita). Abriga a histórica comunidade quilombola de Tomé Nunes.",
+    "quemEscreveu": [
+      {
+        "autor": "Spix e Martius",
+        "ano": "1818",
+        "trecho": "Contam 10 a 20 grandes tropas anuais cruzando o registro e notam que a povoação tinha 'a pior fama de todas as do São Francisco' pelas febres palustres."
+      },
+      {
+        "autor": "H. G. F. Halfeld",
+        "ano": "1852",
+        "trecho": "Registra capela, 30 a 60 casas e ~250 almas, o quartel de pau a pique amarrado com couro cru no pontal e o movimento anual de 8.672 reses saindo e 25.000 bruacas de sal entrando."
+      },
+      {
+        "autor": "Richard Francis Burton",
+        "ano": "1867",
+        "trecho": "Vê marcas de cheia de 1 metro nas paredes, posto fiscal abandonado pelas 'carneiradas' e ouve à noite 'cantos e palmas à moda da Guiné'."
+      },
+      {
+        "autor": "Theodoro Sampaio",
+        "ano": "1879–1880",
+        "trecho": "Passa a cavalo pela fazenda de Thomé Nunes (atual quilombo) e descreve em torno da Serra da Malhada uma mata virgem de 'não menos de 30 leguas quadradas'."
+      }
+    ],
+    "salasRelacionadas": [
+      6,
+      8,
+      9,
+      11
+    ],
+    "itensRelacionados": [
+      "item-05"
+    ]
+  },
+  {
+    "id": "serra-do-ramalho",
+    "nome": "Serra do Ramalho (BA)",
+    "margem": "Margem esquerda · Entre Bom Jesus da Lapa e Carinhanha",
+    "lat": -13.5622,
+    "lng": -43.5967,
+    "resumo": "Santuário espeleológico, paleontológico e arqueológico do calcário Bambuí (Sistema Água Clara, Gruna das Três Cobras, pinturas rupestres) e território do Projeto Especial de Colonização (PEC) criado em 1975–1976 com 23 agrovilas para famílias deslocadas pela barragem de Sobradinho, além do povo indígena Pankaru e comunidades quilombolas.",
+    "quemEscreveu": [
+      {
+        "autor": "Lygia Sigaud, Peter von Gunten e Cláudio Marques",
+        "ano": "1980–2020",
+        "trecho": "Documentam a transferência compulsória das famílias das quatro cidades submersas por Sobradinho para as 23 agrovilas do PEC Serra do Ramalho."
+      },
+      {
+        "autor": "Rafael Costa da Silva et al. (SGB / MCTer)",
+        "ano": "2019–2024",
+        "trecho": "Descrevem os fósseis de 29 táxons pleistocênicos (incluindo Smilodon populator e preguiças-gigantes) coletados na Gruna das Três Cobras."
+      },
+      {
+        "autor": "Maria Elina Bichuette, Ferreira et al. e Campos-Filho et al.",
+        "ano": "2003–2023",
+        "trecho": "Descrevem a fauna subterrânea endêmica e ameaçada do carste da Serra do Ramalho (bagres-cegos, pseudoescorpião e besouro Coarazuphium bambui)."
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Terra Roubada (Geraubte Erde)",
+        "ano": "1980",
+        "direcao": "Peter von Gunten (Suíça)",
+        "duracao": "55 min · 16 mm",
+        "descricao": "Filmado às escondidas durante a retirada de Sobradinho: documenta a atuação da CHESF, a submersão de Casa Nova, Sento Sé, Remanso e Pilão Arcado, a resistência dos camponeses e o embate em torno da transferência para o PEC Serra do Ramalho.",
+        "resenha": "Resenha crítica: Rodado parcialmente na clandestinidade durante o regime militar, 'Terra Roubada' (Geraubte Erde, 1980) expõe a face oculta da construção da barragem de Sobradinho. Enquanto o discurso oficial celebrava o 'maior lago artificial do mundo' como marco da modernização energética, a lente de Peter von Gunten registrou a remoção forçada de mais de 70 mil ribeirinhos, pescadores e vazanteiros, as promessas não cumpridas da CHESF, a recusa e as agruras do reassentamento distante nas agrovilas da Serra do Ramalho e a transformação de camponeses autônomos em cortadores de cana precarizados nos projetos de agroexportação e do Proálcool.",
+        "acervo": "Peter von Gunten (Suíça) / Difusão: Canoa de Tolda e YouTube",
+        "youtubeId": "kFfzEiKfQcY",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kFfzEiKfQcY",
+        "link": "https://www.youtube.com/watch?v=kFfzEiKfQcY"
+      },
+      {
+        "titulo": "Terra Prometida (Gelobtes Land)",
+        "ano": "1993",
+        "direcao": "Peter von Gunten (Suíça)",
+        "duracao": "Longa-metragem documental",
+        "descricao": "Acompanha as famílias que ficaram na caatinga em São Gonçalo da Serra; exibido em Berlim, Locarno e em mais de 150 sessões itinerantes na região.",
+        "acervo": "Peter von Gunten / Referência: Canoa de Tolda",
+        "link": "https://canoadetolda.org.br/"
+      },
+      {
+        "titulo": "A Cidade do Futuro",
+        "ano": "2016",
+        "direcao": "Cláudio Marques e Marília Hughes (Coletivo Filmes)",
+        "duracao": "75 min · Ficção",
+        "descricao": "Ficção filmada e ambientada na Serra do Ramalho, retomando no título o apelido oficial usado pelo regime militar para o projeto de colonização.",
+        "acervo": "Coletivo Filmes / Referência: Cinelatino Toulouse",
+        "link": "https://www.cinelatino.fr/film/a-cidade-do-futuro"
+      },
+      {
+        "titulo": "Sobradinho",
+        "ano": "2020",
+        "direcao": "Cláudio Marques e Marília Hughes (Coletivo Filmes)",
+        "duracao": "70 min · Documentário",
+        "descricao": "Acompanha dona Pequenita, a única antiga moradora que voltou e vive na cidade-fantasma à beira do lago, revendo vídeos e fotografias antigas.",
+        "acervo": "Coletivo Filmes / Referência: 44.ª Mostra Internacional de Cinema de São Paulo",
+        "link": "https://44.mostra.org/filmes/sobradinho"
+      }
+    ],
+    "salasRelacionadas": [
+      1,
+      3,
+      4,
+      17,
+      19
+    ],
+    "itensRelacionados": [
+      "item-03",
+      "item-23",
+      "item-33",
+      "item-34",
+      "item-35"
+    ]
+  },
+  {
+    "id": "sitio-do-mato",
+    "nome": "Sítio do Mato e Barra do Rio Corrente (BA)",
+    "margem": "Margens direita e esquerda · Confluência do Rio Corrente",
+    "lat": -13.0908,
+    "lng": -43.4658,
+    "resumo": "Ponto de encontro das águas claras do rio Corrente (alimentado pelo Aquífero Urucuia) com o São Francisco, logo abaixo de Bom Jesus da Lapa.",
+    "quemEscreveu": [
+      {
+        "autor": "H. G. F. Halfeld",
+        "ano": "1852",
+        "trecho": "Destaca o rio Corrente como afluente perene de águas cristalinas, navegável por 24 léguas até Santa Maria da Vitória."
+      },
+      {
+        "autor": "Adolpho Lutz e Astrogildo Machado",
+        "ano": "10 maio 1912",
+        "trecho": "Deixam Bom Jesus da Lapa às 9h20 e entram às 11h no rio Corrente rumo a Santa Maria da Vitória."
+      }
+    ],
+    "salasRelacionadas": [
+      1,
+      7,
+      8,
+      9
+    ],
+    "itensRelacionados": [
+
+    ]
+  },
+  {
+    "id": "santa-maria-da-vitoria",
+    "nome": "Santa Maria da Vitória e Correntina (Rio Corrente, BA)",
+    "margem": "Bacia do Rio Corrente · Oeste Baiano",
+    "lat": -13.3947,
+    "lng": -44.1886,
+    "resumo": "Importante porto histórico do rio Corrente, berço de Mestre Guarany (1882/1884–1985) e capital viva da escultura de carrancas (oficina de Júnio Guarany, João Souza e acervo de ferramentas do prof. Jairo Rodrigues), além de cenário do romance 'Porto Calendário' (1961), de Osório Alves de Castro.",
+    "quemEscreveu": [
+      {
+        "autor": "Adolpho Lutz e Astrogildo Machado",
+        "ano": "Maio de 1912",
+        "trecho": "Sobem o rio Corrente em vapor desde a Lapa até Santa Maria da Vitória em maio de 1912."
+      },
+      {
+        "autor": "Osório Alves de Castro",
+        "ano": "1961",
+        "trecho": "Retrata no romance premiado 'Porto Calendário' a vida dos remeiros, tropeiros e vapores em Santa Maria da Vitória."
+      },
+      {
+        "autor": "Paulo Pardal, Clarival do Prado Valladares e Lorenzo Mammì",
+        "ano": "1974–2015",
+        "trecho": "Documentam a oficina de Francisco Biquiba Dy Lafuente Guarany, autor de cerca de 80 carrancas de proa entre 1901 e 1945."
+      }
+    ],
+    "salasRelacionadas": [
+      3,
+      7,
+      8,
+      9,
+      14
+    ],
+    "itensRelacionados": [
+      "item-08",
+      "item-09"
+    ]
+  },
+  {
+    "id": "paratinga",
+    "nome": "Paratinga (antiga Vila do Urubu, BA)",
+    "margem": "Margem direita · Médio São Francisco",
+    "lat": -12.6906,
+    "lng": -43.1842,
+    "resumo": "Uma das mais antigas povoações do Médio São Francisco (capela de 1680, freguesia de 1718, Vila de Santo Antônio do Urubu de Cima em 1746–1749), criada para controlar o comércio e o contrabando de ouro das minas.",
+    "quemEscreveu": [
+      {
+        "autor": "H. G. F. Halfeld",
+        "ano": "1852",
+        "trecho": "Conta 160 casas e ~800 habitantes, matriz, casa de câmara e cadeia, e menciona os conflitos armados da família Guimarães."
+      },
+      {
+        "autor": "Richard Francis Burton",
+        "ano": "1867",
+        "trecho": "Registra cerca de 200 casas e comenta a antiga importância administrativa da vila colonial do Urubu."
+      },
+      {
+        "autor": "Theodoro Sampaio",
+        "ano": "1879–1880",
+        "trecho": "Passa de vapor em 18 de novembro de 1879 e, em janeiro de 1880, deixa a margem do São Francisco perto do Urubu rumo a Macaúbas, Caetité e Chapada Diamantina."
+      }
+    ],
+    "salasRelacionadas": [
+      5,
+      6,
+      8,
+      13,
+      14
+    ],
+    "itensRelacionados": [
+
+    ]
+  },
+  {
+    "id": "ibotirama",
+    "nome": "Ibotirama (antigo Bom Jardim, BA)",
+    "margem": "Margem direita · Travessia rodoviária e território Tuxá",
+    "lat": -12.1853,
+    "lng": -43.2206,
+    "resumo": "Antigo pouso de boiadas e porto fluvial ('Bom Jardim da rica flor' no ABC da Carreira Grande), tornou-se no século XX o principal ponto de travessia rodoviária do Médio São Francisco (BR-242) e abriga comunidade do povo indígena Tuxá.",
+    "quemEscreveu": [
+      {
+        "autor": "H. G. F. Halfeld",
+        "ano": "1852",
+        "trecho": "Registra o arraial do Bom Jardim e o intenso movimento de gado e barcas."
+      },
+      {
+        "autor": "Wilson Lins",
+        "ano": "1952",
+        "trecho": "Registra o verso dos remeiros no ABC da Carreira Grande: 'Bom Jardim da rica flor'."
+      }
+    ],
+    "salasRelacionadas": [
+      4,
+      6,
+      14,
+      16
+    ],
+    "itensRelacionados": [
+
+    ]
+  },
+  {
+    "id": "barra",
+    "nome": "Barra (Barra do Rio Grande, BA)",
+    "margem": "Margem esquerda · Foz do Rio Grande",
+    "lat": -11.0894,
+    "lng": -43.1417,
+    "resumo": "Situada na confluência do rio Grande com o São Francisco, foi cabeça da histórica Comarca do São Francisco, berço do estadista imperial Barão de Cotegipe (1815) e do compositor Guttemberg Guarabyra (1947), e sede do bispado que enviou religiosas para a missão médica de 1946 na Lapa.",
+    "quemEscreveu": [
+      {
+        "autor": "H. G. F. Halfeld",
+        "ano": "1852",
+        "trecho": "Descreve a Vila da Barra do Rio Grande como um dos maiores centros urbanos e comerciais do Médio São Francisco, conectando a Bahia ao Piauí e a Goiás pelo rio Grande."
+      },
+      {
+        "autor": "James W. Wells",
+        "ano": "1875",
+        "trecho": "Deixa o São Francisco na Barra em março de 1875 para subir o vale do rio Grande e do rio Preto com tropas de mulas rumo ao Maranhão."
+      }
+    ],
+    "salasRelacionadas": [
+      6,
+      7,
+      8,
+      13,
+      14
+    ],
+    "itensRelacionados": [
+
+    ]
+  },
+  {
+    "id": "sobradinho-cidades-submersas",
+    "nome": "Cidades Submersas de Sobradinho (Pilão Arcado, Remanso, Sento Sé e Casa Nova)",
+    "margem": "Lago de Sobradinho · Submédio / Médio São Francisco",
+    "lat": -9.65,
+    "lng": -41.3,
+    "resumo": "As quatro vilas históricas e dezenas de povoados ribeirinhos cobertos entre 1972 e 1978 pelo reservatório de 4.214 km² da barragem de Sobradinho, cujo enchimento deslocou cerca de 72 mil pessoas — dando origem às 23 agrovilas da Serra do Ramalho, entre Bom Jesus da Lapa e Carinhanha.",
+    "quemEscreveu": [
+      {
+        "autor": "Wilson Lins",
+        "ano": "1952–1980",
+        "trecho": "Natural de Pilão Arcado, imortalizou a vida social, política e os remeiros das antigas vilas antes da submersão."
+      },
+      {
+        "autor": "Sá & Guarabyra",
+        "ano": "1977",
+        "trecho": "Compoem a canção 'Sobradinho', nomeando Remanso, Casa Nova, Sento Sé e Pilão Arcado ('O sertão vai virar mar')."
+      },
+      {
+        "autor": "Lygia Sigaud e Peter von Gunten",
+        "ano": "1980–1986",
+        "trecho": "Analisam e filmam o deslocamento compulsório de 72 mil ribeirinhos (80% camponeses) e a transferência para a Serra do Ramalho."
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Terra Roubada (Geraubte Erde)",
+        "ano": "1980",
+        "direcao": "Peter von Gunten (Suíça)",
+        "duracao": "55 min · 16 mm",
+        "descricao": "Documentário suíço filmado na clandestinidade durante o enchimento do lago de Sobradinho, registrando a resistência camponesa e o destino das famílias na caatinga e na Serra do Ramalho.",
+        "resenha": "Resenha crítica: Registro sociológico raro da diáspora forçada de mais de 70 mil ribeirinhos pelas águas de Sobradinho, denunciando a violência do modelo de megaprojetos hidrelétricos e agroexportadores sobre a economia camponesa das vazantes e o reassentamento no PEC Serra do Ramalho.",
+        "acervo": "Peter von Gunten / Difusão: Canoa de Tolda e YouTube",
+        "youtubeId": "kFfzEiKfQcY",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kFfzEiKfQcY",
+        "link": "https://www.youtube.com/watch?v=kFfzEiKfQcY"
+      },
+      {
+        "titulo": "A Cidade do Futuro (2016) & Sobradinho (2020)",
+        "ano": "2016 e 2020",
+        "direcao": "Cláudio Marques e Marília Hughes",
+        "duracao": "75 min e 70 min",
+        "descricao": "Ficção ambientada na Serra do Ramalho (2016) e documentário com dona Pequenita na antiga Sobradinho (2020).",
+        "acervo": "Coletivo Filmes / 44.ª Mostra Internacional de Cinema de São Paulo",
+        "link": "https://44.mostra.org/filmes/sobradinho"
+      }
+    ],
+    "salasRelacionadas": [
+      13,
+      14,
+      17
+    ],
+    "itensRelacionados": [
+      "item-34",
+      "item-35"
+    ]
+  },
+  {
+    "id": "juazeiro-petrolina",
+    "nome": "Juazeiro (BA) e Petrolina (PE)",
+    "margem": "Margens direita e esquerda · Fim da linha navegável do Médio",
+    "lat": -9.4117,
+    "lng": -40.5028,
+    "resumo": "Grande travessia histórica entre a Bahia e Pernambuco (retratada por Spix e Martius em 1819), ponta final da navegação a vapor do Médio São Francisco, terminal da ferrovia baiana desde 1896 e polo da fruticultura irrigada e da arte de Ana das Carrancas.",
+    "quemEscreveu": [
+      {
+        "autor": "Spix e Martius",
+        "ano": "1819 (publ. 1828)",
+        "trecho": "Atravessam o rio na passagem de 'Joazeiro' e publicam a célebre litografia panorâmica no Atlas da viagem."
+      },
+      {
+        "autor": "Euclides da Cunha",
+        "ano": "1897 / 1902",
+        "trecho": "Registra Juazeiro como base militar das expedições da Guerra de Canudos."
+      },
+      {
+        "autor": "Adolpho Lutz e Astrogildo Machado",
+        "ano": "1912",
+        "trecho": "Encerram em Juazeiro a viagem científica iniciada em Pirapora a bordo dos vapores fluviais."
+      }
+    ],
+    "salasRelacionadas": [
+      7,
+      8,
+      12,
+      13,
+      16
+    ],
+    "itensRelacionados": [
+      "item-16",
+      "item-21",
+      "item-22"
+    ]
+  },
+  {
+    "id": "januaria",
+    "nome": "Januária e Itacarambi (Jacaré, MG)",
+    "margem": "Margem esquerda · Norte de Minas Gerais",
+    "lat": -15.4881,
+    "lng": -44.3619,
+    "resumo": "Antigo Porto do Salgado ('Januária carreira grande'), visitado por Spix e Martius em 1818, desenhado por Theodoro Sampaio em 1879 e palco das lutas políticas do Coronel Neco (retratado por Sampaio e por Guimarães Rosa).",
+    "quemEscreveu": [
+      {
+        "autor": "Spix e Martius",
+        "ano": "1818",
+        "trecho": "Fazem do Porto do Salgado (Januária) sua base para explorar os chapadões da divisa entre Minas, Bahia e Goiás."
+      },
+      {
+        "autor": "Theodoro Sampaio",
+        "ano": "1879",
+        "trecho": "Desenha o paredão calcário de Januária e registra no Jacaré (Itacarambi) o acampamento armado do Coronel Neco."
+      }
+    ],
+    "salasRelacionadas": [
+      6,
+      7,
+      8,
+      13,
+      14
+    ],
+    "itensRelacionados": [
+      "item-18"
+    ]
+  },
+  {
+    "id": "pirapora",
+    "nome": "Pirapora (MG)",
+    "margem": "Margem direita · Marco inicial do Médio São Francisco",
+    "lat": -17.345,
+    "lng": -44.9419,
+    "resumo": "Situada logo abaixo da grande cachoeira que marca o início do trecho navegável de 1.370 km até Juazeiro, tornou-se em 1910 a ponta dos trilhos da Estrada de Ferro Central do Brasil e guarda até hoje o vapor a lenha Benjamim Guimarães.",
+    "quemEscreveu": [
+      {
+        "autor": "H. G. F. Halfeld",
+        "ano": "1852",
+        "trecho": "Inicia na Cachoeira de Pirapora a medição légua a légua das 382 léguas do rio São Francisco até o mar."
+      },
+      {
+        "autor": "W. Milnor Roberts e Theodoro Sampaio",
+        "ano": "14 dez. 1879",
+        "trecho": "Chegam à cachoeira de Pirapora encerrando a subida hidrográfica de 2.122 km desde a foz."
+      },
+      {
+        "autor": "Lúcio Cardoso e Jorge Amado",
+        "ano": "1934 / 1946",
+        "trecho": "Ambientam em Pirapora o romance 'Maleita' (1934) e o desembarque dos retirantes dos vapores em 'Seara vermelha' (1946)."
+      }
+    ],
+    "salasRelacionadas": [
+      7,
+      8,
+      14,
+      16
+    ],
+    "itensRelacionados": [
+      "item-07",
+      "item-13"
+    ]
+  }
+]
