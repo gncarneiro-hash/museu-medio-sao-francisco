@@ -3303,6 +3303,48 @@ window.MUSEU_EXTRAS = {
         "Assembleia Legislativa do Estado da Bahia. Perfil Parlamentar: Wilson Lins.",
         "Lins, Wilson. O Médio São Francisco: uma sociedade de pastores e guerreiros, 1952."
       ]
+    },
+    {
+      "id": "item-64",
+      "titulo": "Interior da capela do Bom Jesus da Lapa — desenho de Theodoro Sampaio (1879)",
+      "titularId": "theodoro-sampaio",
+      "titularNome": "Theodoro Fernandes Sampaio (1855–1937)",
+      "ano": "1879",
+      "cidadeId": "bom-jesus-da-lapa",
+      "local": "Bom Jesus da Lapa (BA)",
+      "sala": 10,
+      "tema": "Romaria e Fé",
+      "arquivo": "assets/img/57-theodoro-sampaio-1879-interior-capela-lapa.jpg",
+      "exibir_imagem": true,
+      "licenca": "dominio-publico",
+      "verificacao": "a-confirmar",
+      "credito": "Theodoro Sampaio, Interior da capela do Bom Jesus da Lapa, 1879. Instituição do original a confirmar. Domínio público.",
+      "descricao": "Desenho a lápis do interior da gruta-capela, com o altar sob a abóbada de pedra. Theodoro Sampaio o fez em 1879, na viagem da Comissão Hidráulica, junto com os estudos em que analisou os aspectos sociais e naturais da região banhada pelo São Francisco. Suas anotações sobre a Chapada Diamantina ajudaram Euclides da Cunha a escrever Os Sertões.",
+      "original": "Desenho original de 1879; instituição de guarda a confirmar.",
+      "fontes": [
+        "Sampaio, Theodoro. Desenho do interior da capela do Bom Jesus da Lapa, nov. 1879 (Comissão Hidráulica do Império). Reprodução enviada pela curadoria; local do original a confirmar."
+      ]
+    },
+    {
+      "id": "item-65",
+      "titulo": "Cachoeira de Paulo Afonso — pintura de E. F. Schute (1850)",
+      "titularId": "",
+      "titularNome": "E. F. Schute",
+      "ano": "1850",
+      "cidadeId": "",
+      "local": "Cachoeira de Paulo Afonso (BA/AL)",
+      "sala": 7,
+      "tema": "Navegação e Vapores",
+      "arquivo": "assets/img/58-schute-1850-cachoeira-paulo-afonso-masp.jpg",
+      "exibir_imagem": true,
+      "licenca": "dominio-publico",
+      "verificacao": "verificado",
+      "credito": "E. F. Schute, Cachoeira de Paulo Afonso, 1850. Óleo sobre tela, 118 × 153 cm. Museu de Arte de São Paulo Assis Chateaubriand (MASP.00242), doação João da Costa Doria, 1956. Domínio público.",
+      "descricao": "A cachoeira de Paulo Afonso pintada um século antes das usinas da CHESF. Era o obstáculo que fechava a navegação: daqui para cima começava o rio dos remeiros e das barcas, que ia até Pirapora. Schute era provavelmente de origem alemã e trabalhou no Brasil.",
+      "original": "MASP, São Paulo — MASP.00242",
+      "fontes": [
+        "MASP. Cachoeira de Paulo Afonso, E. F. Schute, 1850. Acervo MASP, MASP.00242. https://masp.org.br/acervo/obra/cachoeira-de-paulo-afonso-1"
+      ]
     }
   ],
   "linhaDoTempo": [

@@ -576,6 +576,25 @@
             }
             html += '      </div>';
             html += '    </div>';
+          } else if (b.tipoCard === "abc-destaque") {
+            html += '    <section class="p-5 sm:p-6 rounded-xl bg-[#f3ead8] border-2 border-[#a86f25] shadow-sm">';
+            html += '      <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Destaque da sala</span>';
+            html += '      <h3 class="font-serif-museu text-2xl sm:text-3xl font-bold text-[#1d3b53] mt-1">' + esc(b.subtitulo) + '</h3>';
+            html += '      <p class="text-base text-[#2b2620] mt-3 leading-relaxed">' + esc(b.texto) + '</p>';
+            html += '      <ol class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mt-4">';
+            (EXTRAS.abcCarreiraGrande || []).forEach(function (p) {
+              html += '        <li class="p-3 rounded-lg bg-white border-l-4 border-[#a86f25]"><div class="font-serif-museu text-lg font-bold text-[#a86f25]">“' + esc(p.verso) + '”</div><div class="text-sm font-bold text-[#1d3b53] mt-0.5">' + esc(p.porto) + '</div></li>';
+            });
+            html += '      </ol>';
+            if (b.variante) {
+              html += '      <blockquote class="mt-4 p-4 rounded bg-white border-l-4 border-[#1d3b53] text-sm text-[#2b2620]">';
+              html += '        <div class="text-xs font-bold uppercase tracking-wider text-[#1d3b53]">' + esc(b.variante.titulo) + '</div>';
+              html += '        <p class="mt-1 italic leading-relaxed">' + esc(b.variante.texto) + '</p>';
+              html += '        <p class="mt-2 text-xs text-[#5a5248]">' + esc(b.variante.fonte) + (b.variante.link ? ' <a href="' + esc(b.variante.link) + '" target="_blank" rel="noopener" class="underline text-[#a86f25] inline-block py-2">Ler a crônica ↗</a>' : '') + '</p>';
+              html += '      </blockquote>';
+            }
+            if (b.fonte) html += '      <p class="mt-3 text-xs text-[#5a5248]"><strong>Fonte:</strong> ' + esc(b.fonte) + '</p>';
+            html += '    </section>';
           } else if (b.tipoCard === "wilson-lins-sociologia") {
             html += '    <div class="bg-white p-5 rounded-lg border border-[#dccdb4] flex flex-col sm:flex-row gap-4 items-start">';
             html += '      <div class="w-full sm:w-28 shrink-0 flex flex-col items-center">';
@@ -634,6 +653,8 @@
             html += '    <div class="bg-white p-5 rounded-lg border border-[#dccdb4]">';
             html += '      <h3 class="font-serif-museu text-lg font-bold text-[#1d3b53]">' + esc(b.subtitulo) + '</h3>';
             html += '      <p class="text-sm text-[#2b2620] mt-2 leading-relaxed">' + esc(b.texto) + '</p>';
+            if (b.citacaoCurta) html += '      <blockquote class="mt-3 p-3 rounded bg-[#f3ead8] border-l-4 border-[#a86f25] text-sm italic text-[#2b2620]">' + esc(b.citacaoCurta) + '</blockquote>';
+            if (b.fonte) html += '      <p class="mt-3 text-xs text-[#5a5248]"><strong>Fonte:</strong> ' + esc(b.fonte) + (b.link ? ' <a href="' + esc(b.link) + '" target="_blank" rel="noopener" class="underline text-[#a86f25] inline-block py-2">Abrir ↗</a>' : '') + '</p>';
             html += '    </div>';
           }
         });
@@ -1237,12 +1258,14 @@
       }
 
       // ABC da Carreira Grande
-      html += '    <div class="mt-8 pt-6 border-t border-[#dccdb4]">';
-      html += '      <h3 class="font-serif-museu text-xl font-bold text-[#1d3b53]">O “ABC da Carreira Grande” (Toada dos Remeiros registrada por Wilson Lins, 1952)</h3>';
+      html += '    <div id="abc-carreira-grande" class="mt-8 p-5 sm:p-6 rounded-xl bg-[#f3ead8] border-2 border-[#a86f25]">';
+      html += '      <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Destaque</span>';
+      html += '      <h3 class="font-serif-museu text-2xl sm:text-3xl font-bold text-[#1d3b53] mt-1">O “ABC da Carreira Grande”</h3>';
+      html += '      <p class="text-base text-[#2b2620] mt-2">A toada dos remeiros que dava um apelido a cada porto, de Juazeiro a Pirapora. Registrada por Wilson Lins em 1952.</p>';
       html += '      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mt-3">';
       (EXTRAS.abcCarreiraGrande || []).forEach(function (p) {
         html += '        <div class="p-3 rounded bg-white border border-[#dccdb4]">';
-        html += '          <div class="font-serif-museu font-bold text-sm text-[#a86f25]">“' + esc(p.verso) + '”</div>';
+        html += '          <div class="font-serif-museu font-bold text-lg text-[#a86f25]">“' + esc(p.verso) + '”</div>';
         html += '          <div class="text-xs font-bold text-[#1d3b53] mt-0.5">' + esc(p.porto) + '</div>';
         html += '          <p class="text-[11px] text-[#5a5248] mt-1">' + esc(p.nota) + '</p>';
         html += '        </div>';
