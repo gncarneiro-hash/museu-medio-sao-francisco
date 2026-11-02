@@ -1479,5 +1479,28 @@
     "fontes": [
       "MASP. Cachoeira de Paulo Afonso, E. F. Schute, 1850. Acervo MASP, MASP.00242. https://masp.org.br/acervo/obra/cachoeira-de-paulo-afonso-1"
     ]
+  },
+  {
+    "id": "item-66",
+    "titulo": "Lagoa das Aves no rio São Francisco (Vogel-Teich am Rio de S. Francisco), c. 1830",
+    "titularId": "spix-martius",
+    "titularNome": "Johann Baptist von Spix e Carl Friedrich Philipp von Martius",
+    "ano": "1818 (desenho); c. 1830 (litografia)",
+    "cidadeId": "",
+    "local": "Fazenda Capão, perto do Porto do Salgado (Januária, MG)",
+    "sala": 2,
+    "tema": "Fauna e Flora",
+    "arquivo": "assets/img/59-heinzmann-martius-lagoa-das-aves-sao-francisco.jpg",
+    "exibir_imagem": true,
+    "licenca": "dominio-publico",
+    "verificacao": "verificado",
+    "credito": "Carl Friedrich Heinzmann (litografia) sobre desenho de Carl Friedrich Philipp von Martius, Vogel-Teich am Rio de S. Francisco (Lagoa das Aves no rio São Francisco), c. 1830. Atlas da Reise in Brasilien. Exemplar da Pinacoteca do Estado de São Paulo (doação Fundação Estudar, 2007), via Google Arts & Culture / Wikimedia Commons. Domínio público.",
+    "descricao": "Prancha do Atlas da viagem de Spix e Martius, desenhada a partir do esboço que Martius fez em agosto de 1818 numa lagoa marginal do São Francisco: colhereiros, jaburus, tuiuiús, patos e frangos-d’água às centenas, observados por três viajantes.",
+    "citacaoOriginal": "„Das Gemälde der ersten Schöpfung schien vor unsern Blicken erneuert.“ (O quadro da primeira criação parecia renovar-se diante de nossos olhos.)",
+    "original": "Pinacoteca do Estado de São Paulo, litografia, 30,5 × 46,5 cm",
+    "fontes": [
+      "Spix, J. B. von; Martius, C. F. P. von. Reise in Brasilien, vol. 2. Munique, 1828, livro V, cap. IV, p. 529–531 (chegada ao rio São Francisco, ago. 1818). Tradução livre do alemão.",
+      "Wikimedia Commons, File:C. Heinzmann - Lagoa das aves no rio São Francisco.JPG (ficha da Pinacoteca do Estado de São Paulo)."
+    ]
   }
 ]

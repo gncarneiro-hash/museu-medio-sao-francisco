@@ -576,6 +576,28 @@
             }
             html += '      </div>';
             html += '    </div>';
+          } else if (b.tipoCard === "gravura-destaque") {
+            html += '    <section class="rounded-xl overflow-hidden bg-[#f3ead8] border-2 border-[#a86f25] shadow-sm">';
+            html += '      <figure class="bg-[#1d3b53]">';
+            html += '        <img src="' + esc(b.imagem) + '" srcset="' + esc(b.imagem800 || b.imagem) + ' 800w, ' + esc(b.imagem) + ' 1400w" sizes="(min-width: 1024px) 960px, 100vw" alt="' + esc(b.alt || b.subtitulo) + '" class="w-full h-auto block" loading="lazy" />';
+            html += '        <figcaption class="px-4 py-2 text-xs text-[#f3ead8]">' + esc(b.credito) + '</figcaption>';
+            html += '      </figure>';
+            html += '      <div class="p-5 sm:p-6">';
+            html += '        <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Destaque da sala · gravura</span>';
+            html += '        <h3 class="font-serif-museu text-2xl sm:text-3xl font-bold text-[#1d3b53] mt-1">' + esc(b.subtitulo) + '</h3>';
+            html += '        <p class="text-base text-[#2b2620] mt-3 leading-relaxed">' + esc(b.texto) + '</p>';
+            (b.citacoes || []).forEach(function (c) {
+              html += '        <blockquote class="mt-3 p-4 rounded bg-white border-l-4 border-[#a86f25] text-base italic text-[#2b2620] leading-relaxed">' + esc(c) + '</blockquote>';
+            });
+            if (b.especies && b.especies.length) {
+              html += '        <h4 class="font-serif-museu text-lg font-bold text-[#1d3b53] mt-5">O que Martius viu na lagoa</h4>';
+              html += '        <ul class="mt-2 flex flex-wrap gap-2">';
+              b.especies.forEach(function (e) { html += '<li class="px-3 py-1.5 rounded-full bg-white border border-[#dccdb4] text-sm text-[#2b2620]">' + esc(e) + '</li>'; });
+              html += '        </ul>';
+            }
+            if (b.fonte) html += '        <p class="mt-4 text-xs text-[#5a5248]"><strong>Fonte:</strong> ' + esc(b.fonte) + (b.link ? ' <a href="' + esc(b.link) + '" target="_blank" rel="noopener" class="underline text-[#a86f25] inline-block py-2">Ler o original ↗</a>' : '') + '</p>';
+            html += '      </div>';
+            html += '    </section>';
           } else if (b.tipoCard === "abc-destaque") {
             html += '    <section class="p-5 sm:p-6 rounded-xl bg-[#f3ead8] border-2 border-[#a86f25] shadow-sm">';
             html += '      <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Destaque da sala</span>';
