@@ -393,9 +393,40 @@
     });
     html += '    </div>';
     if (soc.clubeEspeleologia) {
-      html += '    <div class="mt-4 p-4 rounded border border-[#a86f25] bg-white">';
-      html += '      <h3 class="font-serif-museu font-bold text-base text-[#1d3b53]">' + esc(soc.clubeEspeleologia.titulo) + '</h3>';
-      html += '      <p class="text-xs text-[#2b2620] mt-1 leading-relaxed">' + esc(soc.clubeEspeleologia.descricao) + '</p>';
+      var ce = soc.clubeEspeleologia;
+      html += '    <div class="mt-5 rounded-lg border border-[#a86f25] bg-white overflow-hidden shadow-xs">';
+      if (ce.imagem) {
+        html += '      <div class="relative bg-[#13283a]">';
+        html += '        <img src="' + esc(ce.imagem) + '" alt="' + esc(ce.legendaImagem || ce.titulo) + '" class="w-full h-56 sm:h-64 object-cover object-center" loading="lazy" />';
+        html += '        <div class="absolute inset-0 bg-linear-to-t from-black/85 via-black/25 to-transparent flex flex-col justify-end p-4 text-white">';
+        html += '          <span class="text-[10px] uppercase font-bold tracking-widest text-[#c9a65b]">Pesquisa de Campo &amp; Proteção de Grutas</span>';
+        html += '          <h3 class="font-serif-museu font-bold text-lg sm:text-xl text-[#f3ead8] leading-tight">' + esc(ce.titulo) + '</h3>';
+        html += '        </div>';
+        html += '      </div>';
+        if (ce.legendaImagem) {
+          html += '      <div class="px-4 py-2 bg-[#f3ead8] text-[11px] text-[#5a5248] border-b border-[#dccdb4] leading-snug flex flex-col gap-0.5">';
+          html += '        <span>' + esc(ce.legendaImagem) + '</span>';
+          if (ce.avisoIA) {
+            html += '        <span class="text-[10px] text-[#a86f25] italic">' + esc(ce.avisoIA) + '</span>';
+          }
+          html += '      </div>';
+        }
+      } else {
+        html += '      <div class="p-4 border-b border-[#dccdb4]"><h3 class="font-serif-museu font-bold text-base text-[#1d3b53]">' + esc(ce.titulo) + '</h3></div>';
+      }
+      html += '      <div class="p-4">';
+      html += '        <p class="text-xs text-[#2b2620] leading-relaxed">' + esc(ce.descricao) + '</p>';
+      if (ce.acoes && ce.acoes.length) {
+        html += '        <div class="mt-3 pt-3 border-t border-[#dccdb4]/60">';
+        html += '          <h4 class="text-[11px] font-bold uppercase tracking-wider text-[#1d3b53] mb-1.5">Linhas de Ação e Parcerias:</h4>';
+        html += '          <ul class="text-xs text-[#5a5248] space-y-1 list-disc list-inside">';
+        ce.acoes.forEach(function (ac) {
+          html += '            <li>' + esc(ac) + '</li>';
+        });
+        html += '          </ul>';
+        html += '        </div>';
+      }
+      html += '      </div>';
       html += '    </div>';
     }
     html += '  </div>';

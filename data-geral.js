@@ -62,6 +62,9 @@ window.MUSEU_DADOS_GERAIS = {
     ],
     clubeEspeleologia: {
       titulo: "Clube de Espeleologia do Oeste Baiano",
+      imagem: "assets/instalacoes/instalacao-clube-espeleologia.jpg",
+      legendaImagem: "Expedição científica em caverna calcária do Médio São Francisco: exploração vertical, documentação de fósseis da megafauna e monitoramento do bagre-cego subterrâneo nas bacias cársticas.",
+      avisoIA: "Imagem conceitual / representativa (Regra 3.4 do AGENTS.md)",
       descricao: "Sediado no museu (100 m² dedicados), voltado a explorar, mapear e proteger as cavernas da Lapa, da Serra do Ramalho e de Carinhanha — onde a chuva expõe e degrada fósseis pleistocênicos e habitam espécies troglóbias ameaçadas como o bagre-cego Rhamdia enfurnada, o besouro Coarazuphium bambui (Zootaxa, 2022) e o pseudoescorpião descrito em 2021.",
       acoes: [
         "Filiação à Sociedade Brasileira de Espeleologia (SBE) e cadastro das cavernas no CANIE (CECAV/ICMBio)",
