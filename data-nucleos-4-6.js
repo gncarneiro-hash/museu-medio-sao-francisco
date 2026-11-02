@@ -560,6 +560,11 @@ window.MUSEU_NUCLEOS_4_6 = [
         titulo: "Folclore: o minhocão, a mãe-d'água e o nego-d'água",
         nucleo: "V",
         verificacao: "verificado",
+        capa: {
+          arquivo: "assets/instalacoes/instalacao-sala-15-folclore-capa.jpg",
+          legenda: "Capa conceitual da Sala 15 ('Folclore do São Francisco'): ambientação imersiva com teto estrelado e projeção de água, roda de contação de causos com ancião e crianças, esculturas da Mãe-d'Água, do Minhocão e do Nêgo-d'Água, e módulo sonoro 'As cantigas do rio'.",
+          avisoIA: "Imagem recriada digitalmente, não é registro original"
+        },
         sintese: "Os barqueiros contaram a Halfeld em 1853 do minhocão que derrubava barrancos, da mãe-d'água de cabelos de ouro, da cachorrinha-d'água e do cavalo-d'água, aos quais se somam o nego-d'água e as carrancas que espantavam os maus espíritos.",
         blocos: [],
         propostasSala: [
