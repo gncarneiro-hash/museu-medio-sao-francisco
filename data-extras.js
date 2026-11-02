@@ -959,6 +959,68 @@ window.MUSEU_EXTRAS = {
       "cidadesRelacionadas": [
         "bom-jesus-da-lapa"
       ]
+    },
+    {
+      "id": "guimaraes-rosa",
+      "nome": "João Guimarães Rosa",
+      "datas": "Cordisburgo, MG, 1908 – Rio de Janeiro, RJ, 1967",
+      "papel": "Escritor, médico e diplomata brasileiro",
+      "resumoCurto": "Autor de Grande Sertão: Veredas (1956), transformou o Rio São Francisco e as veredas sertanejas em eixo narrativo, filosófico e existencial da sua obra.",
+      "biografiaCompleta": "Nascido em Cordisburgo (MG), formou-se em medicina e ingressou no Itamaraty como diplomata. Em 1952, realizou expedição a cavalo conduzindo boiadas pelo sertão mineiro com o vaqueiro Manuelzão, imersão que fundou sua obra-prima Grande Sertão: Veredas (1956). Na voz do narrador Riobaldo, o Rio São Francisco é o cenário da travessia de canoa com o Menino (Diadorim), aprendendo que \"carece de ter coragem\".",
+      "cronologia": [
+        {
+          "ano": "1908",
+          "fato": "Nasce em Cordisburgo, sertão de Minas Gerais."
+        },
+        {
+          "ano": "1930",
+          "fato": "Forma-se em Medicina e atua no interior de Minas."
+        },
+        {
+          "ano": "1934",
+          "fato": "Ingressa na carreira diplomática pelo Itamaraty."
+        },
+        {
+          "ano": "1946",
+          "fato": "Publica Sagarana, revolucionando a linguagem literária brasileira."
+        },
+        {
+          "ano": "1952",
+          "fato": "Expedição montada com vaqueiros no sertão (Manuelzão)."
+        },
+        {
+          "ano": "1956",
+          "fato": "Publica Corpo de Baile e Grande Sertão: Veredas (o rio como eixo do romance)."
+        },
+        {
+          "ano": "1962",
+          "fato": "Publica Primeiras Estórias (incluindo \"A terceira margem do rio\")."
+        },
+        {
+          "ano": "1967",
+          "fato": "Toma posse na Academia Brasileira de Letras (Cadeira 2) em 16 de novembro e falece três dias depois, no Rio de Janeiro."
+        }
+      ],
+      "ondeEstaOriginal": {
+        "instituicao": "Museu Casa Guimarães Rosa (Cordisburgo, MG) / Instituto de Estudos Brasileiros (IEB-USP) / Arquivo Público Mineiro",
+        "colecao": "Fundo Pessoal João Guimarães Rosa",
+        "link": "https://www.secult.mg.gov.br",
+        "comoPedir": "Acervo bibliográfico e fotográfico sob guarda da Secult-MG e manuscritos no IEB-USP."
+      },
+      "publicacoesExposicoes": [
+        "Rosa, João Guimarães. Grande Sertão: Veredas. Rio de Janeiro: José Olympio, 1956.",
+        "Rosa, João Guimarães. Sagarana. Rio de Janeiro: Editora Universal, 1946.",
+        "Rosa, João Guimarães. Primeiras Estórias. Rio de Janeiro: José Olympio, 1962."
+      ],
+      "salasRelacionadas": [
+        13,
+        14
+      ],
+      "cidadesRelacionadas": [
+        "bom-jesus-da-lapa",
+        "januaria",
+        "pirapora"
+      ]
     }
   ],
   "cidades": [
@@ -1267,9 +1329,7 @@ window.MUSEU_EXTRAS = {
         8,
         9
       ],
-      "itensRelacionados": [
-
-      ]
+      "itensRelacionados": []
     },
     {
       "id": "santa-maria-da-vitoria",
@@ -1338,9 +1398,7 @@ window.MUSEU_EXTRAS = {
         13,
         14
       ],
-      "itensRelacionados": [
-
-      ]
+      "itensRelacionados": []
     },
     {
       "id": "ibotirama",
@@ -1367,9 +1425,7 @@ window.MUSEU_EXTRAS = {
         14,
         16
       ],
-      "itensRelacionados": [
-
-      ]
+      "itensRelacionados": []
     },
     {
       "id": "barra",
@@ -1397,9 +1453,7 @@ window.MUSEU_EXTRAS = {
         13,
         14
       ],
-      "itensRelacionados": [
-
-      ]
+      "itensRelacionados": []
     },
     {
       "id": "sobradinho-cidades-submersas",
@@ -3133,6 +3187,30 @@ window.MUSEU_EXTRAS = {
       "fontes": [
         "Guimarães, F. Nery. 'Doenças encontradas nos romeiros de Bom Jesus da Lapa, Bahia'. Memórias do Instituto Oswaldo Cruz, t. 45, fasc. 1, p. 211–251, 1947.",
         "Acervo Casa de Oswaldo Cruz / Fiocruz."
+      ]
+    },
+    {
+      "id": "item-guimaraes-rosa",
+      "titulo": "Retrato de João Guimarães Rosa",
+      "titularId": "guimaraes-rosa",
+      "titularNome": "João Guimarães Rosa",
+      "ano": "c. 1960",
+      "cidadeId": "bom-jesus-da-lapa",
+      "local": "Cordisburgo, MG / Rio de Janeiro, RJ",
+      "sala": 14,
+      "tema": "Literatura e Memória",
+      "arquivo": "assets/img/titulares/guimaraes-rosa.jpg",
+      "alt": "Retrato em preto e branco de João Guimarães Rosa, de óculos e gravata-borboleta, segurando um charuto.",
+      "exibir_imagem": false,
+      "licenca": "sem-licenca",
+      "verificacao": "a-confirmar",
+      "credito": "Fotógrafo não identificado, João Guimarães Rosa fumando, c. 1960. Acervo Museu Casa Guimarães Rosa / Secult-MG. Direitos reservados.",
+      "descricao": "Retrato em preto e branco de João Guimarães Rosa (1908–1967), de óculos e gravata-borboleta, segurando um charuto. Ficha técnica exibida com aviso de imagem sob verificação de direitos (exibir_imagem: false), conforme as regras do AGENTS.md.",
+      "citacaoOriginal": "“O São Francisco vem de Minas, vai pro mar... Carece de ter coragem.” (Grande Sertão: Veredas, 1956)",
+      "original": "Museu Casa Guimarães Rosa (Cordisburgo, MG) / Secult-MG / Arquivo Público Mineiro",
+      "fontes": [
+        "Secult-MG / Diretoria de Museus (DIMUS). Acervo Iconográfico do Fundo Pessoal João Guimarães Rosa.",
+        "Rosa, João Guimarães. Grande Sertão: Veredas. Rio de Janeiro: José Olympio, 1956."
       ]
     }
   ],

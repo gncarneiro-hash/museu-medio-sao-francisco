@@ -549,10 +549,76 @@
       if (sala.blocos && sala.blocos.length > 0) {
         html += '  <div class="mt-6 space-y-4">';
         sala.blocos.forEach(function (b) {
-          html += '    <div class="bg-white p-5 rounded-lg border border-[#dccdb4]">';
-          html += '      <h3 class="font-serif-museu text-lg font-bold text-[#1d3b53]">' + esc(b.subtitulo) + '</h3>';
-          html += '      <p class="text-sm text-[#2b2620] mt-2 leading-relaxed">' + esc(b.texto) + '</p>';
-          html += '    </div>';
+          if (b.tipoCard === "guimaraes-rosa") {
+            html += '    <div class="bg-white p-5 rounded-lg border border-[#dccdb4] flex flex-col md:flex-row gap-5 items-start">';
+            html += '      <div class="w-full md:w-44 shrink-0 flex flex-col items-center">';
+            if (b.retrato && b.retrato.exibir_imagem) {
+              html += '        <img src="' + esc(b.retrato.arquivo) + '" alt="' + esc(b.retrato.alt || b.subtitulo) + '" class="w-full h-52 object-cover rounded-lg border border-[#c9a65b] shadow-xs" loading="lazy" />';
+            } else {
+              html += '        <div class="w-full h-52 bg-[#f8f5ee] border-2 border-dashed border-[#c9a65b] rounded-lg flex flex-col items-center justify-center p-3 text-center">';
+              html += '          <span class="text-3xl mb-1.5 opacity-60">👤</span>';
+              html += '          <span class="text-xs font-bold text-[#1d3b53]">' + esc((b.retrato && b.retrato.legenda) || "Retrato a confirmar") + '</span>';
+              html += '          <span class="text-[10px] text-[#8c2619] font-medium mt-1">Direitos sob verificação<br/>(Regra 3.4 do AGENTS.md)</span>';
+              html += '        </div>';
+            }
+            html += '        <span class="text-[11px] text-[#5a5248] text-center mt-1.5 font-medium">João Guimarães Rosa<br/><span class="text-[10px] text-[#a86f25]">(1908–1967)</span></span>';
+            html += '      </div>';
+            html += '      <div class="flex-1">';
+            html += '        <div class="flex flex-wrap items-center gap-2">';
+            html += '          <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Literatura e Travessia</span>';
+            html += '          <span class="px-2 py-0.5 rounded text-[10px] font-semibold bg-[#f3ead8] text-[#1d3b53] border border-[#dccdb4]">' + esc(b.ano || "1956") + '</span>';
+            html += '        </div>';
+            html += '        <h3 class="font-serif-museu text-xl font-bold text-[#1d3b53] mt-1">' + esc(b.subtitulo) + '</h3>';
+            html += '        <p class="text-sm text-[#2b2620] mt-2 leading-relaxed">' + esc(b.texto) + '</p>';
+            if (b.citacaoCurta) {
+              html += '        <blockquote class="mt-3.5 p-3 rounded bg-[#f3ead8] border-l-4 border-[#a86f25] text-xs font-medium text-[#2b2620] italic">' + esc(b.citacaoCurta) + '</blockquote>';
+            }
+            html += '      </div>';
+            html += '    </div>';
+          } else if (b.tipoCard === "comparativo-neco" && b.comparativo) {
+            var comp = b.comparativo;
+            html += '    <div class="bg-white p-5 rounded-lg border border-[#dccdb4]">';
+            html += '      <div class="flex flex-wrap items-center justify-between gap-2">';
+            html += '        <h3 class="font-serif-museu text-lg font-bold text-[#1d3b53]">' + esc(b.subtitulo) + '</h3>';
+            html += '        <span class="px-2 py-0.5 rounded text-[10px] font-semibold bg-[#fff3cd] text-[#856404] border border-[#ffeeba]">Passagens a confirmar</span>';
+            html += '      </div>';
+            html += '      <p class="text-sm text-[#2b2620] mt-2 leading-relaxed">' + esc(b.texto) + '</p>';
+            html += '      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4 pt-4 border-t border-[#dccdb4]">';
+            if (comp.theodoro) {
+              html += '        <div class="flex items-start gap-3 p-3 bg-[#f8f5ee] rounded-lg border border-[#dccdb4]">';
+              if (comp.theodoro.imagem) {
+                html += '          <img src="' + esc(comp.theodoro.imagem) + '" alt="' + esc(comp.theodoro.nome) + '" class="w-16 h-20 object-cover rounded border border-[#c9a65b] shrink-0" loading="lazy" />';
+              }
+              html += '          <div class="text-xs flex-1">';
+              html += '            <strong class="text-[#1d3b53] block text-sm">' + esc(comp.theodoro.nome) + '</strong>';
+              html += '            <span class="block text-[11px] text-[#a86f25] font-semibold mt-0.5">' + esc(comp.theodoro.papel) + '</span>';
+              html += '            <p class="text-[11px] text-[#5a5248] mt-1.5 leading-snug">' + esc(comp.theodoro.citacao) + '</p>';
+              html += '            <span class="inline-block mt-2 text-[10px] px-2 py-0.5 rounded bg-[#fff3cd] text-[#856404] font-medium border border-[#ffeeba]">a-confirmar no original</span>';
+              html += '          </div>';
+              html += '        </div>';
+            }
+            if (comp.robaldo) {
+              html += '        <div class="flex items-start gap-3 p-3 bg-[#f8f5ee] rounded-lg border border-[#dccdb4]">';
+              html += '          <div class="w-16 h-20 bg-[#f3ead8] border-2 border-dashed border-[#c9a65b] rounded flex flex-col items-center justify-center p-1 text-center shrink-0">';
+              html += '            <span class="text-lg opacity-60">👤</span>';
+              html += '            <span class="text-[8px] font-bold text-[#1d3b53] leading-none mt-1">Retrato a confirmar</span>';
+              html += '          </div>';
+              html += '          <div class="text-xs flex-1">';
+              html += '            <strong class="text-[#1d3b53] block text-sm">' + esc(comp.robaldo.nome) + '</strong>';
+              html += '            <span class="block text-[11px] text-[#a86f25] font-semibold mt-0.5">' + esc(comp.robaldo.papel) + '</span>';
+              html += '            <p class="text-[11px] text-[#5a5248] mt-1.5 leading-snug">' + esc(comp.robaldo.citacao) + '</p>';
+              html += '            <span class="inline-block mt-2 text-[10px] px-2 py-0.5 rounded bg-[#fff3cd] text-[#856404] font-medium border border-[#ffeeba]">a-confirmar no original</span>';
+              html += '          </div>';
+              html += '        </div>';
+            }
+            html += '      </div>';
+            html += '    </div>';
+          } else {
+            html += '    <div class="bg-white p-5 rounded-lg border border-[#dccdb4]">';
+            html += '      <h3 class="font-serif-museu text-lg font-bold text-[#1d3b53]">' + esc(b.subtitulo) + '</h3>';
+            html += '      <p class="text-sm text-[#2b2620] mt-2 leading-relaxed">' + esc(b.texto) + '</p>';
+            html += '    </div>';
+          }
         });
         html += '  </div>';
       }
@@ -801,7 +867,7 @@
     html += '    <div class="inline-flex rounded-lg border border-[#dccdb4] bg-[#faf6ee] p-1 shrink-0">';
     var tabTitClass = STATE.acervoSubTab === "titulares" ? "bg-[#1d3b53] text-white font-bold" : "text-[#2b2620] hover:bg-[#f3ead8]";
     var tabItClass = STATE.acervoSubTab === "itens" ? "bg-[#1d3b53] text-white font-bold" : "text-[#2b2620] hover:bg-[#f3ead8]";
-    html += '      <button type="button" onclick="setAcervoSubTab(\'titulares\')" class="px-4 py-2 rounded-md text-xs transition cursor-pointer ' + tabTitClass + '">Páginas de Titular (10)</button>';
+    html += '      <button type="button" onclick="setAcervoSubTab(\'titulares\')" class="px-4 py-2 rounded-md text-xs transition cursor-pointer ' + tabTitClass + '">Páginas de Titular (' + titulares.length + ')</button>';
     html += '      <button type="button" onclick="setAcervoSubTab(\'itens\')" class="px-4 py-2 rounded-md text-xs transition cursor-pointer ' + tabItClass + '">Busca Geral de Itens (' + acervo.length + ')</button>';
     html += '    </div>';
     html += '  </div>';

@@ -669,5 +669,67 @@
     "cidadesRelacionadas": [
       "bom-jesus-da-lapa"
     ]
+  },
+  {
+    "id": "guimaraes-rosa",
+    "nome": "João Guimarães Rosa",
+    "datas": "Cordisburgo, MG, 1908 – Rio de Janeiro, RJ, 1967",
+    "papel": "Escritor, médico e diplomata brasileiro",
+    "resumoCurto": "Autor de Grande Sertão: Veredas (1956), transformou o Rio São Francisco e as veredas sertanejas em eixo narrativo, filosófico e existencial da sua obra.",
+    "biografiaCompleta": "Nascido em Cordisburgo (MG), formou-se em medicina e ingressou no Itamaraty como diplomata. Em 1952, realizou expedição a cavalo conduzindo boiadas pelo sertão mineiro com o vaqueiro Manuelzão, imersão que fundou sua obra-prima Grande Sertão: Veredas (1956). Na voz do narrador Riobaldo, o Rio São Francisco é o cenário da travessia de canoa com o Menino (Diadorim), aprendendo que \"carece de ter coragem\".",
+    "cronologia": [
+      {
+        "ano": "1908",
+        "fato": "Nasce em Cordisburgo, sertão de Minas Gerais."
+      },
+      {
+        "ano": "1930",
+        "fato": "Forma-se em Medicina e atua no interior de Minas."
+      },
+      {
+        "ano": "1934",
+        "fato": "Ingressa na carreira diplomática pelo Itamaraty."
+      },
+      {
+        "ano": "1946",
+        "fato": "Publica Sagarana, revolucionando a linguagem literária brasileira."
+      },
+      {
+        "ano": "1952",
+        "fato": "Expedição montada com vaqueiros no sertão (Manuelzão)."
+      },
+      {
+        "ano": "1956",
+        "fato": "Publica Corpo de Baile e Grande Sertão: Veredas (o rio como eixo do romance)."
+      },
+      {
+        "ano": "1962",
+        "fato": "Publica Primeiras Estórias (incluindo \"A terceira margem do rio\")."
+      },
+      {
+        "ano": "1967",
+        "fato": "Toma posse na Academia Brasileira de Letras (Cadeira 2) em 16 de novembro e falece três dias depois, no Rio de Janeiro."
+      }
+    ],
+    "ondeEstaOriginal": {
+      "instituicao": "Museu Casa Guimarães Rosa (Cordisburgo, MG) / Instituto de Estudos Brasileiros (IEB-USP) / Arquivo Público Mineiro",
+      "colecao": "Fundo Pessoal João Guimarães Rosa",
+      "link": "https://www.secult.mg.gov.br",
+      "comoPedir": "Acervo bibliográfico e fotográfico sob guarda da Secult-MG e manuscritos no IEB-USP."
+    },
+    "publicacoesExposicoes": [
+      "Rosa, João Guimarães. Grande Sertão: Veredas. Rio de Janeiro: José Olympio, 1956.",
+      "Rosa, João Guimarães. Sagarana. Rio de Janeiro: Editora Universal, 1946.",
+      "Rosa, João Guimarães. Primeiras Estórias. Rio de Janeiro: José Olympio, 1962."
+    ],
+    "salasRelacionadas": [
+      13,
+      14
+    ],
+    "cidadesRelacionadas": [
+      "bom-jesus-da-lapa",
+      "januaria",
+      "pirapora"
+    ]
   }
 ]

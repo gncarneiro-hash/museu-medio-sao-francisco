@@ -475,7 +475,29 @@ window.MUSEU_NUCLEOS_4_6 = [
         blocos: [
           {
             subtitulo: "O coronel Neco: entre a história e Grande sertão: veredas",
-            texto: "Chefe político citado por Theodoro Sampaio (aquartelado no Jacaré/Itacarambi em 1879 com 'um verdadeiro exército de jagunços' para retomar Januária) e por Guimarães Rosa em Grande sertão: veredas — ponte direta entre o coronel real e o coronel da ficção."
+            tipoCard: "comparativo-neco",
+            texto: "Chefe político citado por Theodoro Sampaio (aquartelado no Jacaré/Itacarambi em 1879 com 'um verdadeiro exército de jagunços' para retomar Januária) e por Guimarães Rosa em Grande sertão: veredas — ponte direta entre o coronel real e o coronel da ficção.",
+            comparativo: {
+              theodoro: {
+                nome: "Theodoro Sampaio (1879)",
+                papel: "O coronel real (engenheiro e viajante)",
+                citacao: "Descreve o coronel Neco aquartelado no Jacaré com jagunços armados durante as lutas políticas de 1879 no vale.",
+                imagem: "assets/img/17-theodoro-sampaio.jpg",
+                verificacao: "a-confirmar"
+              },
+              robaldo: {
+                nome: "João Guimarães Rosa (1956)",
+                papel: "O coronel da ficção (na voz de Riobaldo)",
+                citacao: "Passagem de Riobaldo sobre o coronel Neco e a jagunçagem nos sertões de Minas e Bahia.",
+                retrato: {
+                  arquivo: "assets/img/titulares/guimaraes-rosa.jpg",
+                  licenca: "sem-licenca",
+                  exibir_imagem: false,
+                  legenda: "Retrato a confirmar"
+                },
+                verificacao: "a-confirmar"
+              }
+            }
           },
           {
             subtitulo: "O rio nas guerras",
@@ -507,6 +529,23 @@ window.MUSEU_NUCLEOS_4_6 = [
         verificacao: "verificado",
         sintese: "O rio entrou na literatura brasileira pelos viajantes e ficou nela pelos romancistas e compositores: Euclides da Cunha, Guimarães Rosa, Jorge Amado, Wilson Lins, Osório Alves de Castro, Lúcio Cardoso, Afonso Arinos, Itamar Vieira Junior, Guttemberg Guarabyra e Zeca Bahia.",
         blocos: [
+          {
+            subtitulo: "Grande Sertão: Veredas (1956)",
+            tipoCard: "guimaraes-rosa",
+            livro: "Grande Sertão: Veredas",
+            ano: "1956",
+            autor: "João Guimarães Rosa",
+            texto: "O rio é o eixo do romance. O menino Riobaldo atravessa o São Francisco de canoa com o Menino, que depois ele reencontra como Diadorim, e ouve que 'carece de ter coragem'. A travessia nas águas do grande rio funda a coragem e o destino do jagunço nas veredas e afluentes do sertão.",
+            citacaoCurta: "“O São Francisco vem de Minas, vai pro mar... Carece de ter coragem.” (Grande Sertão: Veredas, 1956)",
+            retrato: {
+              arquivo: "assets/img/titulares/guimaraes-rosa.jpg",
+              alt: "Retrato em preto e branco de João Guimarães Rosa, de óculos e gravata-borboleta, segurando um charuto.",
+              licenca: "sem-licenca",
+              exibir_imagem: false,
+              legenda: "Retrato a confirmar",
+              credito: "Fotógrafo não identificado, João Guimarães Rosa fumando, c. 1960. Acervo Museu Casa Guimarães Rosa / Secult-MG. Direitos reservados."
+            }
+          },
           {
             subtitulo: "Wilson Lins e o 'ABC da Carreira Grande'",
             texto: "Em O Médio São Francisco (1952), Wilson Lins afirma: 'Quem manda no vale é mesmo o Bom Jesus da Lapa', descrevendo as cabaças com velas, tostões e cachos de cabelo lançadas na correnteza sob guarda do Caboclo-d'Água, a serpente de asas comparada a Quetzalcóatl e a célebre toada dos remeiros que dava apelido a cada porto de Juazeiro a Pirapora ('Triste do povo da Lapa / Se não fosse o Bom Jesus / Carinhanha é bonitinha / Malhada também é...')."
