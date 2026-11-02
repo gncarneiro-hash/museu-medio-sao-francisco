@@ -502,6 +502,19 @@ window.MUSEU_NUCLEOS_4_6 = [
           {
             subtitulo: "O rio nas guerras",
             texto: "Canudos (1896–1897, com Juazeiro como base e transporte fluvial de tropas e feridos), Coluna Prestes, Segunda Guerra Mundial (1942–1945, pracinhas do vale que subiram de vapor pela Lapa rumo aos quartéis) e a Operação Pajuçara (1971, morte de Carlos Lamarca em Ipupiara após fuga pela região de Brotas de Macaúbas)."
+          },
+          {
+            subtitulo: "A sociedade de pastores e guerreiros: a análise de Wilson Lins",
+            tipoCard: "wilson-lins-sociologia",
+            texto: "Em seu clássico estudo de 1952, o romancista e parlamentar Wilson Lins (Pilão Arcado, 1919–2004) definiu a estrutura social do Médio São Francisco como um sistema patriarcal armado: fazendas fortificadas, redes de afilhados e jagunços, e a honra sertaneja como lei acima do poder do Estado distante.",
+            autor: "Wilson Lins (1919–2004)",
+            obra: "O Médio São Francisco: uma sociedade de pastores e guerreiros (1952)",
+            retrato: {
+              arquivo: "assets/img/titulares/wilson-lins.jpg",
+              licenca: "sem-licenca",
+              exibir_imagem: false,
+              legenda: "Retrato a confirmar"
+            }
           }
         ],
         propostasSala: [
@@ -548,7 +561,20 @@ window.MUSEU_NUCLEOS_4_6 = [
           },
           {
             subtitulo: "Wilson Lins e o 'ABC da Carreira Grande'",
-            texto: "Em O Médio São Francisco (1952), Wilson Lins afirma: 'Quem manda no vale é mesmo o Bom Jesus da Lapa', descrevendo as cabaças com velas, tostões e cachos de cabelo lançadas na correnteza sob guarda do Caboclo-d'Água, a serpente de asas comparada a Quetzalcóatl e a célebre toada dos remeiros que dava apelido a cada porto de Juazeiro a Pirapora ('Triste do povo da Lapa / Se não fosse o Bom Jesus / Carinhanha é bonitinha / Malhada também é...')."
+            tipoCard: "wilson-lins",
+            ano: "1952",
+            autor: "Wilson Lins (1919–2004)",
+            obra: "O Médio São Francisco: uma sociedade de pastores e guerreiros (1952)",
+            texto: "Em O Médio São Francisco (1952), Wilson Lins afirma: 'Quem manda no vale é mesmo o Bom Jesus da Lapa', descrevendo as cabaças com velas, tostões e cachos de cabelo lançadas na correnteza sob guarda do Caboclo-d'Água, a serpente de asas comparada a Quetzalcóatl e a célebre toada dos remeiros que dava apelido a cada porto de Juazeiro a Pirapora ('Triste do povo da Lapa / Se não fosse o Bom Jesus / Carinhanha é bonitinha / Malhada também é...').",
+            citacaoCurta: "“Quem manda no vale é mesmo o Bom Jesus da Lapa.” — Wilson Lins, 1952.",
+            retrato: {
+              arquivo: "assets/img/titulares/wilson-lins.jpg",
+              alt: "Retrato em preto e branco de Wilson Lins, de óculos de armação escura e paletó.",
+              licenca: "sem-licenca",
+              exibir_imagem: false,
+              legenda: "Retrato a confirmar",
+              credito: "Fotógrafo oficial da ALBA, Wilson Lins, c. 1969. Acervo Assembleia Legislativa da Bahia / Academia de Letras da Bahia. Direitos reservados."
+            }
           },
           {
             subtitulo: "Dois compositores do Médio São Francisco no rádio do Brasil",

@@ -549,7 +549,8 @@
       if (sala.blocos && sala.blocos.length > 0) {
         html += '  <div class="mt-6 space-y-4">';
         sala.blocos.forEach(function (b) {
-          if (b.tipoCard === "guimaraes-rosa") {
+          if (b.tipoCard === "guimaraes-rosa" || b.tipoCard === "wilson-lins") {
+            var autorNome = b.autor || (b.tipoCard === "guimaraes-rosa" ? "João Guimarães Rosa (1908–1967)" : "Wilson Lins (1919–2004)");
             html += '    <div class="bg-white p-5 rounded-lg border border-[#dccdb4] flex flex-col md:flex-row gap-5 items-start">';
             html += '      <div class="w-full md:w-44 shrink-0 flex flex-col items-center">';
             if (b.retrato && b.retrato.exibir_imagem) {
@@ -561,18 +562,34 @@
               html += '          <span class="text-[10px] text-[#8c2619] font-medium mt-1">Direitos sob verificação<br/>(Regra 3.4 do AGENTS.md)</span>';
               html += '        </div>';
             }
-            html += '        <span class="text-[11px] text-[#5a5248] text-center mt-1.5 font-medium">João Guimarães Rosa<br/><span class="text-[10px] text-[#a86f25]">(1908–1967)</span></span>';
+            html += '        <span class="text-[11px] text-[#5a5248] text-center mt-1.5 font-medium">' + esc(autorNome) + '</span>';
             html += '      </div>';
             html += '      <div class="flex-1">';
             html += '        <div class="flex flex-wrap items-center gap-2">';
-            html += '          <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Literatura e Travessia</span>';
-            html += '          <span class="px-2 py-0.5 rounded text-[10px] font-semibold bg-[#f3ead8] text-[#1d3b53] border border-[#dccdb4]">' + esc(b.ano || "1956") + '</span>';
+            html += '          <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">Literatura e Sertão</span>';
+            html += '          <span class="px-2 py-0.5 rounded text-[10px] font-semibold bg-[#f3ead8] text-[#1d3b53] border border-[#dccdb4]">' + esc(b.ano || "1952") + '</span>';
             html += '        </div>';
             html += '        <h3 class="font-serif-museu text-xl font-bold text-[#1d3b53] mt-1">' + esc(b.subtitulo) + '</h3>';
             html += '        <p class="text-sm text-[#2b2620] mt-2 leading-relaxed">' + esc(b.texto) + '</p>';
             if (b.citacaoCurta) {
               html += '        <blockquote class="mt-3.5 p-3 rounded bg-[#f3ead8] border-l-4 border-[#a86f25] text-xs font-medium text-[#2b2620] italic">' + esc(b.citacaoCurta) + '</blockquote>';
             }
+            html += '      </div>';
+            html += '    </div>';
+          } else if (b.tipoCard === "wilson-lins-sociologia") {
+            html += '    <div class="bg-white p-5 rounded-lg border border-[#dccdb4] flex flex-col sm:flex-row gap-4 items-start">';
+            html += '      <div class="w-full sm:w-28 shrink-0 flex flex-col items-center">';
+            html += '        <div class="w-full h-32 bg-[#f8f5ee] border-2 border-dashed border-[#c9a65b] rounded-lg flex flex-col items-center justify-center p-2 text-center">';
+            html += '          <span class="text-2xl mb-1 opacity-60">👤</span>';
+            html += '          <span class="text-[9px] font-bold text-[#1d3b53]">Retrato a confirmar</span>';
+            html += '        </div>';
+            html += '        <span class="text-[10px] text-[#5a5248] text-center mt-1 font-medium">Wilson Lins</span>';
+            html += '      </div>';
+            html += '      <div class="flex-1">';
+            html += '        <span class="text-[10px] font-bold uppercase tracking-wider text-[#a86f25]">Sociologia do Médio São Francisco · 1952</span>';
+            html += '        <h3 class="font-serif-museu text-lg font-bold text-[#1d3b53] mt-0.5">' + esc(b.subtitulo) + '</h3>';
+            html += '        <p class="text-sm text-[#2b2620] mt-2 leading-relaxed">' + esc(b.texto) + '</p>';
+            html += '        <div class="mt-2 text-[11px] text-[#5a5248]"><strong>Referência:</strong> <em>' + esc(b.obra) + '</em></div>';
             html += '      </div>';
             html += '    </div>';
           } else if (b.tipoCard === "comparativo-neco" && b.comparativo) {
