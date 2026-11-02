@@ -475,6 +475,11 @@ window.MUSEU_NUCLEOS_4_6 = [
         titulo: "Poder e política: coronéis, barões e guerrilheiros",
         nucleo: "V",
         verificacao: "verificado",
+        capa: {
+          arquivo: "assets/instalacoes/instalacao-sala-13-coroneis-capa.jpg",
+          legenda: "Capa conceitual da Sala 13 ('Coronéis e barões'): galeria de retratos dos coronéis e do Barão de Cotegipe, mesa colonial de fazenda com escrivaninha e revólver em vitrine, integrada ao núcleo social.",
+          avisoIA: "Imagem recriada digitalmente, não é registro original"
+        },
         sintese: "Onde o Estado faltava, mandavam os coronéis com justiça, milícia e leis próprias — mundo retratado por Wilson Lins em O Médio São Francisco: uma sociedade de pastores e guerreiros (1952). O vale também deu ao Império o Barão de Cotegipe (nascido na Barra em 1815, presidente do Conselho de Ministros de 1885 a 1888) e foi palco de conflitos e guerras.",
         blocos: [
           {
@@ -530,13 +535,7 @@ window.MUSEU_NUCLEOS_4_6 = [
           "O que foi o coronelismo no Médio São Francisco e como o escritor Wilson Lins descreveu essa 'sociedade de pastores e guerreiros'?",
           "Como um personagem histórico real visto por Theodoro Sampaio em 1879 (o Coronel Neco) foi parar dentro do romance Grande sertão: veredas, de Guimarães Rosa?"
         ],
-        instalacoes: [
-          {
-            arquivo: "assets/instalacoes/instalacao-07.jpg",
-            legenda: "Conceito museográfico da Sala 13 ('Coronéis e barões') integrada ao núcleo social.",
-            avisoIA: "Imagem recriada digitalmente, não é registro original"
-          }
-        ],
+        instalacoes: [],
         imagens: []
       },
       {
