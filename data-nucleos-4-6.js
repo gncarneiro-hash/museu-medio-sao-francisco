@@ -437,13 +437,7 @@ window.MUSEU_NUCLEOS_4_6 = [
           "Por que o reconhecimento de Rio das Rãs em 1992 foi um marco histórico para os direitos quilombolas em todo o Brasil?",
           "Qual é a importância das vazantes do rio para o modo de vida tradicional das comunidades quilombolas ribeirinhas?"
         ],
-        instalacoes: [
-          {
-            arquivo: "assets/instalacoes/instalacao-04.jpg",
-            legenda: "Conceito museográfico das Salas 9 e 11 ('Terra de liberdade: os quilombos do São Francisco').",
-            avisoIA: "Imagem recriada digitalmente, não é registro original"
-          }
-        ],
+        instalacoes: [],
         imagens: []
       },
       {
@@ -477,13 +471,7 @@ window.MUSEU_NUCLEOS_4_6 = [
           "Como os moradores do sertão produziam o 'sal da terra' nas lagoas salinas descritas por Halfeld em 1852?",
           "Como a criação da CVSF (1948) e da Codevasf (1974) e a implantação do Perímetro Irrigado Formoso transformaram a economia de Bom Jesus da Lapa?"
         ],
-        instalacoes: [
-          {
-            arquivo: "assets/instalacoes/instalacao-07.jpg",
-            legenda: "Conceito museográfico das Salas 12 ('Do curral à irrigação'), 13 ('Coronéis e barões') e acesso à Sala 15 ('O rio encantado').",
-            avisoIA: "Imagem recriada digitalmente, não é registro original"
-          }
-        ],
+        instalacoes: [],
         imagens: []
       },
       {
