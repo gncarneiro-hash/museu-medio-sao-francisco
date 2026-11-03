@@ -734,6 +734,11 @@ window.MUSEU_NUCLEOS_4_6 = [
         titulo: "O rio que subiu: a tragédia de Sobradinho e a Serra do Ramalho",
         nucleo: "VI",
         verificacao: "verificado",
+        capa: {
+          arquivo: "assets/instalacoes/instalacao-sala-17-sobradinho-capa.jpg",
+          legenda: "Conceito museográfico do Núcleo VI (O rio transformado), com destaque para a Sala 17: painel “As cidades debaixo d’água” com a torre de igreja submersa pelo lago, maquetes das vilas inundadas e das agrovilas da Serra do Ramalho, portas e objetos das casas deixadas para trás; ao lado, “Trilhos e vapores”, “O rio que seca” e “O futuro do rio”, sobre o caminho azul do rio pintado no chão.",
+          avisoIA: "Imagem recriada digitalmente, não é registro original"
+        },
         sintese: "Construída entre 1972 e 1978, a barragem de Sobradinho formou um lago de 4.214 km² que cobriu Casa Nova, Remanso, Sento Sé, Pilão Arcado e dezenas de povoados, deslocando cerca de 72 mil pessoas (80% camponeses, dos quais só 13,9% tinham título da terra, segundo Lygia Sigaud, 1986). Parte dessa migração forçada terminou entre Bom Jesus da Lapa e Carinhanha, no Projeto Especial de Colonização (PEC) Serra do Ramalho.",
         blocos: [
           {
