@@ -11,6 +11,11 @@ window.MUSEU_NUCLEOS_4_6 = [
         titulo: "Embarcações, carrancas, vapores e remeiros",
         nucleo: "IV",
         verificacao: "verificado",
+        capa: {
+          arquivo: "assets/instalacoes/instalacao-sala-07-embarcacoes-capa.jpg",
+          legenda: "Conceito museográfico da Sala 7 (Embarcações, carrancas, vapores e remeiros): barca de figura em tamanho real com remeiros e carranca na proa, ajojo carregado de sacos e rapadura, canoas de tronco sobre o rio pintado no chão e parede de carrancas com painel de Mestre Guarany, de Santa Maria da Vitória.",
+          avisoIA: "Imagem recriada digitalmente, não é registro original"
+        },
         sintese: "Antes do vapor, o rio era navegado por canoas de tronco (herança indígena tapuia ainda em uso), ajojos (balsas de canoas amarradas) e barcas de figura empurradas a vara pelos remeiros na 'travessa da faca fora' entre a Lapa e Carinhanha. Em 1866–1871, os primeiros vapores atravessaram o sertão desmontados: o Saldanha Marinho (remontado em Sabará por Henrique Dumont) e o Presidente Dantas (que viajou ~380 km pela caatinga de Alagoinhas a Juazeiro e subiu à Lapa e Januária em 1872–1873). Nas proas das barcas brilhou a arte de Mestre Guarany, de Santa Maria da Vitória, e em 2025 o vapor Benjamim Guimarães (1913) voltou a apitar em Pirapora.",
         videos: [
           {"titulo": "Remeiros do São Francisco", "ano": "Data a confirmar", "direcao": "Direção e emissora a confirmar", "duracao": "9 min", "descricao": "Documentário gravado em cidades de Minas Gerais, Bahia e Pernambuco. Antigos remeiros revelam segredos do ofício e relembram um rio cheio de vida e caudaloso.", "acervo": "Fonte a confirmar (link do vídeo ainda não localizado)", "verificacao": "a-confirmar"}
