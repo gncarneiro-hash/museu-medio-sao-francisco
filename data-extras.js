@@ -3285,23 +3285,22 @@ window.MUSEU_EXTRAS = {
       "titulo": "Retrato de Wilson Lins",
       "titularId": "wilson-lins",
       "titularNome": "Wilson Lins",
-      "ano": "c. 1969",
+      "ano": "fev. 1951",
       "cidadeId": "pilao-arcado",
       "local": "Salvador, BA / Pilão Arcado, BA",
       "sala": 14,
       "tema": "Literatura e Coronelismo",
-      "arquivo": "assets/img/titulares/wilson-lins.jpg",
-      "alt": "Retrato em preto e branco de Wilson Lins, de óculos de armação escura e paletó.",
-      "exibir_imagem": false,
-      "licenca": "sem-licenca",
-      "verificacao": "a-confirmar",
-      "credito": "Fotógrafo oficial da ALBA, Wilson Lins, c. 1969. Acervo Assembleia Legislativa da Bahia / Academia de Letras da Bahia. Direitos reservados.",
+      "arquivo": "assets/img/titulares/wilson-lins-alba-1951.jpg",
+      "alt": "Retrato em preto e branco de Wilson Lins em 1951, de óculos de aro escuro e gravata, sentado diante de uma bandeira.",
+      "exibir_imagem": true,
+      "licenca": "dominio-publico",
+      "verificacao": "fonte-secundaria",
+      "credito": "Assembleia Legislativa do Estado da Bahia, Wilson Lins, deputado estadual, fev. 1951. Via Wikimedia Commons (licença PD-BrazilGov). Domínio público.",
       "descricao": "Retrato oficial parlamentar de Wilson Lins (1919–2004), romancista e presidente da ALBA (1969–1971). Exibição pública mantida como ficha sem imagem (exibir_imagem: false) até verificação definitiva de cessão de direitos, cumprindo a Regra 3.4 do AGENTS.md.",
       "citacaoOriginal": "“Quem manda no vale é mesmo o Bom Jesus da Lapa.” (O Médio São Francisco, 1952)",
-      "original": "Assembleia Legislativa do Estado da Bahia (ALBA) / Academia de Letras da Bahia (ALB)",
+      "original": "Assembleia Legislativa do Estado da Bahia",
       "fontes": [
-        "Assembleia Legislativa do Estado da Bahia. Perfil Parlamentar: Wilson Lins.",
-        "Lins, Wilson. O Médio São Francisco: uma sociedade de pastores e guerreiros, 1952."
+        "Wikimedia Commons, File:WilsonLins dep estadual.jpg (fonte: Assembleia Legislativa do Estado da Bahia; licença PD-BrazilGov)."
       ]
     },
     {

@@ -538,10 +538,11 @@ window.MUSEU_NUCLEOS_4_6 = [
             autor: "Wilson Lins (1919–2004)",
             obra: "O Médio São Francisco: uma sociedade de pastores e guerreiros (1952)",
             retrato: {
-              arquivo: "assets/img/titulares/wilson-lins.jpg",
-              licenca: "sem-licenca",
-              exibir_imagem: false,
-              legenda: "Retrato a confirmar"
+              arquivo: "assets/img/titulares/wilson-lins-alba-1951.jpg",
+              alt: "Retrato em preto e branco de Wilson Lins em 1951, de óculos de aro escuro e gravata, sentado diante de uma bandeira.",
+              licenca: "dominio-publico",
+              exibir_imagem: true,
+              legenda: "Wilson Lins, 1951. Assembleia Legislativa da Bahia. Domínio público."
             }
           }
         ],
@@ -590,12 +591,12 @@ window.MUSEU_NUCLEOS_4_6 = [
             texto: "Em O Médio São Francisco (1952), Wilson Lins afirma: 'Quem manda no vale é mesmo o Bom Jesus da Lapa', descrevendo as cabaças com velas, tostões e cachos de cabelo lançadas na correnteza sob guarda do Caboclo-d'Água, a serpente de asas comparada a Quetzalcóatl e a célebre toada dos remeiros que dava apelido a cada porto de Juazeiro a Pirapora ('Triste do povo da Lapa / Se não fosse o Bom Jesus / Carinhanha é bonitinha / Malhada também é...').",
             citacaoCurta: "“Quem manda no vale é mesmo o Bom Jesus da Lapa.” — Wilson Lins, 1952.",
             retrato: {
-              arquivo: "assets/img/titulares/wilson-lins.jpg",
-              alt: "Retrato em preto e branco de Wilson Lins, de óculos de armação escura e paletó.",
-              licenca: "sem-licenca",
-              exibir_imagem: false,
-              legenda: "Retrato a confirmar",
-              credito: "Fotógrafo oficial da ALBA, Wilson Lins, c. 1969. Acervo Assembleia Legislativa da Bahia / Academia de Letras da Bahia. Direitos reservados."
+              arquivo: "assets/img/titulares/wilson-lins-alba-1951.jpg",
+              alt: "Retrato em preto e branco de Wilson Lins em 1951, de óculos de aro escuro e gravata, sentado diante de uma bandeira.",
+              licenca: "dominio-publico",
+              exibir_imagem: true,
+              legenda: "Wilson Lins, deputado estadual, 1951",
+              credito: "Assembleia Legislativa do Estado da Bahia, Wilson Lins, deputado estadual, fev. 1951. Via Wikimedia Commons (licença PD-BrazilGov). Domínio público."
             }
           },
           {"subtitulo": "O ABC da Carreira Grande: o rio cantado porto a porto", "tipoCard": "abc-destaque", "texto": "Nas subidas e descidas do rio, os remeiros cantavam uma toada que dava a cada porto, de Juazeiro a Pirapora, um apelido em verso. Wilson Lins registrou essa “carreira grande” em O Médio São Francisco (1952). É o mapa do rio feito de memória e de humor: quem conhecia os versos sabia onde estava. Com o fim das barcas a vela, a cantiga ficou só na lembrança dos barranqueiros.", "variante": {"titulo": "Outra versão, lembrada em Xique-Xique", "texto": "“Juazeiro da lordeza / Petrolina dos missais / Santana dos cascais / Casa Nova da carestia / Sento Sé da nobreza / Remanso da valentia / Xique Xique dos bundões / Icatu cachaça podre / Barra só dá ladrão” — trocando, por sarcasmo, o verso tradicional “Barra só dá barão”.", "fonte": "Juarez M. Chaves, Blog Xiquexiquense, jun. 2010.", "link": "https://xiquexiquense.blogspot.com/2010/06/cronica-as-barcas-vela-e-os-remeiros-do.html"}, "fonte": "Lins, Wilson. O Médio São Francisco: uma sociedade de pastores e guerreiros. 1952 (Brasiliana, vol. 377).", "verificacao": "fonte-secundaria"},
