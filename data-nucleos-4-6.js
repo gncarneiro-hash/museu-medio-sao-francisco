@@ -517,10 +517,11 @@ window.MUSEU_NUCLEOS_4_6 = [
                 papel: "O coronel da ficção (na voz de Riobaldo)",
                 citacao: "Passagem de Riobaldo sobre o coronel Neco e a jagunçagem nos sertões de Minas e Bahia.",
                 retrato: {
-                  arquivo: "assets/img/titulares/guimaraes-rosa.jpg",
-                  licenca: "sem-licenca",
-                  exibir_imagem: false,
-                  legenda: "Retrato a confirmar"
+                  arquivo: "assets/img/titulares/guimaraes-rosa-arquivo-nacional-1960s.jpg",
+                  alt: "Retrato em preto e branco de João Guimarães Rosa nos anos 1960, de óculos e gravata-borboleta.",
+                  licenca: "dominio-publico",
+                  exibir_imagem: true,
+                  legenda: "Guimarães Rosa, anos 1960. Arquivo Nacional, fundo Correio da Manhã. Domínio público."
                 },
                 verificacao: "a-confirmar"
               }
@@ -572,12 +573,12 @@ window.MUSEU_NUCLEOS_4_6 = [
             texto: "O rio é o eixo do romance. O menino Riobaldo atravessa o São Francisco de canoa com o Menino, que depois ele reencontra como Diadorim, e ouve que 'carece de ter coragem'. A travessia nas águas do grande rio funda a coragem e o destino do jagunço nas veredas e afluentes do sertão.",
             citacaoCurta: "“O São Francisco vem de Minas, vai pro mar... Carece de ter coragem.” (Grande Sertão: Veredas, 1956)",
             retrato: {
-              arquivo: "assets/img/titulares/guimaraes-rosa.jpg",
-              alt: "Retrato em preto e branco de João Guimarães Rosa, de óculos e gravata-borboleta, segurando um charuto.",
-              licenca: "sem-licenca",
-              exibir_imagem: false,
-              legenda: "Retrato a confirmar",
-              credito: "Fotógrafo não identificado, João Guimarães Rosa fumando, c. 1960. Acervo Museu Casa Guimarães Rosa / Secult-MG. Direitos reservados."
+              arquivo: "assets/img/titulares/guimaraes-rosa-arquivo-nacional-1960s.jpg",
+              alt: "Retrato em preto e branco de João Guimarães Rosa nos anos 1960, de óculos redondos de aro escuro e gravata-borboleta listrada, sorrindo de leve.",
+              licenca: "dominio-publico",
+              exibir_imagem: true,
+              legenda: "João Guimarães Rosa, anos 1960",
+              credito: "Fotógrafo não identificado, Guimarães Rosa, anos 1960. Arquivo Nacional, fundo Correio da Manhã (BR_RJANRIO_PH_0_FOT_40543_003), via Wikimedia Commons. Domínio público."
             }
           },
           {
