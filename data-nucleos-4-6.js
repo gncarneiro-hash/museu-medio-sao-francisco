@@ -867,13 +867,7 @@ window.MUSEU_NUCLEOS_4_6 = [
           "Por que o desmatamento das veredas e o uso excessivo do Aquífero Urucuia diminuem a água do São Francisco na época da seca?",
           "Por que o oceano Atlântico avançou sobre o povoado e o farol do Cabeço, na foz do São Francisco?"
         ],
-        instalacoes: [
-          {
-            arquivo: "assets/instalacoes/instalacao-06.jpg",
-            legenda: "Conceito museográfico da Sala 18 ('O rio que seca') com globo e painéis hidrográficos.",
-            avisoIA: "Imagem recriada digitalmente, não é registro original"
-          }
-        ],
+        instalacoes: [],
         imagens: []
       },
       {
