@@ -3431,6 +3431,27 @@ window.MUSEU_EXTRAS = {
       "fontes": [
         "Fotografia de Gabriel Neves Carneiro, cedida pelo autor ao Museu do Médio São Francisco."
       ]
+    },
+    {
+      "id": "item-70",
+      "titulo": "Romeiro veterano da Guerra do Paraguai, Bom Jesus da Lapa (1946)",
+      "titularId": "",
+      "titularNome": "Missão do Instituto Oswaldo Cruz (F. Nery Guimarães)",
+      "ano": "1946 (publ. 1947)",
+      "cidadeId": "bom-jesus-da-lapa",
+      "local": "Bom Jesus da Lapa (BA)",
+      "sala": 11,
+      "tema": "Romaria e Fé",
+      "arquivo": "assets/img/69-nery-1946-veterano-guerra-paraguai-lapa.jpg",
+      "exibir_imagem": true,
+      "licenca": "dominio-publico",
+      "verificacao": "verificado",
+      "credito": "Missão do Instituto Oswaldo Cruz, romaria de Bom Jesus da Lapa, jul.–ago. 1946. Publicada em F. Nery Guimarães, “Doenças encontradas nos romeiros de Bom Jesus da Lapa, Bahia”, Memórias do Instituto Oswaldo Cruz, t. 45, fasc. 1, 1947, fig. 22, p. 243. Acervo Fiocruz (Arca). Domínio público.",
+      "descricao": "Um homem idoso, ex-combatente da Guerra do Paraguai, fotografado ao pé do morro durante a romaria de 1946. O nome dele não foi registrado.",
+      "original": "Memórias do Instituto Oswaldo Cruz, t. 45, 1947, fig. 22 (Arca/Fiocruz)",
+      "fontes": [
+        "Nery Guimarães, F. Doenças encontradas nos romeiros de Bom Jesus da Lapa, Bahia. Mem. Inst. Oswaldo Cruz, t. 45, fasc. 1, 1947, fig. 22, p. 243."
+      ]
     }
   ],
   "linhaDoTempo": [
