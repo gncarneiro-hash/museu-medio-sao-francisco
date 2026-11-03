@@ -143,6 +143,11 @@ window.MUSEU_NUCLEOS_4_6 = [
         titulo: "Viajantes, cientistas e a fotografia",
         nucleo: "IV",
         verificacao: "verificado",
+        capa: {
+          arquivo: "assets/instalacoes/instalacao-sala-08-viajantes-capa.jpg",
+          legenda: "Conceito museográfico da Sala 8 (Viajantes, cientistas e a fotografia): gabinete dos exploradores com retratos de Halfeld, Milnor Roberts, Theodoro Sampaio e Orville Derby, mesa com o grande mapa do rio, teodolito, bússola e cadernos de campo, vitrines de rochas e diários e, ao fundo, a canoa da Comissão Hidráulica de 1879.",
+          avisoIA: "Imagem recriada digitalmente, não é registro original"
+        },
         sintese: "De 1817 a 1946, o rio foi descrito e fotografado por viajantes, engenheiros e cientistas que passaram pela Lapa ou estudaram o vale: Spix e Martius, Gardner, Halfeld, D. Pedro II (no baixo rio), Liais, Burton, Wells, a Comissão Hidráulica do Império (Roberts, Derby e Theodoro Sampaio) e os fotógrafos Augusto Riedel (1868), Adolpho Lutz e Astrogildo Machado (1912), Reginald Gorham (circa 1927), J. Fontes (1946), Marcel Gautherot (1946) e Pierre Verger (1946).",
         blocos: [
           {
@@ -221,13 +226,7 @@ window.MUSEU_NUCLEOS_4_6 = [
           "Quem foi Theodoro Sampaio e o que ele descobriu na travessia a cavalo de Carinhanha a Salvador no fim de 1879?",
           "O que mudou na paisagem de Bom Jesus da Lapa entre a fotografia de Augusto Riedel (1868), as fotos de Adolpho Lutz (1912) e os dias de hoje?"
         ],
-        instalacoes: [
-          {
-            arquivo: "assets/instalacoes/instalacao-09.jpg",
-            legenda: "Conceito museográfico da Sala 8: Sala dos Viajantes e da Comissão Hidráulica de 1879 (Halfeld, Milnor Roberts, Theodoro Sampaio e Orville Derby).",
-            avisoIA: "Imagem recriada digitalmente, não é registro original"
-          }
-        ],
+        instalacoes: [],
         imagens: ["11-lapa-gravura-wells-1886.jpg", "12-lapa-1868-detalhe-riedel.jpg", "13-atlas-halfeld-1860.jpg", "14-richard-burton-1867.jpg", "15-paulo-afonso-burton-1869.jpg", "16-juazeiro-spix-martius.jpg", "17-theodoro-sampaio.jpg", "18-desenhos-theodoro-sampaio.jpg"]
       }
     ]
