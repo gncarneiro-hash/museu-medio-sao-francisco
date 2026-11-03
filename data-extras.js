@@ -3397,7 +3397,7 @@ window.MUSEU_EXTRAS = {
       "titularNome": "Gabriel Neves Carneiro",
       "ano": "Data a confirmar",
       "cidadeId": "bom-jesus-da-lapa",
-      "local": "Serra Geral, borda leste de Bom Jesus da Lapa (BA)",
+      "local": "Serra Geral, entre Bom Jesus da Lapa e Macaúbas (BA)",
       "sala": 1,
       "tema": "Geologia e Natureza",
       "arquivo": "assets/img/67-gabriel-carneiro-morro-da-lapa-visto-da-serra-geral.jpg",
@@ -3406,6 +3406,27 @@ window.MUSEU_EXTRAS = {
       "verificacao": "verificado",
       "credito": "Gabriel Neves Carneiro, O morro do Bom Jesus da Lapa no horizonte, visto da Serra Geral. Fotografia do autor, cedida ao Museu do Médio São Francisco. Data a confirmar.",
       "descricao": "A planície do São Francisco vista do alto da Serra Geral, com o morro da Lapa isolado na linha do horizonte.",
+      "original": "Arquivo do autor",
+      "fontes": [
+        "Fotografia de Gabriel Neves Carneiro, cedida pelo autor ao Museu do Médio São Francisco."
+      ]
+    },
+    {
+      "id": "item-69",
+      "titulo": "Detalhe da Serra Geral, entre Bom Jesus da Lapa e Macaúbas",
+      "titularId": "",
+      "titularNome": "Gabriel Neves Carneiro",
+      "ano": "Data a confirmar",
+      "cidadeId": "bom-jesus-da-lapa",
+      "local": "Serra Geral, entre Bom Jesus da Lapa e Macaúbas (BA)",
+      "sala": 1,
+      "tema": "Geologia e Natureza",
+      "arquivo": "assets/img/68-gabriel-carneiro-serra-geral-detalhe.jpg",
+      "exibir_imagem": true,
+      "licenca": "licenciado",
+      "verificacao": "verificado",
+      "credito": "Gabriel Neves Carneiro, Detalhe da Serra Geral, entre Bom Jesus da Lapa e Macaúbas. Fotografia do autor, cedida ao Museu do Médio São Francisco. Data a confirmar.",
+      "descricao": "A encosta da Serra Geral, coberta de mata baixa, vista por trás do capim seco e dourado do planalto. A Serra Geral é a ponta da Serra do Espinhaço; a parte dela que fica no município da Lapa é a que o IBGE classifica como montanha.",
       "original": "Arquivo do autor",
       "fontes": [
         "Fotografia de Gabriel Neves Carneiro, cedida pelo autor ao Museu do Médio São Francisco."
