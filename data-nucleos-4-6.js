@@ -550,6 +550,11 @@ window.MUSEU_NUCLEOS_4_6 = [
         titulo: "Literatura, música e imagens do rio",
         nucleo: "V",
         verificacao: "verificado",
+        capa: {
+          arquivo: "assets/instalacoes/instalacao-sala-14-literatura-musica-capa.jpg",
+          legenda: "Conceito museográfico da Sala 14 (Literatura, música e imagens do rio): “O rio que canta”, com cabines de escuta “As vozes do rio” (cantigas dos remeiros e benditos), vitrine de instrumentos, parede de discos “O São Francisco na música brasileira”, palco para violeiros e contadores, galeria “O rio pintado” e mural “Artistas da Lapa – exposição do mês”.",
+          avisoIA: "Imagem recriada digitalmente, não é registro original"
+        },
         sintese: "O rio entrou na literatura brasileira pelos viajantes e ficou nela pelos romancistas e compositores: Euclides da Cunha, Guimarães Rosa, Jorge Amado, Wilson Lins, Osório Alves de Castro, Lúcio Cardoso, Afonso Arinos, Itamar Vieira Junior, Guttemberg Guarabyra e Zeca Bahia.",
         blocos: [
           {
