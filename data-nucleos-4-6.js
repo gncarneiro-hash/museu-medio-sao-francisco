@@ -244,6 +244,11 @@ window.MUSEU_NUCLEOS_4_6 = [
         titulo: "Saúde e endemias: as 'carneiradas' e as três visitas da ciência à Lapa",
         nucleo: "V",
         verificacao: "verificado",
+        capa: {
+          arquivo: "assets/instalacoes/instalacao-sala-09-saude-capa.jpg",
+          legenda: "Conceito museográfico da Sala 9 (Saúde e endemias): casa de taipa em tamanho real, vitrine com o mosquito da malária e o barbeiro da doença de Chagas, guarda da SUCAM com a bomba de borrifar, painel “O rio que adoecia” com a linha do tempo da Lapa e, ao fundo, a passagem para a sala dos quilombos.",
+          avisoIA: "Imagem recriada digitalmente, não é registro original"
+        },
         sintese: "O rio que dava vida também adoecia: Halfeld registra na Lapa e na Malhada as 'carneiradas' (malária) e 'opilações' (amarelão), além de doença de Chagas, esquistossomose, bouba, leishmaniose e bócio. A sala reúne três visitas científicas documentadas a Bom Jesus da Lapa — Adolpho Lutz e Astrogildo Machado (maio de 1912), F. Nery Guimarães e J. Fontes (agosto de 1946) e Noel Nutels com a SUSA (anos 1950–1960) — ao lado da memória dos guardas da SUCAM.",
         blocos: [
           {
