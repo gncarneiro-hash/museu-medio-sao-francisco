@@ -287,7 +287,7 @@ window.MUSEU_NUCLEOS_4_6 = [
             ano: "Filmagens anos 1950–1960 · Edição 2000",
             direcao: "Acervo Noel Nutels (SUSA) · Direção e organização: Stella Oswaldo Cruz Penido (Casa de Oswaldo Cruz / VideoSaúde Fiocruz)",
             duracao: "20 min · 16 mm (digitalizado)",
-            descricao: "O mais antigo registro em imagem em movimento encontrado sobre Bom Jesus da Lapa. Reúne as películas originais em 16 mm filmadas pelo médico sanitarista Noel Nutels durante as expedições do Serviço de Unidades Sanitárias Aéreas (SUSA), documentando a chegada pelo rio São Francisco, o casario, a gruta do Bom Jesus, a romaria e as condições sanitárias das populações ribeirinhas.",
+            descricao: "Um dos mais antigos registros em filme conhecidos sobre Bom Jesus da Lapa. Reúne as películas originais em 16 mm filmadas pelo médico sanitarista Noel Nutels durante as expedições do Serviço de Unidades Sanitárias Aéreas (SUSA), documentando a chegada pelo rio São Francisco, o casario, a gruta do Bom Jesus, a romaria e as condições sanitárias das populações ribeirinhas.",
             resenha: "Resenha e valor histórico: Além de seu valor inestimável para a história da saúde pública brasileira (documentando a atuação do SUSA no diagnóstico e combate à tuberculose e às endemias rurais no sertão), o filme organizado por Stella Oswaldo Cruz Penido na Casa de Oswaldo Cruz (Fiocruz) preserva as únicas imagens em movimento conhecidas de Bom Jesus da Lapa em meados do século XX — mostrando os barcos, os romeiros subindo a escadaria da gruta, os ex-votos e a paisagem ribeirinha antes das grandes transformações urbanas e hidrelétricas.",
             acervo: "Casa de Oswaldo Cruz (COC) / VideoSaúde Distribuidora da Fiocruz",
             youtubeId: "cY5C2E4IzQE",
@@ -452,7 +452,7 @@ window.MUSEU_NUCLEOS_4_6 = [
         ],
         propostasSala: [
           "As salinas descritas por Halfeld: a terra lavada nas lagoas salinas, o cocho de madeira, a bruaca de sal",
-          "Mapa dos perímetros irrigados (destaque para o Formoso, em Bom Jesus da Lapa, que tornou o município o maior produtor de banana do país, e o Jaíba, em MG) e das culturas atuais",
+          "Mapa dos perímetros irrigados (destaque para o Formoso, em Bom Jesus da Lapa, que já fez do município o maior produtor de banana do país; em 2024 foi o 6º, segundo a PAM/IBGE, e o Jaíba, em MG) e das culturas atuais",
           "O debate contemporâneo: desenvolvimento econômico, geração de empregos, uso da água e conservação ambiental"
         ],
         tabelas: [

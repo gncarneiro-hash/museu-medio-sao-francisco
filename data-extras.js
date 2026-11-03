@@ -2,7 +2,7 @@ window.MUSEU_EXTRAS = {
   "impactoEconomico": {
     "titulo": "Impacto Econômico e Retorno para Bom Jesus da Lapa",
     "subtitulo": "Estudo de estimativa de público, retenção da romaria, geração de renda e empregos",
-    "resumo": "Bom Jesus da Lapa já recebe cerca de 1,5 milhão de visitantes por ano, mas a maior parte faz visita curta e concentrada nas grandes romarias de agosto e setembro. O Museu do Médio São Francisco foi desenhado para converter uma fração conservadora (5%) desse fluxo já existente e ampliar em algumas horas ou um pernoite a permanência na cidade.",
+    "resumo": "Bom Jesus da Lapa recebe, segundo estimativas correntes, cerca de 1,5 milhão de visitantes por ano, mas a maior parte faz visita curta e concentrada nas grandes romarias de agosto e setembro. O Museu do Médio São Francisco foi desenhado para converter uma fração conservadora (5%) desse fluxo já existente e ampliar em algumas horas ou um pernoite a permanência na cidade.",
     "cenarios": [
       {
         "nome": "Cenário Conservador",
@@ -29,12 +29,12 @@ window.MUSEU_EXTRAS = {
         "empregos": "130 a 150 postos (diretos e indiretos)"
       }
     ],
-    "efeitoPernoite": "Se apenas 5% dos 1,5 milhão de romeiros anuais (75 mil pessoas) estenderem a estadia em Bom Jesus da Lapa por +1 dia ou pernoite para visitar o Museu, o Centro Histórico e a orla (ao custo médio de R$ 180/dia em pousada, alimentação, transporte e compras), o efeito induzido pode injetar até R$ 13,5 milhões por ano na economia lapense, gerando entre R$ 270 mil e R$ 675 mil/ano adicionais em ISS para o município.",
+    "efeitoPernoite": "Num cenário hipotético, se apenas 5% dos cerca de 1,5 milhão de romeiros anuais estimados (75 mil pessoas) estenderem a estadia em Bom Jesus da Lapa por +1 dia ou pernoite para visitar o Museu, o Centro Histórico e a orla (ao custo médio de R$ 180/dia em pousada, alimentação, transporte e compras), o efeito induzido estimado poderia chegar a R$ 13,5 milhões por ano na economia lapense, gerando entre R$ 270 mil e R$ 675 mil/ano adicionais em ISS para o município.",
     "comparativoNacional": [
       [
         "Museu da Natureza (Coronel José Dias / Serra da Capivara, PI)",
         "46.800 visitantes no 1º ano (2019)",
-        "Mesmo modelo expositivo de natureza e território no semiárido, porém sem o fluxo prévio de 1,5 milhão de romeiros da Lapa"
+        "Mesmo modelo expositivo de natureza e território no semiárido, porém sem o fluxo prévio, estimado em 1,5 milhão de romeiros, da Lapa"
       ],
       [
         "Cais do Sertão (Recife, PE)",
@@ -742,7 +742,7 @@ window.MUSEU_EXTRAS = {
       "id": "mestre-guarany",
       "nome": "Mestre Guarany (Francisco Biquiba Dy Lafuente Guarany)",
       "datas": "Santa Maria da Vitória (BA), 1882/1884 – 1985",
-      "papel": "O maior escultor de carrancas da história do Rio São Francisco",
+      "papel": "O mais célebre escultor de carrancas do Rio São Francisco",
       "resumoCurto": "Carpinteiro de barcos, santeiro e escultor do rio Corrente que talhou cerca de 80 das 120 carrancas de proa das grandes barcas do Médio São Francisco entre 1901 e 1945.",
       "biografiaCompleta": "Nascido às margens do rio Corrente, em Santa Maria da Vitória (a menos de 100 km de Bom Jesus da Lapa), Francisco Biquiba Dy Lafuente Guarany reunia no próprio nome as matrizes espanhola, moçambicana e indígena do vale. Aprendeu marcenaria, tanoaria e construção naval, e em 1901 esculpiu sua primeira carranca para a barca Tamandaré. Até 1945 produziu cerca de 80 figuras de proa em cedro e imburana, caracterizadas pela juba simétrica, olhos humanos e presas de fera. A partir de 1953 voltou a esculpir para museus e colecionadores, assinando 'F. Guarany' desde 1963 e tendo sua obra celebrada no MASP, na Bienal de São Paulo, em Lagos (Nigéria), no IMS e nos versos de Carlos Drummond de Andrade.",
       "cronologia": [
@@ -935,7 +935,7 @@ window.MUSEU_EXTRAS = {
       "publicacoesExposicoes": [
         "Guimarães, F. Nery. 'Doenças encontradas nos romeiros de Bom Jesus da Lapa, Bahia'. Memórias do Instituto Oswaldo Cruz, t. 45, fasc. 1, p. 211–251, 1947.",
         "Costa, Dina Czeresnia. 'Política indigenista e assistência à saúde: Noel Nutels e o Serviço de Unidades Sanitárias Aéreas'. Cadernos de Saúde Pública, v. 3, n. 4, p. 388–401, 1987.",
-        "Filme: Bom Jesus da Lapa, Bahia – Noel Nutels (Fiocruz / VideoSaúde, 20 min, dir. Stella Oswaldo Cruz Penido, 2000 — o mais antigo registro em imagem em movimento sobre Bom Jesus da Lapa; YouTube: https://www.youtube.com/watch?v=cY5C2E4IzQE)."
+        "Filme: Bom Jesus da Lapa, Bahia – Noel Nutels (Fiocruz / VideoSaúde, 20 min, dir. Stella Oswaldo Cruz Penido, 2000 — um dos mais antigos registros em filme conhecidos sobre Bom Jesus da Lapa; YouTube: https://www.youtube.com/watch?v=cY5C2E4IzQE)."
       ],
       "videos": [
         {
@@ -2565,7 +2565,7 @@ window.MUSEU_EXTRAS = {
       "licenca": "sem-licenca",
       "verificacao": "verificado",
       "credito": "Noel Nutels / Stella Oswaldo Cruz Penido (dir.), Bom Jesus da Lapa, Bahia – Noel Nutels (20 min), 2000. VideoSaúde / Casa de Oswaldo Cruz (Fiocruz). Direitos reservados à Fiocruz.",
-      "descricao": "O mais antigo registro cinematográfico conhecido sobre Bom Jesus da Lapa, reunindo películas em 16 mm filmadas pelas expedições do médico sanitarista Noel Nutels (Serviço de Unidades Sanitárias Aéreas — SUSA) e montadas por Stella Oswaldo Cruz Penido na Casa de Oswaldo Cruz (Fiocruz). Disponível no YouTube em https://www.youtube.com/watch?v=cY5C2E4IzQE.",
+      "descricao": "Um dos mais antigos registros cinematográficos conhecidos sobre Bom Jesus da Lapa, reunindo películas em 16 mm filmadas pelas expedições do médico sanitarista Noel Nutels (Serviço de Unidades Sanitárias Aéreas — SUSA) e montadas por Stella Oswaldo Cruz Penido na Casa de Oswaldo Cruz (Fiocruz). Disponível no YouTube em https://www.youtube.com/watch?v=cY5C2E4IzQE.",
       "citacaoOriginal": "",
       "original": "Casa de Oswaldo Cruz / VideoSaúde Distribuidora da Fiocruz — YouTube: https://www.youtube.com/watch?v=cY5C2E4IzQE",
       "fontes": [
@@ -3667,7 +3667,7 @@ window.MUSEU_EXTRAS = {
       "eixo": 11,
       "tema": "Direitos, Cultura e Futuro",
       "verificacao": "verificado",
-      "texto": "Rio das Rãs é reconhecido pela Fundação Palmares (1992) e obtém acordo judicial de R$ 105 milhões em 2026; a Lei Federal 15.197/2025 declara a Romaria da Lapa manifestação da cultura nacional.",
+      "texto": "Rio das Rãs é reconhecido pela Fundação Palmares (1992); em abril de 2026, um acordo judicial de cerca de R$ 105 milhões (MPF, Infra S.A. e INCRA, por causa da ferrovia FIOL) beneficia Rio das Rãs, Araçá-Volta, Bebedouro, Lagoa do Peixe e Nova Batalhinha; a Lei Federal 15.197/2025 declara a Romaria da Lapa manifestação da cultura nacional.",
       "fonte": "DOU (8 set. 2025); MPF / INCRA (2026)"
     }
   ],

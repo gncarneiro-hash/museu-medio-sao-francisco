@@ -17,7 +17,7 @@ window.MUSEU_DADOS_GERAIS = {
       { valor: "6", rotulo: "Núcleos Expositivos", detalhe: "Do tempo geológico ao futuro + sala transversal de fotografia" },
       { valor: "19", rotulo: "Salas Temáticas", detalhe: "Percurso cronológico de 1,75 bilhão de anos ao presente" },
       { valor: "3.750 m²", rotulo: "Área Construída Estimada", detalhe: "Exposição, reserva técnica IPHAN, auditório, oficinas e clube de espeleologia" },
-      { valor: "75 mil/ano", rotulo: "Público Estimado (Base)", detalhe: "Moradores, escolas, pesquisadores e ~5% do fluxo anual de 1,5 milhão de romeiros" }
+      { valor: "75 mil/ano", rotulo: "Público Estimado (Base)", detalhe: "Moradores, escolas, pesquisadores e ~5% do fluxo anual estimado de 1,5 milhão de romeiros" }
     ]
   },
 
