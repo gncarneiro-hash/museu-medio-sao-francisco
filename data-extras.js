@@ -348,7 +348,7 @@ window.MUSEU_EXTRAS = {
       "datas": "Lutz (1855–1940) · Machado (1885–1945)",
       "papel": "Cientistas do Instituto Oswaldo Cruz na expedição fluvial de 1912",
       "resumoCurto": "Médicos e pesquisadores de Manguinhos que desceram o São Francisco de vapor em maio de 1912, deixando 5 fotografias históricas e o primeiro levantamento parasitológico de Bom Jesus da Lapa.",
-      "biografiaCompleta": "Em abril–junho de 1912, a pedido da Inspetoria de Obras contra as Secas, o pioneiro da medicina tropical Adolpho Lutz e seu jovem discípulo Astrogildo Machado percorreram em vapor o São Francisco e seus afluentes entre Pirapora e Juazeiro. Em Bom Jesus da Lapa (8 a 10 de maio de 1912), estudaram a flora calcária (descobrindo uma Vellozia nova), coletaram moluscos transmissores nas lagoas e registraram a presença dos barbeiros Triatoma sordida e Panstrongylus megistus (vetores da doença de Chagas, descoberta em 1909). Seus negativos de vidro e cópias em papel datados de '8-V-12' são o mais completo conjunto fotográfico da cidade no início do século XX.",
+      "biografiaCompleta": "Em abril–junho de 1912, a pedido da Inspetoria de Obras contra as Secas, o pioneiro da medicina tropical Adolpho Lutz e seu jovem discípulo Astrogildo Machado percorreram em vapor o São Francisco e seus afluentes entre Pirapora e Juazeiro. Em Bom Jesus da Lapa (8 a 10 de maio de 1912), estudaram a flora calcária (descobrindo uma Vellozia nova), coletaram moluscos transmissores nas lagoas e registraram o barbeiro Triatoma sordida, vetor da doença de Chagas, descoberta em 1909 (o Panstrongylus megistus, anotaram, “deve ser muito rara” ali). Seus negativos de vidro e cópias em papel datados de '8-V-12' são o mais completo conjunto fotográfico da cidade no início do século XX.",
       "cronologia": [
         {
           "ano": "1908",
@@ -3622,7 +3622,7 @@ window.MUSEU_EXTRAS = {
       "eixo": 9,
       "tema": "Saúde e Ciência",
       "verificacao": "verificado",
-      "texto": "Chegam de vapor às 9h30 de 8 de maio de 1912, fazem 5 fotografias históricas em negativo de vidro e papel, coletam barbeiros (Triatoma sordida e Panstrongylus megistus), moluscos e plantas do morro, e seguem pelo rio Corrente.",
+      "texto": "Chegam de vapor às 9h30 de 8 de maio de 1912, fazem 5 fotografias históricas em negativo de vidro e papel, registram o barbeiro Triatoma sordida, coletam moluscos e plantas do morro, e seguem pelo rio Corrente.",
       "fonte": "Lutz & Machado, Memórias do IOC (1915); Acervo COC/Fiocruz"
     },
     {
