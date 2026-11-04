@@ -264,7 +264,7 @@ window.MUSEU_NUCLEOS_4_6 = [
           }
         ],
         propostasSala: [
-          "As 5 fotografias originais de Bom Jesus da Lapa em 8 de maio de 1912 (expedição Adolpho Lutz e Astrogildo Machado, Fiocruz, domínio público) expostas em grande formato",
+          "As 8 fotografias de Bom Jesus da Lapa de maio de 1912 (expedição Adolpho Lutz e Astrogildo Machado, Fiocruz, domínio público) expostas em grande formato",
           "Painel comparativo das três visitas da ciência à Lapa: Lutz e Machado (1912), Nery Guimarães e J. Fontes (1946) e Noel Nutels / SUSA (anos 1950–1960)",
           "A casa de taipa e o barbeiro (Triatoma sordida e Panstrongylus megistus coletados na Lapa em 1912); o mosquito e a lagoa marginal",
           "Os guardas da SUCAM: fardas, bombas de borrifar, fichas de visita e depoimentos de agentes da região",
@@ -309,6 +309,7 @@ window.MUSEU_NUCLEOS_4_6 = [
         ],
         imagens: [
           "55-felipe-nery-guimaraes-ioc.jpg",
+          "73-adolpho-lutz-retrato.jpg",
           "24-lutz-1912-entrada-santuario.jpg",
           "25-lutz-1912-casario-morro.jpg",
           "26-lutz-1912-vista-do-morro-lapias.jpg",

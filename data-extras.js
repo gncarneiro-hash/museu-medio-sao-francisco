@@ -347,7 +347,7 @@ window.MUSEU_EXTRAS = {
       "nome": "Adolpho Lutz e Astrogildo Machado",
       "datas": "Lutz (1855–1940) · Machado (1885–1945)",
       "papel": "Cientistas do Instituto Oswaldo Cruz na expedição fluvial de 1912",
-      "resumoCurto": "Médicos e pesquisadores de Manguinhos que desceram o São Francisco de vapor em maio de 1912, deixando 5 fotografias históricas e o primeiro levantamento parasitológico de Bom Jesus da Lapa.",
+      "resumoCurto": "Médicos e pesquisadores de Manguinhos que desceram o São Francisco de vapor em maio de 1912, deixando fotografias históricas e o primeiro levantamento parasitológico de Bom Jesus da Lapa.",
       "biografiaCompleta": "Em abril–junho de 1912, a pedido da Inspetoria de Obras contra as Secas, o pioneiro da medicina tropical Adolpho Lutz e seu jovem discípulo Astrogildo Machado percorreram em vapor o São Francisco e seus afluentes entre Pirapora e Juazeiro. Em Bom Jesus da Lapa (8 a 10 de maio de 1912), subiram o morro, anotaram a flora do calcário, acharam caramujos numa lagoa e registraram o barbeiro Triatoma sordida, vetor da doença de Chagas, descoberta em 1909 (o Panstrongylus megistus, anotaram, “deve ser muito rara” ali). Seus negativos de vidro e cópias em papel datados de '8-V-12' formam o mais completo conjunto fotográfico conhecido da cidade no início do século XX.",
       "cronologia": [
         {
@@ -3521,6 +3521,27 @@ window.MUSEU_EXTRAS = {
       "fontes": [
         "Lutz, A.; Machado, A. Viagem pelo rio S. Francisco… (diário, 8–9 maio 1912). In: Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, p. 213–217.",
         "Lutz, Adolpho; Machado, Astrogildo. 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro'. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, p. 5–50, 1915."
+      ]
+    },
+    {
+      "id": "item-74",
+      "titulo": "Retrato de Adolpho Lutz (1855–1940)",
+      "titularId": "adolpho-lutz-astrogildo-machado",
+      "titularNome": "Adolpho Lutz e Astrogildo Machado",
+      "ano": "c. 1900–1910",
+      "cidadeId": "",
+      "local": "Brasil",
+      "sala": 9,
+      "tema": "Saúde e Expedições Científicas",
+      "arquivo": "assets/img/73-adolpho-lutz-retrato.jpg",
+      "exibir_imagem": true,
+      "licenca": "dominio-publico",
+      "verificacao": "fonte-secundaria",
+      "credito": "Fotógrafo não identificado, retrato de Adolpho Lutz, c. 1900–1910. Via Wikimedia Commons (File:Adolfo-Lutz.jpg). Domínio público.",
+      "descricao": "Retrato do médico e zoólogo Adolpho Lutz, pioneiro da medicina tropical no Brasil, que desceu o São Francisco em 1912 e passou pela Lapa de 8 a 10 de maio. Data e autor da fotografia a confirmar.",
+      "original": "Wikimedia Commons (cópia digital); original não localizado",
+      "fontes": [
+        "Wikimedia Commons, File:Adolfo-Lutz.jpg (licença: Public domain)."
       ]
     }
   ],
