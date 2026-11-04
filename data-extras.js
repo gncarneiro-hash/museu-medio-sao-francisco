@@ -3663,6 +3663,15 @@ window.MUSEU_EXTRAS = {
       "fonte": "Halfeld, Atlas e relatório (1860)"
     },
     {
+      "data": "23 jul. 1862",
+      "titulo": "D. Pedro II e a província do São Francisco",
+      "eixo": 6,
+      "tema": "Conquista e Rio dos Currais",
+      "verificacao": "verificado",
+      "texto": "No despacho imperial, D. Pedro II prefere ao projeto de divisão de Minas uma nova província com capital em Paracatu; os ministros Sinimbu e Abrantes querem juntar a ela o São Francisco baiano, da Lapa à Barra. A província não sai do papel.",
+      "fonte": "Diário de D. Pedro II, vol. 9, 23 jul. 1862 (Museu Imperial)"
+    },
+    {
       "data": "1866 – 1873",
       "titulo": "Vapores desmontados pela caatinga: Presidente Dantas e Saldanha Marinho",
       "eixo": 7,
