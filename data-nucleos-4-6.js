@@ -252,7 +252,7 @@ window.MUSEU_NUCLEOS_4_6 = [
         blocos: [
           {
             subtitulo: "Lutz e Machado no vapor (8 a 10 de maio de 1912)",
-            texto: "Em 1912, enquanto Artur Neiva e Belisário Penna percorriam os sertões por terra, os médicos Adolpho Lutz e Astrogildo Machado desceram o São Francisco de vapor a serviço da Inspetoria de Obras contra as Secas (relatório 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro', Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, 1915, p. 5–50). Chegaram à Lapa em 8 de maio de 1912, às 9h30 da manhã, a 634 km de Pirapora, vindos de Barreiras, um pequeno porto de lenha entre Carinhanha e a Lapa (não a cidade de Barreiras, no rio Grande). O que viram: (1) A chegada: o morro calcário visível de muito longe e as gameleiras agarradas à pedra com raízes expostas de muitos metros; (2) A gruta e o morro: visitaram o santuário com um guia, subiram quase até o cume entre rochas corroídas como muralhas e torres (lapiás) e coletaram uma espécie nova de planta do gênero Vellozia e conchas de caracóis terrestres; (3) O dia 9 de maio: passeio a cavalo até uma lagoa rasa onde acharam as primeiras 'paludinas' (caramujos aquáticos) da viagem; enquanto estavam fora, chegou o vapor Pirapora; (4) As doenças e os barbeiros: “havia bastante impaludismo e alguns casos de sífilis, mas tripanose e papo não são endêmicos”; na Lapa observaram o barbeiro Triatoma sordida, e o Panstrongylus megistus, conhecido só por algumas pessoas, “deve ser muito rara”, barbeiros que transmitem a doença que Carlos Chagas descobrira apenas três anos antes (1909); e, em todo o trecho percorrido, “as leishmanioses faltam completamente”; (5) Um bicho de estimação: compraram “um exemplar muito manso da cotia de rabo” (Dasyprocta), que no dia seguinte fugiu do vapor, nadou até a margem e foi recapturada; (6) A partida: saíram em 10 de maio, às 9h20, entrando às 11h no rio Corrente rumo a Santa Maria da Vitória. Deixaram 5 fotografias históricas da Lapa datadas de 8 de maio de 1912 (hoje em domínio público no acervo da Casa de Oswaldo Cruz / Fiocruz). O diário da viagem foi reeditado em Benchimol, J. L.; Sá, M. R. (org.), Adolpho Lutz: Obra Completa, v. 3, livro 3, Editora Fiocruz, 2007, p. 169–216 (SciELO Books, CC BY-NC-SA)."
+            texto: "Em 1912, enquanto Artur Neiva e Belisário Penna percorriam os sertões por terra, os médicos Adolpho Lutz e Astrogildo Machado desceram o São Francisco de vapor a serviço da Inspetoria de Obras contra as Secas (relatório 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro', Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, 1915, p. 5–50). Chegaram à Lapa em 8 de maio de 1912, às 9h30 da manhã, a 634 km de Pirapora, vindos de Barreiras, um pequeno porto de lenha entre Carinhanha e a Lapa (não a cidade de Barreiras, no rio Grande). O que viram: (1) A chegada: o “morro esquisito”, visível “muito tempo antes”; (2) A gruta e o morro: a caverna “não tem comprimento nem altura notável”, o chão estava cimentado e “a água, que cai em gotas num pequeno divertículo da gruta, é considerada milagrosa”; subiram o morro “pelo lugar mais acessível, posto que bastante íngreme”, estimaram-lhe entre 100 e 150 metros e viram de cima o rio “formando vários braços separados por bancos de areia”; anotaram cactos, uma bromélia de flores roxas que pareceu uma Tillandsia e “grandes figueiras” presas aos paredões “por meio de enormes raízes completamente expostas”; (3) O dia 9 de maio: passeio a cavalo até uma fazenda com uma lagoa permanente, cheia de 'paludinas' (caramujos aquáticos) e de seus ovos em cachos; enquanto estavam fora, chegou o vapor Pirapora; (4) As doenças e os barbeiros: “havia bastante impaludismo e alguns casos de sífilis, mas tripanose e papo não são endêmicos”; na Lapa observaram o barbeiro Triatoma sordida, e o Panstrongylus megistus, conhecido só por algumas pessoas, “deve ser muito rara”, barbeiros que transmitem a doença que Carlos Chagas descobrira apenas três anos antes (1909); e, em todo o trecho percorrido, “as leishmanioses faltam completamente”; (5) Um bicho de estimação: compraram “um exemplar muito manso da cotia de rabo” (Dasyprocta), que no dia seguinte fugiu do vapor, nadou até a margem e foi recapturada; (6) A partida: saíram em 10 de maio, às 9h20, entrando às 11h no rio Corrente rumo a Santa Maria da Vitória. “Tiraram-se fotografias da lapa, do morro, da cidade e da vista de cima”: o museu reúne oito delas, de maio de 1912 (hoje em domínio público no acervo da Casa de Oswaldo Cruz / Fiocruz). O diário da viagem foi reeditado em Benchimol, J. L.; Sá, M. R. (org.), Adolpho Lutz: Obra Completa, v. 3, livro 3, Editora Fiocruz, 2007, p. 169–216 (SciELO Books, CC BY-NC-SA)."
           },
           {
             subtitulo: "Nery Guimarães e os romeiros (julho–agosto de 1946)",
@@ -313,7 +313,10 @@ window.MUSEU_NUCLEOS_4_6 = [
           "25-lutz-1912-casario-morro.jpg",
           "26-lutz-1912-vista-do-morro-lapias.jpg",
           "27-lutz-1912-vista-de-cima-ruas-rio.jpg",
-          "28-lutz-1912-cidade-rio-lapias.jpg"
+          "28-lutz-1912-cidade-rio-lapias.jpg",
+          "70-lutz-1912-igreja-da-gruta.jpg",
+          "71-lutz-1912-morro-da-lapa.jpg",
+          "72-lutz-1912-panorama-do-morro.jpg"
         ]
       },
       {
@@ -394,7 +397,7 @@ window.MUSEU_NUCLEOS_4_6 = [
           "O que significam os ex-votos deixados pelos romeiros na Sala dos Milagres?"
         ],
         instalacoes: [],
-        imagens: ["01-lapa-1868-riedel.jpg", "24-lutz-1912-entrada-santuario.jpg", "19-gruta-bom-jesus-romaria.jpg", "20-morro-santuario-hoje.jpg"]
+        imagens: ["01-lapa-1868-riedel.jpg", "24-lutz-1912-entrada-santuario.jpg", "70-lutz-1912-igreja-da-gruta.jpg", "19-gruta-bom-jesus-romaria.jpg", "20-morro-santuario-hoje.jpg"]
       },
       {
         numero: 11,

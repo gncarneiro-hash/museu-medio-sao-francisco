@@ -348,7 +348,7 @@ window.MUSEU_EXTRAS = {
       "datas": "Lutz (1855–1940) · Machado (1885–1945)",
       "papel": "Cientistas do Instituto Oswaldo Cruz na expedição fluvial de 1912",
       "resumoCurto": "Médicos e pesquisadores de Manguinhos que desceram o São Francisco de vapor em maio de 1912, deixando 5 fotografias históricas e o primeiro levantamento parasitológico de Bom Jesus da Lapa.",
-      "biografiaCompleta": "Em abril–junho de 1912, a pedido da Inspetoria de Obras contra as Secas, o pioneiro da medicina tropical Adolpho Lutz e seu jovem discípulo Astrogildo Machado percorreram em vapor o São Francisco e seus afluentes entre Pirapora e Juazeiro. Em Bom Jesus da Lapa (8 a 10 de maio de 1912), estudaram a flora calcária (descobrindo uma Vellozia nova), coletaram moluscos transmissores nas lagoas e registraram o barbeiro Triatoma sordida, vetor da doença de Chagas, descoberta em 1909 (o Panstrongylus megistus, anotaram, “deve ser muito rara” ali). Seus negativos de vidro e cópias em papel datados de '8-V-12' são o mais completo conjunto fotográfico da cidade no início do século XX.",
+      "biografiaCompleta": "Em abril–junho de 1912, a pedido da Inspetoria de Obras contra as Secas, o pioneiro da medicina tropical Adolpho Lutz e seu jovem discípulo Astrogildo Machado percorreram em vapor o São Francisco e seus afluentes entre Pirapora e Juazeiro. Em Bom Jesus da Lapa (8 a 10 de maio de 1912), subiram o morro, anotaram a flora do calcário, acharam caramujos numa lagoa e registraram o barbeiro Triatoma sordida, vetor da doença de Chagas, descoberta em 1909 (o Panstrongylus megistus, anotaram, “deve ser muito rara” ali). Seus negativos de vidro e cópias em papel datados de '8-V-12' formam o mais completo conjunto fotográfico conhecido da cidade no início do século XX.",
       "cronologia": [
         {
           "ano": "1908",
@@ -2387,12 +2387,13 @@ window.MUSEU_EXTRAS = {
       "exibir_imagem": true,
       "licenca": "dominio-publico",
       "verificacao": "verificado",
-      "credito": "Expedição Adolpho Lutz e Astrogildo Machado (IOC), Entrada do Santuário de Bom Jesus da Lapa, 8 de maio de 1912. Acervo Casa de Oswaldo Cruz / Fiocruz. Domínio público.",
+      "credito": "Expedição Adolpho Lutz e Astrogildo Machado (IOC), Entrada do Santuário de Bom Jesus da Lapa, 8 de maio de 1912. Acervo Casa de Oswaldo Cruz / Fiocruz. Domínio público. Versão em maior resolução reproduzida de Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, fig. 43.",
       "descricao": "Negativo de vidro tomado em 8 de maio de 1912 mostrando a escadaria, o cruzeiro de madeira e a capelinha branca ao pé do paredão de calcário da Lapa, nove anos após o incêndio de 1903.",
-      "citacaoOriginal": "“A gruta forma uma igreja natural na qual se penetra por uma escada; o altar acha-se colocado muito abaixo do nivel exterior.” (Lutz e Machado, 1915, p. 19).",
+      "citacaoOriginal": "“Passando por um braço do rio e ao lado duma lagoa, chegamos logo à gruta que deu o nome à cidade, tendo sido transformada em igreja, cujas festas são muito visitadas pelos fiéis.” (diário de Lutz, 8 maio 1912, ed. 2007, p. 213)",
       "original": "Casa de Oswaldo Cruz / Fiocruz (Rio de Janeiro) — Negativo de vidro original",
       "fontes": [
-        "Lutz, Adolpho; Machado, Astrogildo. 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro'. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, p. 5–50, 1915."
+        "Lutz, Adolpho; Machado, Astrogildo. 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro'. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, p. 5–50, 1915.",
+        "Lutz, A.; Machado, A. Viagem pelo rio S. Francisco… (diário, 8–9 maio 1912). In: Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, p. 213–217."
       ]
     },
     {
@@ -2411,10 +2412,11 @@ window.MUSEU_EXTRAS = {
       "verificacao": "verificado",
       "credito": "Expedição Adolpho Lutz e Astrogildo Machado (IOC), Casario ao pé do morro de Bom Jesus da Lapa, 8 de maio de 1912. Acervo Casa de Oswaldo Cruz / Fiocruz. Domínio público.",
       "descricao": "Negativo de vidro de 8 de maio de 1912 registrando as casas térreas de Bom Jesus da Lapa e o paredão vertical de calcário onde se agarram as gameleiras com longas raízes expostas.",
-      "citacaoOriginal": "“Nas paredes quasi verticais fixam-se gameleiras cujas raizes descem expostas por muitos metros até alcançar o solo.” (Lutz e Machado, 1915, p. 19).",
+      "citacaoOriginal": "“Lá se notavam também grandes figueiras, crescendo em paredões verticais e segurando-se por meio de enormes raízes completamente expostas.” (diário de Lutz, ed. 2007, p. 216)",
       "original": "Casa de Oswaldo Cruz / Fiocruz (Rio de Janeiro) — Negativo de vidro original",
       "fontes": [
-        "Lutz, Adolpho; Machado, Astrogildo. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, 1915."
+        "Lutz, Adolpho; Machado, Astrogildo. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, 1915.",
+        "Lutz, A.; Machado, A. Viagem pelo rio S. Francisco… (diário, 8–9 maio 1912). In: Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, p. 213–217."
       ]
     },
     {
@@ -2432,7 +2434,7 @@ window.MUSEU_EXTRAS = {
       "licenca": "dominio-publico",
       "verificacao": "verificado",
       "credito": "Expedição Adolpho Lutz e Astrogildo Machado (IOC), Vista tirada do morro da Lapa (C. 25, n.º 2), 8 de maio de 1912. Acervo Casa de Oswaldo Cruz / Fiocruz. Domínio público.",
-      "descricao": "Cópia fotográfica em papel com a inscrição original de arquivo ('Vista tirada do morro da Lapa. 8-V-12. C. 25 N. 2'), mostrando o relevo cárstico de agulhas e torres (lapiás) onde Lutz coletou uma nova espécie de Vellozia.",
+      "descricao": "Cópia fotográfica em papel com a inscrição original de arquivo ('Vista tirada do morro da Lapa. 8-V-12. C. 25 N. 2'), mostrando o relevo cárstico de agulhas e torres (lapiás), que Lutz descreveu como “pedra calcária muito recortada, tomando a forma de grandes estalagmites”.",
       "citacaoOriginal": "“Vista tirada do morro da Lapa. 8-V-12.” (inscrição datilografada na montagem original do IOC).",
       "original": "Casa de Oswaldo Cruz / Fiocruz (Rio de Janeiro) — Cópia em papel C. 25, n.º 2",
       "fontes": [
@@ -3451,6 +3453,75 @@ window.MUSEU_EXTRAS = {
       "fontes": [
         "Nery Guimarães, F. Doenças encontradas nos romeiros de Bom Jesus da Lapa, Bahia. Mem. Inst. Oswaldo Cruz, t. 45, fasc. 1, 1947, fig. 22, p. 243."
       ]
+    },
+    {
+      "id": "item-71",
+      "titulo": "A igreja dentro da gruta do Bom Jesus da Lapa (1912)",
+      "titularId": "adolpho-lutz-astrogildo-machado",
+      "titularNome": "Adolpho Lutz e Astrogildo Machado",
+      "ano": "Maio de 1912",
+      "cidadeId": "bom-jesus-da-lapa",
+      "local": "Bom Jesus da Lapa, Bahia",
+      "sala": 9,
+      "tema": "Saúde e Expedições Científicas",
+      "arquivo": "assets/img/70-lutz-1912-igreja-da-gruta.jpg",
+      "exibir_imagem": true,
+      "licenca": "dominio-publico",
+      "verificacao": "verificado",
+      "credito": "Expedição Adolpho Lutz e Astrogildo Machado (IOC), Igreja da Lapa, Bahia, maio de 1912. Estampa 8 das Memórias do Instituto Oswaldo Cruz (1915). Reproduzida de Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, fig. 44. Domínio público.",
+      "descricao": "Interior da gruta transformada em igreja: altar ao fundo sob o arco, púlpito à esquerda, bancos e o chão “cimentado” que Lutz anotou. É a mais antiga fotografia conhecida do interior do santuário reunida pelo museu.",
+      "citacaoOriginal": "“A caverna não tem comprimento nem altura notável. O chão está cimentado, e uma abertura foi transformada em janela.” (diário de Lutz, 8 maio 1912, ed. 2007, p. 213)",
+      "original": "Estampa 8, Memórias do IOC, t. 7, 1915",
+      "fontes": [
+        "Lutz, A.; Machado, A. Viagem pelo rio S. Francisco… (diário, 8–9 maio 1912). In: Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, p. 213–217.",
+        "Lutz, Adolpho; Machado, Astrogildo. 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro'. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, p. 5–50, 1915."
+      ]
+    },
+    {
+      "id": "item-72",
+      "titulo": "O morro da Lapa e seus paredões de calcário recortado (1912)",
+      "titularId": "adolpho-lutz-astrogildo-machado",
+      "titularNome": "Adolpho Lutz e Astrogildo Machado",
+      "ano": "Maio de 1912",
+      "cidadeId": "bom-jesus-da-lapa",
+      "local": "Bom Jesus da Lapa, Bahia",
+      "sala": 9,
+      "tema": "Saúde e Expedições Científicas",
+      "arquivo": "assets/img/71-lutz-1912-morro-da-lapa.jpg",
+      "exibir_imagem": true,
+      "licenca": "dominio-publico",
+      "verificacao": "verificado",
+      "credito": "Expedição Adolpho Lutz e Astrogildo Machado (IOC), Morro da Lapa, maio de 1912. Estampa 12 das Memórias do Instituto Oswaldo Cruz (1915). Reproduzida de Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, fig. 45. Domínio público.",
+      "descricao": "O paredão do morro, com a pedra calcária em agulhas e torres, a vegetação da caatinga ao pé e o caminho de areia na margem.",
+      "citacaoOriginal": "“O próprio morro que ergue, no meio duma planície, as suas encostas quase perpendiculares e formadas por pedra calcária muito recortada, tomando a forma de grandes estalagmites, é bem pitoresco.” (p. 216)",
+      "original": "Estampa 12, Memórias do IOC, t. 7, 1915",
+      "fontes": [
+        "Lutz, A.; Machado, A. Viagem pelo rio S. Francisco… (diário, 8–9 maio 1912). In: Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, p. 213–217.",
+        "Lutz, Adolpho; Machado, Astrogildo. 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro'. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, p. 5–50, 1915."
+      ]
+    },
+    {
+      "id": "item-73",
+      "titulo": "O panorama visto do alto do morro da Lapa (1912)",
+      "titularId": "adolpho-lutz-astrogildo-machado",
+      "titularNome": "Adolpho Lutz e Astrogildo Machado",
+      "ano": "Maio de 1912",
+      "cidadeId": "bom-jesus-da-lapa",
+      "local": "Bom Jesus da Lapa, Bahia",
+      "sala": 9,
+      "tema": "Saúde e Expedições Científicas",
+      "arquivo": "assets/img/72-lutz-1912-panorama-do-morro.jpg",
+      "exibir_imagem": true,
+      "licenca": "dominio-publico",
+      "verificacao": "verificado",
+      "credito": "Expedição Adolpho Lutz e Astrogildo Machado (IOC), Vista da Lapa tirada do morro, maio de 1912. Estampa 15 das Memórias do Instituto Oswaldo Cruz (1915); Casa de Oswaldo Cruz/Fiocruz. Reproduzida de Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, fig. 47. Domínio público.",
+      "descricao": "Do alto do morro: o São Francisco largo, um banco de areia no meio do rio, outro morro isolado na margem oposta e, ao longe, a serra azulada. No livro de 2007 a imagem tem a legenda “Vista da Lapa tirada do morro” (fig. 47).",
+      "citacaoOriginal": "“De cima, descobre-se um panorama muito vasto. [...] De vez em quando, surge um outro morro de formação semelhante à descrita, e bem distante descobre-se uma serra extensa de cor azul.” (p. 216)",
+      "original": "Estampa 15, Memórias do IOC, t. 7, 1915; COC/Fiocruz",
+      "fontes": [
+        "Lutz, A.; Machado, A. Viagem pelo rio S. Francisco… (diário, 8–9 maio 1912). In: Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, p. 213–217.",
+        "Lutz, Adolpho; Machado, Astrogildo. 'Viagem pelo rio S. Francisco e por alguns dos seus afluentes entre Pirapora e Joazeiro'. Memórias do Instituto Oswaldo Cruz, t. 7, fasc. 1, p. 5–50, 1915."
+      ]
     }
   ],
   "linhaDoTempo": [
@@ -3622,7 +3693,7 @@ window.MUSEU_EXTRAS = {
       "eixo": 9,
       "tema": "Saúde e Ciência",
       "verificacao": "verificado",
-      "texto": "Chegam de vapor às 9h30 de 8 de maio de 1912, fazem 5 fotografias históricas em negativo de vidro e papel, registram o barbeiro Triatoma sordida, coletam moluscos e plantas do morro, e seguem pelo rio Corrente.",
+      "texto": "Chegam de vapor às 9h30 de 8 de maio de 1912, fotografam “a lapa, o morro, a cidade e a vista de cima”, registram o barbeiro Triatoma sordida, acham caramujos numa lagoa e sobem o morro, e seguem pelo rio Corrente.",
       "fonte": "Lutz & Machado, Memórias do IOC (1915); Acervo COC/Fiocruz"
     },
     {
