@@ -3654,6 +3654,15 @@ window.MUSEU_EXTRAS = {
       "fonte": "Spix & Martius (1828); Decretos Imperiais de 1824 e 1827"
     },
     {
+      "data": "1842 – 1848",
+      "titulo": "A guerra de Militão e dos Guerreiros",
+      "eixo": 6,
+      "tema": "Conquista e Rio dos Currais",
+      "verificacao": "fonte-secundaria",
+      "texto": "A briga entre a facção de Militão Plácido de França Antunes e a família do capitão Bernardo José Guerreiro, de Pilão Arcado, se espalha a Sento Sé e, em 1848, a toda a região entre a Barra e Juazeiro. A violência alarma a Corte e reforça o projeto do Império de controlar o rio.",
+      "fonte": "Kiddy, The Americas, v. 70, n. 1, 2013"
+    },
+    {
       "data": "1852 – 1854 (publ. 1860)",
       "titulo": "Exploração imperial de Henrique Halfeld no São Francisco",
       "eixo": 8,
