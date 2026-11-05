@@ -152,8 +152,8 @@ window.MUSEU_EXTRAS = {
           {
             "autor": "H. G. F. Halfeld",
             "data": "1852 (publ. 1860)",
-            "obra": "Atlas e relatório concernente a exploração do Rio de S. Francisco, p. 103–105",
-            "citacao": "“A Povoação da Lapa, situada na margem direita do rio de S. Francisco, contém 128 casas, na maior parte cobertas de telhas, porém pequenas e baixas, e cerca de 250 habitantes fixos.” Descreve o serrote calcário de 70 a 88 metros de altura sobre o rio, a gruta de 58 metros de extensão servindo simultaneamente de igreja e de cemitério, a claraboia natural chamada “Varanda” por onde entravam milhares de morcegos, a formação estalactítica chamada “Pedra de Sino” e as febres (“carneiradas” e “opilações”) que atacavam moradores e romeiros.",
+            "obra": "Atlas e relatório concernente a exploração do Rio de S. Francisco, 112ª légua (transcrição atualizada)",
+            "citacao": "“O arraial do Senhor Bom Jesus da Lapa, que fica a 550 metros da margem oriental do rio, tem 128 casas, com 250 habitantes fixos”; a freguesia inteira teria perto de 6 mil almas, segundo o vigário. Descreve o serrote calcário de 53 metros acima do rio e a gruta transformada em templo que “infelizmente serve ao mesmo tempo para o enterramento dos mortos”, com a abertura chamada “Varanda”, por onde entravam milhares de morcegos, o calor de 35 °C e o “forte fedor cadavérico” das sepulturas. A população “sofre muito das febres intermitentes a que chamam carneiradas, e de opilações, principalmente no tempo das vazantes do rio”. (Transcrição atualizada do relatório.)",
             "verificacao": "verificado"
           },
           {
@@ -3148,8 +3148,8 @@ window.MUSEU_EXTRAS = {
       "licenca": "cc-by-4.0",
       "verificacao": "verificado",
       "credito": "Richard Francis Burton. Wellcome Collection. Licença CC BY 4.0.",
-      "descricao": "Retrato do explorador e escritor inglês Sir Richard Francis Burton, que desceu o São Francisco em canoa em 1867, visitou Bom Jesus da Lapa em 1º de outubro de 1867 e registrou em seu livro de 1869 a desistência do coronel Justino Nunes de Sento Sé diante das dificuldades para transportar o vapor desmontado pela caatinga.",
-      "citacaoOriginal": "Diante das dificuldades e de possíveis conflitos políticos, Justino Nunes desistiu da empreitada. Quem registrou o desabafo foi o inglês Richard Burton, que desceu o São Francisco em 1867 e passou pela Lapa; o episódio está no seu livro de 1869.",
+      "descricao": "Retrato do explorador e escritor inglês Sir Richard Francis Burton, que desceu o São Francisco em canoa em 1867, visitou Bom Jesus da Lapa em 1º de outubro de 1867 e registrou em seu livro de 1869 o desabafo do coronel Justino Nunes de Sento Sé diante das dificuldades e das intrigas no transporte do vapor desmontado pela caatinga.",
+      "citacaoOriginal": "Diante das dificuldades e das intrigas locais, Justino Nunes, cansado do negócio, falava em formar uma companhia particular de navegação. Quem registrou o desabafo foi o inglês Richard Burton, que desceu o São Francisco em 1867 e passou pela Lapa; o episódio está no seu livro de 1869.",
       "original": "Wellcome Collection (Londres) — CC BY 4.0",
       "fontes": [
         "Richard Francis Burton. Wellcome Collection. CC BY 4.0.",
