@@ -241,6 +241,59 @@
     html += '  </div>';
     html += '</div>';
 
+    // Section: Nossa missão — significado e pertencimento (DNA do museu)
+    var pe = ap.pertencimento;
+    if (pe) {
+      html += '<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12">';
+      html += '  <section class="surface-card rounded-xl bg-[#1d3b53] text-[#f3ead8] border-2 border-[#c9a65b] p-6 sm:p-8 shadow-sm">';
+      html += '    <span class="text-xs font-bold uppercase tracking-wider text-[#c9a65b]">' + esc(pe.rotulo) + '</span>';
+      html += '    <h2 class="font-serif-museu text-2xl sm:text-3xl font-bold text-white mt-1">' + esc(pe.titulo) + '</h2>';
+      (pe.textos || []).forEach(function (t) {
+        html += '    <p class="text-base text-[#f3ead8] mt-3 leading-relaxed max-w-4xl">' + esc(t) + '</p>';
+      });
+      html += '    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">';
+      (pe.principios || []).forEach(function (p, i) {
+        html += '      <div class="p-4 rounded-lg bg-white/10 border border-[#c9a65b]/50">';
+        html += '        <h3 class="font-serif-museu font-bold text-lg text-white">' + (i + 1) + '. ' + esc(p.titulo) + '</h3>';
+        html += '        <p class="text-sm text-[#f3ead8] mt-2 leading-relaxed">' + esc(p.texto) + '</p>';
+        html += '      </div>';
+      });
+      html += '    </div>';
+      if (pe.fonte) html += '    <p class="mt-5 text-xs text-[#f3ead8]/80"><strong>Referências:</strong> ' + esc(pe.fonte) + '</p>';
+      html += '  </section>';
+      html += '</div>';
+    }
+
+    // Section: A tese do museu
+    var te = ap.tese;
+    if (te) {
+      html += '<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8">';
+      html += '  <article class="surface-card rounded-xl bg-[#f3ead8] border-2 border-[#1d3b53] p-6 sm:p-8 shadow-sm">';
+      html += '    <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">' + esc(te.rotulo) + '</span>';
+      html += '    <h2 class="font-serif-museu text-2xl sm:text-3xl font-bold text-[#1d3b53] mt-1">' + esc(te.titulo) + '</h2>';
+      if (te.autor) html += '    <p class="text-sm italic text-[#5a5248] mt-1">' + esc(te.autor) + '</p>';
+      (te.textos || []).forEach(function (t) {
+        html += '    <p class="text-base text-[#2b2620] mt-3 leading-relaxed max-w-4xl">' + esc(t) + '</p>';
+      });
+      if (te.fonte) html += '    <p class="mt-5 text-xs text-[#5a5248]"><strong>Fontes:</strong> ' + esc(te.fonte) + '</p>';
+      html += '  </article>';
+      html += '</div>';
+    }
+
+    // Section: Dor e resistência (fio transversal)
+    var dr = ap.doresResistencia;
+    if (dr) {
+      html += '<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8">';
+      html += '  <section class="surface-card rounded-xl bg-[#faf6ee] border-2 border-[#a86f25] p-6 sm:p-8 shadow-sm">';
+      html += '    <span class="text-xs font-bold uppercase tracking-wider text-[#a86f25]">' + esc(dr.rotulo) + '</span>';
+      html += '    <h2 class="font-serif-museu text-2xl sm:text-3xl font-bold text-[#1d3b53] mt-1">' + esc(dr.titulo) + '</h2>';
+      (dr.textos || []).forEach(function (t) {
+        html += '    <p class="text-base text-[#2b2620] mt-3 leading-relaxed max-w-4xl">' + esc(t) + '</p>';
+      });
+      html += '  </section>';
+      html += '</div>';
+    }
+
     // Section: Três Públicos (Regra 1) + Por que em Bom Jesus da Lapa
     html += '<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12">';
     html += '  <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">';
@@ -392,6 +445,20 @@
       html += '      </div>';
     });
     html += '    </div>';
+    if (soc.parceiros && soc.parceiros.length) {
+      html += '    <h3 class="font-serif-museu text-lg font-bold text-[#1d3b53] mt-5">Parceiros e coparticipação</h3>';
+      html += '    <div class="mt-2 space-y-2.5">';
+      soc.parceiros.forEach(function (p) {
+        html += '      <div class="p-3 rounded bg-white border border-[#dccdb4] text-xs"><strong class="text-[#1d3b53]">' + esc(p[0]) + ':</strong> ' + esc(p[1]) + '</div>';
+      });
+      html += '    </div>';
+    }
+    if (soc.cuidados && soc.cuidados.length) {
+      html += '    <h3 class="font-serif-museu text-lg font-bold text-[#1d3b53] mt-5">Independência e transparência</h3>';
+      html += '    <ul class="mt-2 list-disc pl-5 space-y-1 text-xs text-[#2b2620]">';
+      soc.cuidados.forEach(function (c) { html += '<li>' + esc(c) + '</li>'; });
+      html += '    </ul>';
+    }
     if (soc.clubeEspeleologia) {
       var ce = soc.clubeEspeleologia;
       html += '    <div class="mt-5 rounded-lg border border-[#a86f25] bg-white overflow-hidden shadow-xs">';

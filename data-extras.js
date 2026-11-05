@@ -277,7 +277,7 @@ window.MUSEU_EXTRAS = {
           "Bom Jesus da Lapa (margem direita, BA)",
           "128 casas · ~250 hab. fixos · morro de 70–88 m · gruta de 58 m",
           "Dezenas de milhares de romeiros por ano; morro comparado a 'esfinge sem cabeça'",
-          "A 620 km de Pirapora; vive da grande romaria de agosto e setembro (que em 1946 já reunia ~50 mil romeiros e ~1.000 casas)"
+          "A cerca de 630 km de Pirapora pelo rio (634 km no diário de Lutz, 1912); vive da grande romaria de agosto e setembro (que em 1946 já reunia ~50 mil romeiros e ~1.000 casas)"
         ],
         [
           "Vila do Urubu / Paratinga (margem direita, BA)",
@@ -347,7 +347,7 @@ window.MUSEU_EXTRAS = {
       "nome": "Adolpho Lutz e Astrogildo Machado",
       "datas": "Lutz (1855–1940) · Machado (1885–1945)",
       "papel": "Cientistas do Instituto Oswaldo Cruz na expedição fluvial de 1912",
-      "resumoCurto": "Médicos e pesquisadores de Manguinhos que desceram o São Francisco de vapor em maio de 1912, deixando fotografias históricas e o primeiro levantamento parasitológico de Bom Jesus da Lapa.",
+      "resumoCurto": "Médicos e pesquisadores de Manguinhos que desceram o São Francisco de vapor em maio de 1912, deixando fotografias históricas e anotações sobre as doenças e os barbeiros de Bom Jesus da Lapa.",
       "biografiaCompleta": "Em abril–junho de 1912, a pedido da Inspetoria de Obras contra as Secas, o pioneiro da medicina tropical Adolpho Lutz e seu jovem discípulo Astrogildo Machado percorreram em vapor o São Francisco e seus afluentes entre Pirapora e Juazeiro. Em Bom Jesus da Lapa (8 a 10 de maio de 1912), subiram o morro, anotaram a flora do calcário, acharam caramujos numa lagoa e registraram o barbeiro Triatoma sordida, vetor da doença de Chagas, descoberta em 1909 (o Panstrongylus megistus, anotaram, “deve ser muito rara” ali). Seus negativos de vidro e cópias em papel datados de '8-V-12' formam o mais completo conjunto fotográfico conhecido da cidade no início do século XX.",
       "cronologia": [
         {
@@ -943,7 +943,7 @@ window.MUSEU_EXTRAS = {
           "ano": "Filmagens anos 1950–1960 · Edição 2000",
           "direcao": "Acervo Noel Nutels (SUSA) · Direção da montagem: Stella Oswaldo Cruz Penido (Casa de Oswaldo Cruz / VideoSaúde Fiocruz)",
           "duracao": "20 min · 16 mm (digitalizado)",
-          "descricao": "O mais antigo material em imagem em movimento encontrado sobre Bom Jesus da Lapa. Reúne as películas originais em 16 mm filmadas pelas missões do médico sanitarista Noel Nutels e do Serviço de Unidades Sanitárias Aéreas (SUSA).",
+          "descricao": "Um dos mais antigos registros em filme conhecidos sobre Bom Jesus da Lapa. Reúne as películas originais em 16 mm filmadas pelas missões do médico sanitarista Noel Nutels e do Serviço de Unidades Sanitárias Aéreas (SUSA).",
           "resenha": "Resenha e valor histórico: Organizado pela pesquisadora e documentarista Stella Oswaldo Cruz Penido na Casa de Oswaldo Cruz (Fiocruz), o filme recupera as películas filmadas por Noel Nutels em suas missões sanitárias pelo rio São Francisco. Mostra a navegação fluvial, a chegada a Bom Jesus da Lapa, a subida dos romeiros pela escadaria da gruta, os ex-votos e o trabalho de saúde pública (abreugrafia e combate à tuberculose e às endemias rurais).",
           "acervo": "Casa de Oswaldo Cruz (COC) / VideoSaúde Distribuidora da Fiocruz",
           "youtubeId": "cY5C2E4IzQE",
@@ -1161,7 +1161,7 @@ window.MUSEU_EXTRAS = {
           "ano": "Filmagens anos 1950–1960 · Edição 2000",
           "direcao": "Acervo Noel Nutels (SUSA) · Direção: Stella Oswaldo Cruz Penido (Fiocruz)",
           "duracao": "20 min · 16 mm",
-          "descricao": "O mais antigo material em imagem em movimento encontrado sobre Bom Jesus da Lapa, preservado no acervo da Casa de Oswaldo Cruz / VideoSaúde Fiocruz.",
+          "descricao": "Um dos mais antigos registros em filme conhecidos sobre Bom Jesus da Lapa, preservado no acervo da Casa de Oswaldo Cruz / VideoSaúde Fiocruz.",
           "resenha": "Resenha: Montado pela pesquisadora Stella Oswaldo Cruz Penido a partir do acervo pessoal de filmes em 16 mm do médico sanitarista Noel Nutels (criador do Serviço de Unidades Sanitárias Aéreas — SUSA), o documentário registra o cotidiano ribeirinho, as embarcações, a gruta do Bom Jesus e as procissões de meados do século XX.",
           "acervo": "Casa de Oswaldo Cruz / VideoSaúde Distribuidora da Fiocruz",
           "youtubeId": "cY5C2E4IzQE",
@@ -1528,7 +1528,7 @@ window.MUSEU_EXTRAS = {
       "margem": "Lago de Sobradinho · Submédio / Médio São Francisco",
       "lat": -9.65,
       "lng": -41.3,
-      "resumo": "As quatro vilas históricas e dezenas de povoados ribeirinhos cobertos entre 1972 e 1978 pelo reservatório de 4.214 km² da barragem de Sobradinho, cujo enchimento deslocou cerca de 72 mil pessoas — dando origem às 23 agrovilas da Serra do Ramalho, entre Bom Jesus da Lapa e Carinhanha.",
+      "resumo": "As quatro vilas históricas e dezenas de povoados ribeirinhos cobertos a partir de dezembro de 1976 pelo reservatório de 4.214 km² da barragem de Sobradinho, cujo enchimento deslocou cerca de 72 mil pessoas — dando origem às 23 agrovilas da Serra do Ramalho, entre Bom Jesus da Lapa e Carinhanha.",
       "quemEscreveu": [
         {
           "autor": "Wilson Lins",
@@ -2388,7 +2388,7 @@ window.MUSEU_EXTRAS = {
       "licenca": "dominio-publico",
       "verificacao": "verificado",
       "credito": "Expedição Adolpho Lutz e Astrogildo Machado (IOC), Entrada do Santuário de Bom Jesus da Lapa, 8 de maio de 1912. Acervo Casa de Oswaldo Cruz / Fiocruz. Domínio público. Versão em maior resolução reproduzida de Benchimol, J. L.; Sá, M. R. (org.). Adolpho Lutz: Obra Completa, v. 3, livro 3. Rio de Janeiro: Editora Fiocruz, 2007, fig. 43.",
-      "descricao": "Negativo de vidro tomado em 8 de maio de 1912 mostrando a escadaria, o cruzeiro de madeira e a capelinha branca ao pé do paredão de calcário da Lapa, nove anos após o incêndio de 1903.",
+      "descricao": "Negativo de vidro tomado em 8 de maio de 1912 mostrando a escadaria, o cruzeiro de madeira e a capelinha branca ao pé do paredão de calcário da Lapa, nove anos após o incêndio de 1903 (data a confirmar).",
       "citacaoOriginal": "“Passando por um braço do rio e ao lado duma lagoa, chegamos logo à gruta que deu o nome à cidade, tendo sido transformada em igreja, cujas festas são muito visitadas pelos fiéis.” (diário de Lutz, 8 maio 1912, ed. 2007, p. 213)",
       "original": "Casa de Oswaldo Cruz / Fiocruz (Rio de Janeiro) — Negativo de vidro original",
       "fontes": [
@@ -3799,7 +3799,7 @@ window.MUSEU_EXTRAS = {
     {
       "porto": "Casa Nova",
       "verso": "Casa Nova da carestia",
-      "nota": "Uma das quatro vilas históricas cobertas pelo lago de Sobradinho em 1977–1978."
+      "nota": "Uma das quatro vilas históricas cobertas pelo lago de Sobradinho, que encheu entre dezembro de 1976 e 1978."
     },
     {
       "porto": "Sento-Sé",
