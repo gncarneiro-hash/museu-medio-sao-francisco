@@ -95,7 +95,7 @@ window.MUSEU_EXTRAS = {
             "autor": "James W. Wells",
             "data": "Janeiro de 1875 (publ. 1886)",
             "obra": "Three Thousand Miles through Brazil, vol. II",
-            "citacao": "Chega a Carinhanha por terra no auge da cheia de janeiro de 1875, atravessa o rio numa balsa montada sobre canoas amarradas (ajoujo) e passa dez dias retido pelas chuvas na “cidade sonolenta” *(tradução livre)*, desenhando uma de suas ruas com casas térreas, igreja ao fundo e burros de carga.",
+            "citacao": "Chega a Carinhanha por terra no auge da cheia de janeiro de 1875, atravessa o rio numa balsa montada sobre canoas amarradas (ajoujo) e passa dez dias na “cidade sonolenta”, esperando a decisão do chefe da expedição sobre os próximos passos, *(tradução livre)*, desenhando uma de suas ruas com casas térreas, igreja ao fundo e burros de carga.",
             "verificacao": "verificado"
           },
           {
