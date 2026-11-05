@@ -356,11 +356,11 @@ window.MUSEU_EXTRAS = {
         },
         {
           "ano": "8 maio 1912",
-          "fato": "Chegam a Bom Jesus da Lapa às 9h30 da manhã vindos de Barreiras; visitam a gruta, escalam os lapiás do morro e fazem 5 fotografias da cidade e do rio."
+          "fato": "Chegam a Bom Jesus da Lapa às 9h30 da manhã, vindos do porto de lenha de Barreiras (não a cidade do rio Grande); visitam a gruta, sobem o morro e fotografam “a lapa, o morro, a cidade e a vista de cima”."
         },
         {
           "ano": "9 maio 1912",
-          "fato": "Percorrem a cavalo as lagoas da Lapa, coletam as primeiras 'paludinas' e observam a chegada noturna dos vapores Pirapora e Matta Machado com romeiros."
+          "fato": "Vão a cavalo a uma fazenda com uma lagoa permanente, cheia de 'paludinas' (caramujos aquáticos); enquanto estão fora, chega o vapor Pirapora."
         },
         {
           "ano": "10 maio 1912",
@@ -642,7 +642,7 @@ window.MUSEU_EXTRAS = {
       "nome": "William Milnor Roberts e Orville A. Derby",
       "datas": "Roberts (1810–1881) · Derby (1851–1915)",
       "papel": "Engenheiro-chefe e geólogo da Comissão Hidráulica do Império (1879–1880)",
-      "resumoCurto": "Lideraram o levantamento hidrográfico e geológico de 2.122 km do São Francisco em 1879–1880, projetando a desobstrução das corredeiras e o primeiro perfil geológico moderno do vale.",
+      "resumoCurto": "Lideraram o levantamento hidrográfico e geológico de 2.122 km do São Francisco em 1879–1880, projetando a desobstrução das corredeiras e um dos primeiros perfis geológicos modernos do vale.",
       "biografiaCompleta": "William Milnor Roberts, ex-presidente da Sociedade Americana de Engenheiros Civis e engenheiro-chefe da Northern Pacific Railroad, foi contratado em 1879 pelo Império do Brasil para chefiar a Comissão Hidráulica. Ao seu lado no exame do São Francisco esteve o geólogo norte-americano Orville Adelbert Derby (que mais tarde dirigiria a Comissão Geográfica e Geológica de São Paulo e o Serviço Geológico e Mineralógico do Brasil). Entre julho de 1879 e fevereiro de 1880, percorreram o rio da foz a Pirapora, medindo a vazão em Bom Jesus da Lapa (21–22 nov. 1879), orçando em 547:800$000 réis a abertura de canais nas corredeiras e descrevendo a geologia do serrote da Lapa.",
       "cronologia": [
         {
@@ -768,13 +768,13 @@ window.MUSEU_EXTRAS = {
         },
         {
           "ano": "1985",
-          "fato": "Falece centenário em Santa Maria da Vitória; Carlos Drummond de Andrade dedica-lhe poema no Jornal do Brasil."
+          "fato": "Falece centenário em Santa Maria da Vitória (a Galeria Estação registra 1987); Carlos Drummond de Andrade dedica-lhe poema no Jornal do Brasil."
         }
       ],
       "ondeEstaOriginal": {
         "instituicao": "Museu de Arte Moderna da Bahia (MAM-BA), MASP, Museu do Folclore Edison Carneiro (RJ), Acervo IMS e Oficina da família Guarany em Santa Maria da Vitória",
         "colecao": "Coleções de Arte Popular e Fotografia Etnográfica",
-        "link": "https://enciclopedia.itaucultural.org.br/pessoa215763/mestre-guarany",
+        "link": "https://galeriaestacao.com.br/en/artist/35/mestre-guarany",
         "comoPedir": "Fotografias sob licença CC disponíveis no Wikimedia Commons; ferramentas originais preservadas em Santa Maria da Vitória pelo prof. Jairo Rodrigues e oficina viva mantida pelo neto Júnio Guarany."
       },
       "publicacoesExposicoes": [
@@ -1137,7 +1137,7 @@ window.MUSEU_EXTRAS = {
         {
           "autor": "Adolpho Lutz e Astrogildo Machado",
           "ano": "1912",
-          "trecho": "Chegam de vapor em 8 de maio de 1912, fazem 5 fotografias em negativo de vidro e papel, estudam as gameleiras na rocha, as lagoas e os barbeiros transmissores de Chagas."
+          "trecho": "Chegam de vapor em 8 de maio de 1912, fotografam a gruta, o morro e a cidade, anotam as figueiras presas aos paredões, as lagoas e o barbeiro Triatoma sordida, e registram “bastante impaludismo”."
         },
         {
           "autor": "F. Nery Guimarães, Gautherot e Verger",
@@ -1344,7 +1344,7 @@ window.MUSEU_EXTRAS = {
           "duracao": "75 min · Ficção",
           "descricao": "Ficção filmada e ambientada na Serra do Ramalho, retomando no título o apelido oficial usado pelo regime militar para o projeto de colonização.",
           "acervo": "Coletivo Filmes / Referência: Cinelatino Toulouse",
-          "link": "https://www.cinelatino.fr/film/a-cidade-do-futuro"
+          "link": "https://www.cinelatino.fr/?p=8892"
         },
         {
           "titulo": "Sobradinho",
@@ -1353,7 +1353,7 @@ window.MUSEU_EXTRAS = {
           "duracao": "70 min · Documentário",
           "descricao": "Acompanha dona Pequenita, a única antiga moradora que voltou e vive na cidade-fantasma à beira do lago, revendo vídeos e fotografias antigas.",
           "acervo": "Coletivo Filmes / Referência: 44.ª Mostra Internacional de Cinema de São Paulo",
-          "link": "https://44.mostra.org/filmes/sobradinho"
+          "link": "https://mostra.org/en/arquivo/filme/10236"
         }
       ],
       "salasRelacionadas": [
@@ -1566,7 +1566,7 @@ window.MUSEU_EXTRAS = {
           "duracao": "75 min e 70 min",
           "descricao": "Ficção ambientada na Serra do Ramalho (2016) e documentário com dona Pequenita na antiga Sobradinho (2020).",
           "acervo": "Coletivo Filmes / 44.ª Mostra Internacional de Cinema de São Paulo",
-          "link": "https://44.mostra.org/filmes/sobradinho"
+          "link": "https://mostra.org/en/arquivo/filme/10236"
         }
       ],
       "salasRelacionadas": [
@@ -1831,7 +1831,7 @@ window.MUSEU_EXTRAS = {
       "lng": -41.3,
       "sala": 17,
       "cidadeId": "sobradinho-cidades-submersas",
-      "resumo": "Reservatório de 4.214 km² que cobriu Casa Nova, Remanso, Sento Sé e Pilão Arcado (1972–1978)."
+      "resumo": "Reservatório de 4.214 km² que cobriu Casa Nova, Remanso, Sento Sé e Pilão Arcado (obras de 1972 a 1978; o lago começou a encher em dezembro de 1976)."
     },
     {
       "id": "pt-juazeiro",
@@ -2615,7 +2615,7 @@ window.MUSEU_EXTRAS = {
       "credito": "Peter von Gunten (dir.), Terra Roubada (Geraubte Erde, 1980, 55 min, 16 mm) e Terra Prometida (Gelobtes Land, 1993). Suíça. Referência documental: Canoa de Tolda. Direitos reservados.",
       "descricao": "Resenha crítica: Rodado parcialmente na clandestinidade em 1980 (55 min, 16 mm), 'Terra Roubada' (Geraubte Erde) expõe o impacto humano da barragem de Sobradinho: a submersão de Casa Nova, Sento Sé, Remanso e Pilão Arcado, a expulsão de mais de 70 mil ribeirinhos, a atuação da CHESF, o embate em torno da transferência para o PEC Serra do Ramalho e a precarização dos camponeses nos projetos de cana-de-açúcar e agroexportação. Sua continuação, 'Terra Prometida' (1993), acompanha as famílias que ficaram na caatinga em São Gonçalo da Serra.",
       "citacaoOriginal": "",
-      "original": "Acervo Peter von Gunten (Suíça) — Filme completo no YouTube: https://www.youtube.com/watch?v=kFfzEiKfQcY | Referência: https://canoadetolda.org.br/noticias/sobradinho-39-anos-terra-roubada-geraubte-erde-documentario-de-peter-von-gunten/",
+      "original": "Acervo Peter von Gunten (Suíça) — Filme completo no YouTube: https://www.youtube.com/watch?v=kFfzEiKfQcY",
       "fontes": [
         "Gunten, Peter von (dir.). Terra Roubada (Geraubte Erde), 1980, 55 min, 16 mm (disponível em https://www.youtube.com/watch?v=kFfzEiKfQcY).",
         "Canoa de Tolda. 'Sobradinho 39 anos – Terra Roubada (Geraubte Erde), documentário de Peter von Gunten'.",
@@ -2639,7 +2639,7 @@ window.MUSEU_EXTRAS = {
       "credito": "Cláudio Marques e Marília Hughes (dir.), A Cidade do Futuro (2016, ficção) e Sobradinho (2020, documentário, 70 min). Coletivo Filmes. Direitos reservados.",
       "descricao": "A Cidade do Futuro (2016) é uma ficção filmada e ambientada na Serra do Ramalho, retomando no título o apelido oficial dado pelo regime militar ao Projeto Especial de Colonização. Sobradinho (2020, 70 min) acompanha dona Pequenita, a única antiga moradora que voltou e vive na cidade-fantasma, revendo vídeos e fotos antigas.",
       "citacaoOriginal": "",
-      "original": "Coletivo Filmes (Salvador, BA) — Referências: Cinelatino (https://www.cinelatino.fr/film/a-cidade-do-futuro) e 44.ª Mostra de SP (https://44.mostra.org/filmes/sobradinho)",
+      "original": "Coletivo Filmes (Salvador, BA) — Referências: Cinelatino (https://www.cinelatino.fr/?p=8892) e 44.ª Mostra de SP (https://mostra.org/en/arquivo/filme/10236)",
       "fontes": [
         "Cinelatino. 'A Cidade do Futuro (Cláudio Marques e Marília Hughes, 2016)'.",
         "44.ª Mostra Internacional de Cinema de São Paulo. 'Sobradinho (Cláudio Marques e Marília Hughes, 2020, 70 min)'."
