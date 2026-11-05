@@ -100,9 +100,9 @@ window.MUSEU_EXTRAS = {
           },
           {
             "autor": "Theodoro Sampaio",
-            "data": "25 nov. e 22 dez. 1879 (publ. 1880 / 1905)",
-            "obra": "O Rio São Francisco e a Chapada Diamantina e Annexo N.º 2 (10 abr. 1880)",
-            "citacao": "Acha Carinhanha “maior do que a do Urubu”, com comércio ativo com o norte de Minas e Goiás, escolas públicas bem frequentadas e fabricação de chapéus de palha e de couro “imitando o chapéu de Manilha”. Na Malhada critica a barreira fiscal mineira que cobrava imposto de toda embarcação. Em 22 de dezembro de 1879, ao voltar de Pirapora, encontra Carinhanha ocupada por forças que fugiam do conflito político de Januária.",
+            "data": "24–27 nov. e 22–25 dez. 1879 (publ. 1905)",
+            "obra": "O Rio de S. Francisco e A Chapada Diamantina (1905), p. 63–64 e 93–94",
+            "citacao": "Em 24 de novembro de 1879 acha a vila de Carinhanha “maior do que a do Urubú, e melhor ainda o aspecto das suas edificações”, vê “as escolas bem frequentadas” e admira os artífices que faziam chapéus de couro, “obra fina e delicada, imitando o conhecido chapeo de Manilha”, a 4 ou 5$000 cada um. Diante da Malhada, na barra do rio Carinhanha, anota a barreira que o governo de Minas montara para cobrar taxa de toda embarcação. Em 22 de dezembro, de volta de Pirapora, encontra a vila em poder dos vencedores da luta de Januária: “As auctoridades sumiram-se, e os criminosos e assassinos dominavam.” Parte a cavalo na tarde de 25 de dezembro.",
             "verificacao": "verificado"
           },
           {
@@ -172,9 +172,9 @@ window.MUSEU_EXTRAS = {
           },
           {
             "autor": "Theodoro Sampaio",
-            "data": "21–22 de novembro de 1879 (publ. 1905 / 1932)",
-            "obra": "O Rio São Francisco e a Chapada Diamantina",
-            "citacao": "“O serrote da Lapa é um retalho de montanha calcárea, isolado no meio de uma planície de aluvião.” Na manhã de 22 de novembro de 1879, às 6h30, sobe a escadaria com Orville Derby para visitar a gruta e escalar os lapiás do topo. Observa que a povoação vivia quase exclusivamente das esmolas da romaria (agosto e setembro) e que os chefes políticos locais disputavam até o cargo de sacristão para controlar as rendas do santuário.",
+            "data": "21–22 de novembro de 1879 (publ. 1905)",
+            "obra": "O Rio de S. Francisco e A Chapada Diamantina (1905), p. 57–60",
+            "citacao": "“A Lapa é um sanctuario e um prodigio da natureza.” O serrote é “um retalho de montanha calcarea, isolado no meio de uma planicie”, e ao seu pé encosta “a barca do commerciante que jamais passa sem aportar, como a embarcação mais humilde do romeiro que vem de longe e de toda parte”. Às 6h30 da manhã de 22 de novembro, Sampaio toca o sino “como signal de romeiro á porta” e encontra a capela ocupada “por uma multidão andrajosa”; depois sobe o serrote com Orville Derby. Um informante lhe conta que os coronéis disputavam até o cargo de sacristão e que o lugar não era paróquia nem vila porque “essa gente não quer fiscaes”.",
             "verificacao": "verificado"
           },
           {
@@ -219,6 +219,13 @@ window.MUSEU_EXTRAS = {
             "obra": "Relatorio da Commissão Hydraulica e Diário de Viagem",
             "citacao": "Passam pela barra do Corrente e pelo Sítio do Mato no dia 20 de novembro de 1879, véspera da chegada a Bom Jesus da Lapa, medindo a contribuição decisiva do afluente para o canal navegável do São Francisco.",
             "verificacao": "verificado"
+          },
+          {
+            "autor": "Theodoro Sampaio",
+            "data": "novembro de 1879, entre o Urubu (18) e a Lapa (21) (publ. 1905)",
+            "obra": "O Rio de S. Francisco e A Chapada Diamantina (1905), p. 55–56",
+            "verificacao": "verificado",
+            "citacao": "“No Sitio do Matto, um povoado pobre, com umas cem casas construidas sobre uma barranca alta de cerca de 8 metros”, a comissão passou dois dias tirando lenha para o vapor. Os moradores relutavam: a lenha ficava longe, não tinham ferramentas nem quem ajudasse a carregar, precisavam de dinheiro adiantado para a comida; “um delles allegava a sua maleita, que não deixava de vir todas as tardes, outro tinha a mulher doente”. Na caatinga, Sampaio mediu seis metros de circunferência numa das cinco barrigudas gigantes que encontrou."
           }
         ]
       },
@@ -243,10 +250,10 @@ window.MUSEU_EXTRAS = {
             "verificacao": "verificado"
           },
           {
-            "autor": "Theodoro Sampaio e Milnor Roberts",
-            "data": "18 de novembro de 1879 e janeiro de 1880",
-            "obra": "O Rio São Francisco (1905) e Annexo N.º 2 (1880)",
-            "citacao": "A Comissão Hidráulica passa pelo Urubu em 18 de novembro de 1879 subindo o rio; em janeiro de 1880, na viagem a cavalo de volta, Sampaio deixa a margem do São Francisco pouco abaixo do Urubu para tomar a estrada sertaneja rumo a Macaúbas, Caetité e Rio de Contas.",
+            "autor": "Theodoro Sampaio",
+            "data": "17–18 de novembro de 1879 (publ. 1905)",
+            "obra": "O Rio de S. Francisco e A Chapada Diamantina (1905), p. 53–55",
+            "citacao": "A comissão chega ao Urubu ao meio-dia de 17 de novembro de 1879, depois de uma noite de chuva, e parte no dia 18. Sampaio descreve “uma villa pobre, das mais antigas do sertão”: a igreja de Santo Antônio, do começo do século XVIII, em ruína e usada para enterramentos; a cadeia, que “pareceu-nos mais um gallinheiro”, onde um rapaz preso pelos pés num tronco, por furto de gado, recebia a comida e um fogo aceso ao lado todas as noites; e uma freguesia tão extensa que, segundo o vigário, “chegava a dar quatrocentos conscriptos para o exercito”.",
             "verificacao": "verificado"
           }
         ]
@@ -283,7 +290,7 @@ window.MUSEU_EXTRAS = {
           "Vila do Urubu / Paratinga (margem direita, BA)",
           "160 casas · ~800 habitantes",
           "~200 casas",
-          "Antiga cabeça de comarca; ponto onde Sampaio deixa o rio rumo a Caetité e Chapada Diamantina"
+          "Antiga cabeça de comarca; Sampaio a visita em 17 nov. 1879 e encontra a igreja de Santo Antônio em ruína"
         ]
       ]
     }
@@ -578,7 +585,7 @@ window.MUSEU_EXTRAS = {
       "datas": "Santo Amaro da Purificação (BA), 1855 – Rio de Janeiro, 1937",
       "papel": "Engenheiro da Comissão Hidráulica (1879–1880), geógrafo, historiador e desenhista",
       "resumoCurto": "Filho de mulher negra escravizada que se tornou um dos maiores engenheiros e intelectuais do Brasil; subiu o São Francisco até Pirapora em 1879 e voltou a cavalo de Carinhanha à Bahia.",
-      "biografiaCompleta": "Nascido no engenho Canabrava, em Santo Amaro (BA), filho da escravizada Domingas da Paixão, Theodoro Fernandes Sampaio formou-se em engenharia civil na Escola Politécnica do Rio de Janeiro (1877) e comprou a alforria da mãe e dos irmãos. Em 1879, aos 24 anos, foi escolhido como engenheiro de 2ª classe e desenhista da Comissão Hidráulica do Império chefiada por W. Milnor Roberts. Subiu o São Francisco da foz a Pirapora (visitando Bom Jesus da Lapa em 21–22 de novembro de 1879) e, em 22 de dezembro de 1879, desembarcou em Carinhanha para percorrer 835 km a cavalo em 35 dias pela margem direita (Malhada, Rio das Rãs, Lapa, Urubu) e pela Chapada Diamantina até Salvador — jornada documentada no Annexo N.º 2 (10 de abril de 1880) e no clássico livro de 1905.",
+      "biografiaCompleta": "Nascido no engenho Canabrava, em Santo Amaro (BA), filho da escravizada Domingas da Paixão, Theodoro Fernandes Sampaio formou-se em engenharia civil na Escola Politécnica do Rio de Janeiro (1877) e comprou a alforria da mãe e dos irmãos. Em 1879, aos 24 anos, foi escolhido como engenheiro de 2ª classe e desenhista da Comissão Hidráulica do Império chefiada por W. Milnor Roberts. Subiu o São Francisco da foz a Pirapora (visitando Bom Jesus da Lapa em 21–22 de novembro de 1879) e, em 22 de dezembro de 1879, desembarcou em Carinhanha para percorrer 835 km a cavalo em 35 dias pelo vale do rio das Rãs, Monte Alto e Caetité e pela Chapada Diamantina até Salvador — jornada documentada no Annexo N.º 2 (10 de abril de 1880) e no clássico livro de 1905.",
       "cronologia": [
         {
           "ano": "1855",
@@ -593,8 +600,12 @@ window.MUSEU_EXTRAS = {
           "fato": "Chega a Bom Jesus da Lapa com a Comissão Hidráulica; sobe o serrote e visita a gruta às 6h30 com Orville Derby."
         },
         {
+          "ano": "24–28 nov. 1879",
+          "fato": "Em Carinhanha, elogia as escolas e os chapéus de couro; no Jacaré, encontra o Neco à frente de “um verdadeiro exercito de jagunços”."
+        },
+        {
           "ano": "22 dez. 1879 – jan. 1880",
-          "fato": "Desembarca em Carinhanha e faz a travessia a cavalo de 835 km em 35 dias por Malhada, Rio das Rãs, Lapa, Urubu, Caetité e Chapada Diamantina."
+          "fato": "Desembarca em Carinhanha e faz a travessia a cavalo de 835 km em 35 dias pelo vale do rio das Rãs, Monte Alto, Caetité e Chapada Diamantina."
         },
         {
           "ano": "10 abr. 1880",
@@ -613,7 +624,7 @@ window.MUSEU_EXTRAS = {
       },
       "publicacoesExposicoes": [
         "Sampaio, Theodoro. 'Annexo N.º 2 (10 de abril de 1880)', em Relatorio de W. Milnor Roberts sobre o exame do Rio S. Francisco. Rio de Janeiro: Typographia Nacional, 1880.",
-        "Sampaio, Theodoro. O Rio de S. Francisco (trechos de um diário de viagem) e a Chapada Diamantina. São Paulo: Escolas Profissionaes Salesianas, 1905.",
+        "Sampaio, Theodoro. O Rio de S. Francisco (trechos de um diário de viagem) e a Chapada Diamantina. São Paulo: Escolas Profissionaes Salesianas, 1905 (digitalizado pela Biblioteca Brasiliana Guita e José Mindlin, USP: https://digital.bbm.usp.br/handle/bbm/7615).",
         "Transcrição integral do Relatório de 1880 e Annexo N.º 2 em EPUB pelo Museu do Médio São Francisco (2026)."
       ],
       "salasRelacionadas": [

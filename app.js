@@ -747,7 +747,7 @@
               html += '            <strong class="text-[#1d3b53] block text-sm">' + esc(comp.theodoro.nome) + '</strong>';
               html += '            <span class="block text-[11px] text-[#a86f25] font-semibold mt-0.5">' + esc(comp.theodoro.papel) + '</span>';
               html += '            <p class="text-[11px] text-[#5a5248] mt-1.5 leading-snug">' + esc(comp.theodoro.citacao) + '</p>';
-              html += '            <span class="inline-block mt-2 text-[10px] px-2 py-0.5 rounded bg-[#fff3cd] text-[#856404] font-medium border border-[#ffeeba]">a-confirmar no original</span>';
+              if (comp.theodoro.verificacao !== "verificado") html += '            <span class="inline-block mt-2 text-[10px] px-2 py-0.5 rounded bg-[#fff3cd] text-[#856404] font-medium border border-[#ffeeba]">a-confirmar no original</span>';
               html += '          </div>';
               html += '        </div>';
             }

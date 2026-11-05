@@ -288,7 +288,7 @@
     "datas": "Santo Amaro da Purificação (BA), 1855 – Rio de Janeiro, 1937",
     "papel": "Engenheiro da Comissão Hidráulica (1879–1880), geógrafo, historiador e desenhista",
     "resumoCurto": "Filho de mulher negra escravizada que se tornou um dos maiores engenheiros e intelectuais do Brasil; subiu o São Francisco até Pirapora em 1879 e voltou a cavalo de Carinhanha à Bahia.",
-    "biografiaCompleta": "Nascido no engenho Canabrava, em Santo Amaro (BA), filho da escravizada Domingas da Paixão, Theodoro Fernandes Sampaio formou-se em engenharia civil na Escola Politécnica do Rio de Janeiro (1877) e comprou a alforria da mãe e dos irmãos. Em 1879, aos 24 anos, foi escolhido como engenheiro de 2ª classe e desenhista da Comissão Hidráulica do Império chefiada por W. Milnor Roberts. Subiu o São Francisco da foz a Pirapora (visitando Bom Jesus da Lapa em 21–22 de novembro de 1879) e, em 22 de dezembro de 1879, desembarcou em Carinhanha para percorrer 835 km a cavalo em 35 dias pela margem direita (Malhada, Rio das Rãs, Lapa, Urubu) e pela Chapada Diamantina até Salvador — jornada documentada no Annexo N.º 2 (10 de abril de 1880) e no clássico livro de 1905.",
+    "biografiaCompleta": "Nascido no engenho Canabrava, em Santo Amaro (BA), filho da escravizada Domingas da Paixão, Theodoro Fernandes Sampaio formou-se em engenharia civil na Escola Politécnica do Rio de Janeiro (1877) e comprou a alforria da mãe e dos irmãos. Em 1879, aos 24 anos, foi escolhido como engenheiro de 2ª classe e desenhista da Comissão Hidráulica do Império chefiada por W. Milnor Roberts. Subiu o São Francisco da foz a Pirapora (visitando Bom Jesus da Lapa em 21–22 de novembro de 1879) e, em 22 de dezembro de 1879, desembarcou em Carinhanha para percorrer 835 km a cavalo em 35 dias pelo vale do rio das Rãs, Monte Alto e Caetité e pela Chapada Diamantina até Salvador — jornada documentada no Annexo N.º 2 (10 de abril de 1880) e no clássico livro de 1905.",
     "cronologia": [
       {
         "ano": "1855",
@@ -303,8 +303,12 @@
         "fato": "Chega a Bom Jesus da Lapa com a Comissão Hidráulica; sobe o serrote e visita a gruta às 6h30 com Orville Derby."
       },
       {
+        "ano": "24–28 nov. 1879",
+        "fato": "Em Carinhanha, elogia as escolas e os chapéus de couro; no Jacaré, encontra o Neco à frente de “um verdadeiro exercito de jagunços”."
+      },
+      {
         "ano": "22 dez. 1879 – jan. 1880",
-        "fato": "Desembarca em Carinhanha e faz a travessia a cavalo de 835 km em 35 dias por Malhada, Rio das Rãs, Lapa, Urubu, Caetité e Chapada Diamantina."
+        "fato": "Desembarca em Carinhanha e faz a travessia a cavalo de 835 km em 35 dias pelo vale do rio das Rãs, Monte Alto, Caetité e Chapada Diamantina."
       },
       {
         "ano": "10 abr. 1880",
@@ -323,7 +327,7 @@
     },
     "publicacoesExposicoes": [
       "Sampaio, Theodoro. 'Annexo N.º 2 (10 de abril de 1880)', em Relatorio de W. Milnor Roberts sobre o exame do Rio S. Francisco. Rio de Janeiro: Typographia Nacional, 1880.",
-      "Sampaio, Theodoro. O Rio de S. Francisco (trechos de um diário de viagem) e a Chapada Diamantina. São Paulo: Escolas Profissionaes Salesianas, 1905.",
+      "Sampaio, Theodoro. O Rio de S. Francisco (trechos de um diário de viagem) e a Chapada Diamantina. São Paulo: Escolas Profissionaes Salesianas, 1905 (digitalizado pela Biblioteca Brasiliana Guita e José Mindlin, USP: https://digital.bbm.usp.br/handle/bbm/7615).",
       "Transcrição integral do Relatório de 1880 e Annexo N.º 2 em EPUB pelo Museu do Médio São Francisco (2026)."
     ],
     "salasRelacionadas": [
