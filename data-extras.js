@@ -778,6 +778,10 @@ window.MUSEU_EXTRAS = {
           "fato": "Segunda fase da carreira: esculpe carrancas autônomas assinadas 'F. Guarany', expostas no MASP (1969, 1975) e no FESTAC 77 em Lagos (Nigéria)."
         },
         {
+          "ano": "jan.–fev. 1977",
+          "fato": "Participa da exposição brasileira The Impact of African Culture on Brazil, no FESTAC 77, em Lagos (Nigéria), com curadoria de Clarival do Prado Valladares; o catálogo o apresenta como símbolo da mestiçagem brasileira."
+        },
+        {
           "ano": "1985",
           "fato": "Falece centenário em Santa Maria da Vitória (a Galeria Estação registra 1987); Carlos Drummond de Andrade dedica-lhe poema no Jornal do Brasil."
         }
@@ -3760,7 +3764,7 @@ window.MUSEU_EXTRAS = {
       "eixo": 12,
       "tema": "Transformações do Século XX",
       "verificacao": "verificado",
-      "texto": "Nasce a Comissão do Vale do São Francisco (1948); Noel Nutels cria o Serviço de Unidades Sanitárias Aéreas (1956) e filma na Lapa; em 1974 é criada a Codevasf e implantado o Perímetro Irrigado Formoso.",
+      "texto": "Nasce a Comissão do Vale do São Francisco (1948); Noel Nutels cria o Serviço de Unidades Sanitárias Aéreas (1956) e filma na Lapa; em 1974 é criada a Codevasf, que a partir de 1988 implanta o Perímetro Irrigado Formoso.",
       "fonte": "Leis 541/1948 e 6.088/1974; Acervo Fiocruz (2000)"
     },
     {
